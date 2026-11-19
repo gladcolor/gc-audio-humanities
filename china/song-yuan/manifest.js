@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/song-yuan", "voice": "serena", "en": "037a2e1d 36dbbe4b 370e49b7 3f01229b 49595153 51846f6b 60e44585 76abbd30 844d8e6b 87a40534 903479c4 9cfa7e3c cc1dac1f e079f5dd e73973ef ef2c4142 f60ceb09", "zh": "0358b986 11e17da7 124a94bd 64a5c5a3 6682fde9 6828baf8 6e6a05fe 8dd3d426 92d236d3 97b25117 9a0fec18 a0700876 ba4a0c52 c2f5a28e c697830a ccb55485 ec2c8791"});
