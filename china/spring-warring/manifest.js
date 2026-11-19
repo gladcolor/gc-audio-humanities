@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/spring-warring", "voice": "serena", "en": "00ddd79b 11813d71 20502c01 420609c4 87a47028 8b430263 8bffd2b0 95e821fc aaafd8a9 ca433d71 ccea57be cd8aa09f ed439d27 f95fe81a f99a96dc", "zh": "12c68bc8 21e2cf92 34a48566 3d39276e 53235b40 65b61ae2 75b07941 7f325087 9b758590 ba2ff95b bc1044b4 e2dfbba5 eb1368fe f2d4c937 f7437b53"});

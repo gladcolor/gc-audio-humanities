@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:12:32",
   "verified": ""
  },
+ "china/spring-warring": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 30,
+   "total": 30
+  },
+  "fingerprint": "6264919761e1",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/spring-warring.html",
+  "title": {
+   "en": "Spring & Autumn and Warring States",
+   "zh": "春秋战国：变革与百家争鸣"
+  },
+  "updated": "2026-11-19 18:12:47",
+  "verified": ""
+ },
  "china/xia-shang-zhou": {
   "counts": {
    "done": 0,
