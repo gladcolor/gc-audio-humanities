@@ -644,5 +644,24 @@
   },
   "updated": "2026-11-19 18:12:40",
   "verified": ""
+ },
+ "politics/constitution": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 17,
+   "old": 18,
+   "total": 35
+  },
+  "fingerprint": "e176914b6151",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/constitution.html",
+  "title": {
+   "en": "The Constitution: The Fundamental Law",
+   "zh": "坚持宪法至上"
+  },
+  "updated": "2026-11-19 18:16:06",
+  "verified": ""
  }
 }
