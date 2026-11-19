@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/strategy-battles", "voice": "serena", "en": "0808d90e 0a900bb9 0b4ed0e1 1294c41d 4a8288b6 652dcbed 6f863fce 82032c98 9a939694 ab1a4d38 ae7bd14d c5e8d049 c7fde589 df2d2e59 f630bc85 f8c03aa0", "zh": "0eb7970c 22edc141 279a4680 42ebda3f 54bb075f 5da3c09e 5dd135a7 7b033d2a 8ad43e6a acf7347b b8a84cc8 da8a5896 ec065b26"});

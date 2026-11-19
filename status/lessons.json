@@ -322,6 +322,25 @@
   "updated": "2026-11-19 18:12:47",
   "verified": ""
  },
+ "china/strategy-battles": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 11,
+   "old": 29,
+   "total": 40
+  },
+  "fingerprint": "3e07ea4ae516",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/strategy-battles.html",
+  "title": {
+   "en": "Strategy & Famous Battles",
+   "zh": "兵法与著名战役"
+  },
+  "updated": "2026-11-19 18:14:43",
+  "verified": ""
+ },
  "china/sui-tang": {
   "counts": {
    "done": 0,
