@@ -94,6 +94,25 @@
   "updated": "2026-11-19 18:13:35",
   "verified": ""
  },
+ "china/prc": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 7,
+   "old": 23,
+   "total": 30
+  },
+  "fingerprint": "837b17e8767a",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/prc.html",
+  "title": {
+   "en": "The People’s Republic of China",
+   "zh": "中华人民共和国的成立与发展"
+  },
+  "updated": "2026-11-19 18:13:49",
+  "verified": ""
+ },
  "china/qin-han": {
   "counts": {
    "done": 0,
