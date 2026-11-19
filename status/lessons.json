@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:23:18",
   "verified": ""
  },
+ "economics/econ-personal-finance": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 4,
+   "old": 12,
+   "total": 16
+  },
+  "fingerprint": "7085eeb8834e",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/economics/econ-personal-finance.html",
+  "title": {
+   "en": "Personal Finance",
+   "zh": "个人理财"
+  },
+  "updated": "2026-11-19 18:23:23",
+  "verified": ""
+ },
  "economics/econ-scarcity": {
   "counts": {
    "done": 0,
