@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:16:12",
   "verified": ""
  },
+ "politics/state-organs": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 7,
+   "old": 16,
+   "total": 23
+  },
+  "fingerprint": "b34028614580",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/state-organs.html",
+  "title": {
+   "en": "State Organs of China",
+   "zh": "我国的国家机构"
+  },
+  "updated": "2026-11-19 18:16:24",
+  "verified": ""
+ },
  "politics/state-system": {
   "counts": {
    "done": 0,
