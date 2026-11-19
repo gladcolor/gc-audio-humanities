@@ -645,6 +645,25 @@
   "updated": "2026-11-19 18:12:40",
   "verified": ""
  },
+ "politics/china-world": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 4,
+   "old": 48,
+   "total": 52
+  },
+  "fingerprint": "7c74c13540b4",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/china-world.html",
+  "title": {
+   "en": "China and the World",
+   "zh": "我们共同的世界 · 世界舞台上的中国"
+  },
+  "updated": "2026-11-19 18:16:46",
+  "verified": ""
+ },
  "politics/constitution": {
   "counts": {
    "done": 0,

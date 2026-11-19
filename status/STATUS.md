@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-19 18:16:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 18:16:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -38,6 +38,7 @@ Updated 2026-11-19 18:16:39. Labels: finished / in progress / no audio / failed 
 | china/three-gorges | old voice | 0 | 19 | 0 | 0 | 0 | 2026-11-19 18:15:25 |  |
 | china/unity-diplomacy | no audio | 0 | 15 | 9 | 0 | 0 | 2026-11-19 18:14:13 |  |
 | china/xia-shang-zhou | no audio | 0 | 28 | 3 | 0 | 0 | 2026-11-19 18:12:40 |  |
+| politics/china-world | no audio | 0 | 48 | 4 | 0 | 0 | 2026-11-19 18:16:46 |  |
 | politics/constitution | no audio | 0 | 18 | 17 | 0 | 0 | 2026-11-19 18:16:06 |  |
 | politics/core-values | no audio | 0 | 12 | 12 | 0 | 0 | 2026-11-19 18:16:34 |  |
 | politics/development | no audio | 0 | 6 | 7 | 0 | 0 | 2026-11-19 18:16:39 |  |
