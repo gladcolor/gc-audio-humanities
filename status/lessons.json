@@ -37,6 +37,25 @@
   "updated": "2026-11-19 18:14:37",
   "verified": ""
  },
+ "china/china-space": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 26,
+   "total": 26
+  },
+  "fingerprint": "920801445904",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/china-space.html",
+  "title": {
+   "en": "China in Space: From Dongfanghong to Chang’e",
+   "zh": "中国航天：从东方红到嫦娥"
+  },
+  "updated": "2026-11-19 18:14:54",
+  "verified": ""
+ },
  "china/division-integration": {
   "counts": {
    "done": 0,
