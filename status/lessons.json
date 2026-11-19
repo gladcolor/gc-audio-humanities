@@ -1195,5 +1195,24 @@
   },
   "updated": "2026-11-19 18:21:32",
   "verified": ""
+ },
+ "ushistory/us-constitution": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 8,
+   "old": 11,
+   "total": 19
+  },
+  "fingerprint": "26a2b898a46b",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/ushistory/us-constitution.html",
+  "title": {
+   "en": "The Constitution & Bill of Rights",
+   "zh": "美国宪法与《权利法案》"
+  },
+  "updated": "2026-11-19 18:21:38",
+  "verified": ""
  }
 }
