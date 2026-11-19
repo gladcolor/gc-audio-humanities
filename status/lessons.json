@@ -208,6 +208,25 @@
   "updated": "2026-11-19 18:14:06",
   "verified": ""
  },
+ "china/population-resources": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 41,
+   "total": 41
+  },
+  "fingerprint": "6e0ea3235a07",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/population-resources.html",
+  "title": {
+   "en": "Population, Ethnic Groups & Resources",
+   "zh": "人口、民族与自然资源"
+  },
+  "updated": "2026-11-19 18:15:13",
+  "verified": ""
+ },
  "china/prc": {
   "counts": {
    "done": 0,

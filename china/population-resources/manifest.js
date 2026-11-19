@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/population-resources", "voice": "serena", "en": "21aa708d 2f520206 306b62f3 5bc3f2da 602e2151 89437b55 a30729fd b7e86f50 ca314f7b", "zh": "0131e620 07a2140a 07f29e0a 1af02cbe 356c7ee4 36e2062b 49b8fb84 49d11b67 4f602136 57e1ea06 5a854e1b 62bb801a 69ef9ed0 6b28987f 809e8c94 8d612380 91d52976 9ad59dac a659cc1a a79785ad a82a5826 ab8bebd6 af4e32c4 b16a55b9 bc63ad49 ccbadf24 d001f7cf d0193664 d2ad2d03 f062f575 f8c44ff0 fb37ddbc"});
