@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:17:37",
   "verified": ""
  },
+ "geography/time-zones": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 132,
+   "old": 444,
+   "total": 576
+  },
+  "fingerprint": "00c8d7dbe691",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/time-zones.html",
+  "title": {
+   "en": "Time Zones",
+   "zh": "时区"
+  },
+  "updated": "2026-11-19 18:18:29",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
