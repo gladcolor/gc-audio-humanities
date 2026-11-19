@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:22:57",
   "verified": ""
  },
+ "economics/econ-supply-demand": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 11,
+   "total": 11
+  },
+  "fingerprint": "da9cd706bb5c",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/economics/econ-supply-demand.html",
+  "title": {
+   "en": "Supply, Demand & Prices",
+   "zh": "供给、需求与价格"
+  },
+  "updated": "2026-11-19 18:23:08",
+  "verified": ""
+ },
  "economics/econ-systems": {
   "counts": {
    "done": 0,
