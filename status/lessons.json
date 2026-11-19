@@ -94,6 +94,25 @@
   "updated": "2026-11-19 18:13:35",
   "verified": ""
  },
+ "china/new-era": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 1,
+   "old": 42,
+   "total": 43
+  },
+  "fingerprint": "08df68ef9ab3",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/new-era.html",
+  "title": {
+   "en": "The New Era",
+   "zh": "中国特色社会主义新时代"
+  },
+  "updated": "2026-11-19 18:14:06",
+  "verified": ""
+ },
  "china/prc": {
   "counts": {
    "done": 0,
