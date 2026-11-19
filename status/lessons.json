@@ -189,6 +189,25 @@
   "updated": "2026-11-19 18:13:35",
   "verified": ""
  },
+ "china/natural-wonders": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "b4870003e3e0",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/natural-wonders.html",
+  "title": {
+   "en": "China’s Natural Wonders: How Were They Made?",
+   "zh": "中国的自然奇观：它们是怎样形成的"
+  },
+  "updated": "2026-11-19 18:15:31",
+  "verified": ""
+ },
  "china/new-era": {
   "counts": {
    "done": 0,
