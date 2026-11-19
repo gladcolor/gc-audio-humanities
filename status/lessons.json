@@ -17,5 +17,24 @@
   },
   "updated": "2026-11-19 18:12:32",
   "verified": ""
+ },
+ "china/xia-shang-zhou": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 28,
+   "total": 31
+  },
+  "fingerprint": "6f4525f22052",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/xia-shang-zhou.html",
+  "title": {
+   "en": "Xia, Shang & Zhou: The Bronze Age",
+   "zh": "夏商周：早期国家与青铜文明"
+  },
+  "updated": "2026-11-19 18:12:40",
+  "verified": ""
  }
 }

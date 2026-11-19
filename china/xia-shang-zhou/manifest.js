@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/xia-shang-zhou", "voice": "serena", "en": "0dbc0f85 0f8e33db 117f17c8 233587cd 24f78744 2c5dfa02 4e156c7c 5c260e00 64e942c8 6eca1e25 71e7754a 8ce10d10 aeab932b bc77cfa9 ef422cfd", "zh": "163b875d 177d8502 1ddb2504 2cfa0106 31609658 658d0239 9ab35273 c4691c63 c6e72bf6 d337feff d9d91388 e8a8e88b eea2b0cd"});
