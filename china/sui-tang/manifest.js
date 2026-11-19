@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/sui-tang", "voice": "serena", "en": "04105ad0 1eab9a22 22760d21 230b0575 2d570ec4 52373829 62360c89 65372fb3 7bb95e06 872d5013 9b16e573 a9ac8c54 b82772c7 ff405b0a", "zh": "131a9277 1d0955ff 3ba3a438 425efc47 4efc382f 5e0d355f 66ec9d10 a34eb862 a37e01ca aede34dc b0c8fe7a d3bd0486 e2012bb4 edff6129"});
