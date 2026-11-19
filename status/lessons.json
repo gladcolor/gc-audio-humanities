@@ -1329,6 +1329,25 @@
   "updated": "2026-11-19 18:21:57",
   "verified": ""
  },
+ "worldhistory/wh-cold-war": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 8,
+   "old": 1,
+   "total": 9
+  },
+  "fingerprint": "44803aec1997",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-cold-war.html",
+  "title": {
+   "en": "The Cold War & Independence Movements",
+   "zh": "冷战与民族独立运动"
+  },
+  "updated": "2026-11-19 18:22:47",
+  "verified": ""
+ },
  "worldhistory/wh-exploration": {
   "counts": {
    "done": 0,
