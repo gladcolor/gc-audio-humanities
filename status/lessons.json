@@ -911,6 +911,25 @@
   "updated": "2026-11-19 18:20:04",
   "verified": ""
  },
+ "georgia/ga-government": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 249,
+   "total": 252
+  },
+  "fingerprint": "f6793bd61311",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-government.html",
+  "title": {
+   "en": "Georgia Government & Citizenship",
+   "zh": "佐治亚州政府与公民"
+  },
+  "updated": "2026-11-19 18:21:22",
+  "verified": ""
+ },
  "georgia/ga-modern": {
   "counts": {
    "done": 0,
