@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-19 18:20:30. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 18:20:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -47,6 +47,7 @@ Updated 2026-11-19 18:20:30. Labels: finished / in progress / no audio / failed 
 | geography/map-projections | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:17:37 |  |
 | geography/population | no audio | 0 | 9 | 20 | 0 | 0 | 2026-11-19 18:19:00 |  |
 | geography/time-zones | no audio | 0 | 444 | 132 | 0 | 0 | 2026-11-19 18:18:29 |  |
+| georgia/ga-civilwar | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:20:36 |  |
 | georgia/ga-colony | no audio | 0 | 10 | 2 | 0 | 0 | 2026-11-19 18:20:18 |  |
 | georgia/ga-geography | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:20:04 |  |
 | georgia/ga-native | no audio | 0 | 22 | 4 | 0 | 0 | 2026-11-19 18:20:11 |  |
