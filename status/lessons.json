@@ -645,6 +645,25 @@
   "updated": "2026-11-19 18:12:40",
   "verified": ""
  },
+ "geography/africa-asia": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 42,
+   "old": 6,
+   "total": 48
+  },
+  "fingerprint": "4c8f4f761cba",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/africa-asia.html",
+  "title": {
+   "en": "Africa & Asia",
+   "zh": "非洲与亚洲"
+  },
+  "updated": "2026-11-19 18:19:15",
+  "verified": ""
+ },
  "geography/americas": {
   "counts": {
    "done": 0,
