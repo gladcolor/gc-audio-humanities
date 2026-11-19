@@ -835,6 +835,25 @@
   "updated": "2026-11-19 18:20:49",
   "verified": ""
  },
+ "georgia/ga-civilrights": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 9,
+   "old": 8,
+   "total": 17
+  },
+  "fingerprint": "5021c5ab2258",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-civilrights.html",
+  "title": {
+   "en": "The Civil Rights Movement in Georgia",
+   "zh": "佐治亚州的民权运动"
+  },
+  "updated": "2026-11-19 18:20:54",
+  "verified": ""
+ },
  "georgia/ga-civilwar": {
   "counts": {
    "done": 0,
