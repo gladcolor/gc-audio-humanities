@@ -151,6 +151,25 @@
   "updated": "2026-11-19 18:12:53",
   "verified": ""
  },
+ "china/reform-opening": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 9,
+   "old": 12,
+   "total": 21
+  },
+  "fingerprint": "34c079ba9d77",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/reform-opening.html",
+  "title": {
+   "en": "Reform and Opening Up",
+   "zh": "改革开放与中国特色社会主义"
+  },
+  "updated": "2026-11-19 18:13:59",
+  "verified": ""
+ },
  "china/revolution": {
   "counts": {
    "done": 0,
