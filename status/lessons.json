@@ -1177,6 +1177,25 @@
   "updated": "2026-11-19 18:16:18",
   "verified": ""
  },
+ "ushistory/us-civilrights": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 17,
+   "total": 17
+  },
+  "fingerprint": "5d8d452b5f3e",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ushistory/us-civilrights.html",
+  "title": {
+   "en": "The Civil Rights Movement",
+   "zh": "民权运动"
+  },
+  "updated": "2026-11-19 18:22:01",
+  "verified": ""
+ },
  "ushistory/us-civilwar": {
   "counts": {
    "done": 0,
