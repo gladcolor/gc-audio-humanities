@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/territory", "voice": "serena", "en": "114a4a19 1f5be991 2e9b997c 3ea7b479 58f2c545 9eb3e5fc a558f46b b335410a bde222b0 de15c7f5 de6e8ed3 f765e283", "zh": "014431b6 071ee700 12838e91 160d5b48 3bc0f2d7 4cbc490e 51549a08 520142a0 5de53c34 851f4909 8846cf17 90674a8b 926a986a 9949c98f 9fcd567f b6b59b3c d3eef17f dec1f4c5 e67c4882"});
