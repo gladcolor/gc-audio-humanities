@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/dynasties", "voice": "serena", "en": "00d5b2ac 0508da9f 09256166 2d0664a6 43bc6a33 4698d7f9 6bbb581b 6dd19977 70508203 73ec0f2f 784ceb3a 7a2dcdfe a457af08 a83ee3de a8cc1d62 b621b3ef bfc70a8b c1e2bc4c cff93788 d81762d6 d8956378", "zh": "0cd18914 0f0de490 1428ca0a 1e164efa 36551d0a 5bb4472d 68199930 6d3997ba 757d9c9e 7714dab5 8a16b107 981647ff a2ac1396 ac76e6c8 ad5c2917 c9e42552 d5b7734e dd57fdb9"});

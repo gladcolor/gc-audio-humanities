@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:13:01",
   "verified": ""
  },
+ "china/dynasties": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 1,
+   "old": 39,
+   "total": 40
+  },
+  "fingerprint": "c792ef84f5bb",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/dynasties.html",
+  "title": {
+   "en": "Dynasty Challenge: 4,000 Years on One Map",
+   "zh": "朝代大挑战：一张地图看四千年"
+  },
+  "updated": "2026-11-19 18:14:21",
+  "verified": ""
+ },
  "china/early-civilization": {
   "counts": {
    "done": 0,

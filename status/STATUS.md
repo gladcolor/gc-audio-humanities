@@ -1,10 +1,11 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-19 18:14:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 18:14:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | china/division-integration | old voice | 0 | 37 | 0 | 0 | 0 | 2026-11-19 18:13:01 |  |
+| china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | no audio | 0 | 34 | 14 | 0 | 0 | 2026-11-19 18:12:32 |  |
 | china/inventions | no audio | 0 | 24 | 1 | 0 | 0 | 2026-11-19 18:13:29 |  |
 | china/ming-qing | no audio | 0 | 26 | 4 | 0 | 0 | 2026-11-19 18:13:22 |  |
