@@ -911,6 +911,25 @@
   "updated": "2026-11-19 18:20:04",
   "verified": ""
  },
+ "georgia/ga-modern": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 5,
+   "old": 15,
+   "total": 20
+  },
+  "fingerprint": "8559a51561bd",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-modern.html",
+  "title": {
+   "en": "Modern Georgia",
+   "zh": "现代佐治亚州"
+  },
+  "updated": "2026-11-19 18:20:59",
+  "verified": ""
+ },
  "georgia/ga-native": {
   "counts": {
    "done": 0,
