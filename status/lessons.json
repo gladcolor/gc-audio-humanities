@@ -835,6 +835,25 @@
   "updated": "2026-11-19 18:20:04",
   "verified": ""
  },
+ "georgia/ga-native": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 4,
+   "old": 22,
+   "total": 26
+  },
+  "fingerprint": "520deb900b2f",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-native.html",
+  "title": {
+   "en": "Native Americans of Georgia",
+   "zh": "佐治亚州的美洲原住民"
+  },
+  "updated": "2026-11-19 18:20:11",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
