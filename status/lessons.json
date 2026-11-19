@@ -645,6 +645,25 @@
   "updated": "2026-11-19 18:12:40",
   "verified": ""
  },
+ "economics/econ-scarcity": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 1,
+   "old": 8,
+   "total": 9
+  },
+  "fingerprint": "d3ed09804318",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/economics/econ-scarcity.html",
+  "title": {
+   "en": "Scarcity & Opportunity Cost",
+   "zh": "稀缺性与机会成本"
+  },
+  "updated": "2026-11-19 18:22:57",
+  "verified": ""
+ },
  "geography/africa-asia": {
   "counts": {
    "done": 0,
