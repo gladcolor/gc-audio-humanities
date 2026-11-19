@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/division-integration", "voice": "serena", "en": "0f166090 10516256 12648882 272bb433 3a255044 5efed4c7 5f43e7a3 600e8e04 86cd207f 8dd36a95 9029b125 a10fcf98 b6a74857 b984a90b bc126202 cb73fbde f61b8f50 f9dbaf6b", "zh": "0c0f046d 13865557 26a7232a 3c233654 5972af25 6d83f97b 78b9e207 79434439 7c2b148b 8ad64175 8e6d3852 922f7b10 924f8ae9 b1c8ceba c6657f91 ceeb402c d1a077ec d2390bf1 fc49edc9"});
