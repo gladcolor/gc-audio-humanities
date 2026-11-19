@@ -398,6 +398,25 @@
   "updated": "2026-11-19 18:13:08",
   "verified": ""
  },
+ "china/terrain": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "63c81a541eda",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/terrain.html",
+  "title": {
+   "en": "China’s Landforms: Three Great Steps",
+   "zh": "中国的地形与地势：三级阶梯"
+  },
+  "updated": "2026-11-19 18:15:07",
+  "verified": ""
+ },
  "china/territory": {
   "counts": {
    "done": 0,
