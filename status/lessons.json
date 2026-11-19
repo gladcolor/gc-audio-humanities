@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:16:06",
   "verified": ""
  },
+ "politics/core-values": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 12,
+   "old": 12,
+   "total": 24
+  },
+  "fingerprint": "f371c9fbd3b9",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/core-values.html",
+  "title": {
+   "en": "Culture & Core Values",
+   "zh": "文明与家园：中华文化与核心价值观"
+  },
+  "updated": "2026-11-19 18:16:34",
+  "verified": ""
+ },
  "politics/rights-duties": {
   "counts": {
    "done": 0,
