@@ -1329,6 +1329,25 @@
   "updated": "2026-11-19 18:21:57",
   "verified": ""
  },
+ "worldhistory/wh-exploration": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 2,
+   "total": 5
+  },
+  "fingerprint": "49d107e4efcd",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-exploration.html",
+  "title": {
+   "en": "The Age of Exploration",
+   "zh": "大航海时代"
+  },
+  "updated": "2026-11-19 18:22:38",
+  "verified": ""
+ },
  "worldhistory/wh-first-civilizations": {
   "counts": {
    "done": 0,
