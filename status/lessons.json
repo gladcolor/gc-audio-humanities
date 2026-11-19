@@ -37,6 +37,25 @@
   "updated": "2026-11-19 18:12:32",
   "verified": ""
  },
+ "china/ming-qing": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 4,
+   "old": 26,
+   "total": 30
+  },
+  "fingerprint": "4e21d9731881",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/ming-qing.html",
+  "title": {
+   "en": "Ming & Qing (to 1840)",
+   "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
+  },
+  "updated": "2026-11-19 18:13:22",
+  "verified": ""
+ },
  "china/qin-han": {
   "counts": {
    "done": 0,

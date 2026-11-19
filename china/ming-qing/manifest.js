@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/ming-qing", "voice": "serena", "en": "031d2eed 4e650a23 6ad6fef9 7c64dcd4 86f38f2c 989c1a2f a8d7a3d3 c59788bc e5c26191 ebd03f24 f360c0d9", "zh": "1eca093f 2598bbc4 499ba271 5c0f6441 6abeb807 88b44527 8a30dfb0 8e1bd4d6 96b94b5b 9cbe41fe a2749f90 dfe1814d e2b2a6c4 e6c92ae7 f9dce418"});
