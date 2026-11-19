@@ -682,5 +682,24 @@
   },
   "updated": "2026-11-19 18:16:12",
   "verified": ""
+ },
+ "politics/state-system": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 10,
+   "old": 14,
+   "total": 24
+  },
+  "fingerprint": "7ddad463b2fc",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/state-system.html",
+  "title": {
+   "en": "China’s Basic Systems",
+   "zh": "我国的基本制度"
+  },
+  "updated": "2026-11-19 18:16:18",
+  "verified": ""
  }
 }
