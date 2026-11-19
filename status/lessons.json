@@ -721,6 +721,25 @@
   "updated": "2026-11-19 18:17:37",
   "verified": ""
  },
+ "geography/population": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 20,
+   "old": 9,
+   "total": 29
+  },
+  "fingerprint": "d60d0d5e09d2",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/population.html",
+  "title": {
+   "en": "Population & Human Geography",
+   "zh": "人口与人文地理"
+  },
+  "updated": "2026-11-19 18:19:00",
+  "verified": ""
+ },
  "geography/time-zones": {
   "counts": {
    "done": 0,
