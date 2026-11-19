@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "ushistory/us-colonies", "voice": "serena", "en": "0ca6aaa4 0dc81e82 19a22a8a 20d59b45 296eb09e 2a5b60f7 395247e8 3a1a33d1 49b3630c 4f7158cf 5a5269bd 68e946e4 6b11581e 9be23010 b6f7acc0 f6bc7760 fc243a34", "zh": "0020ae75 1404c0ff 30d747c8 31a09290 39ff973c 47398bc9 47b83d66 5306d9a1 5f0440ae 75b8f3ce a5bd2cb4 a8980f8d d233b818 ddda07ff eb3c4f64 fb595ef3 fe4cbc26"});
