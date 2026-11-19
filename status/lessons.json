@@ -493,6 +493,25 @@
   "updated": "2026-11-19 18:13:08",
   "verified": ""
  },
+ "china/taiwan-hkm": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 9,
+   "total": 12
+  },
+  "fingerprint": "e58650dd4c11",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/taiwan-hkm.html",
+  "title": {
+   "en": "Taiwan Province, Hong Kong & Macao",
+   "zh": "台湾省与香港、澳门"
+  },
+  "updated": "2026-11-19 18:15:46",
+  "verified": ""
+ },
  "china/terrain": {
   "counts": {
    "done": 0,
