@@ -1271,5 +1271,24 @@
   },
   "updated": "2026-11-19 18:21:53",
   "verified": ""
+ },
+ "ushistory/us-worldwars": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 8,
+   "old": 1,
+   "total": 9
+  },
+  "fingerprint": "5af0741f1052",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/ushistory/us-worldwars.html",
+  "title": {
+   "en": "World Wars & the Great Depression",
+   "zh": "两次世界大战与大萧条"
+  },
+  "updated": "2026-11-19 18:21:57",
+  "verified": ""
  }
 }
