@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:18:54",
   "verified": ""
  },
+ "geography/europe-oceania": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 8,
+   "old": 4,
+   "total": 12
+  },
+  "fingerprint": "a35f2d295529",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/europe-oceania.html",
+  "title": {
+   "en": "Europe & Australia",
+   "zh": "欧洲与澳大利亚"
+  },
+  "updated": "2026-11-19 18:19:08",
+  "verified": ""
+ },
  "geography/landforms": {
   "counts": {
    "done": 0,
