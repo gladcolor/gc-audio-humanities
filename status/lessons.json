@@ -1347,5 +1347,24 @@
   },
   "updated": "2026-11-19 18:22:12",
   "verified": ""
+ },
+ "worldhistory/wh-greece-rome": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 9,
+   "old": 16,
+   "total": 25
+  },
+  "fingerprint": "8d279d312498",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-greece-rome.html",
+  "title": {
+   "en": "Ancient Greece & Rome",
+   "zh": "古希腊与古罗马"
+  },
+  "updated": "2026-11-19 18:22:19",
+  "verified": ""
  }
 }
