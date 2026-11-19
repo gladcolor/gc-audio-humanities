@@ -1385,5 +1385,24 @@
   },
   "updated": "2026-11-19 18:22:26",
   "verified": ""
+ },
+ "worldhistory/wh-middle-ages": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "82a3eadbd2f9",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-middle-ages.html",
+  "title": {
+   "en": "The Middle Ages & the Islamic Golden Age",
+   "zh": "中世纪与伊斯兰黄金时代"
+  },
+  "updated": "2026-11-19 18:22:31",
+  "verified": ""
  }
 }
