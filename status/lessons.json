@@ -645,6 +645,25 @@
   "updated": "2026-11-19 18:12:40",
   "verified": ""
  },
+ "geography/latitude-longitude": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 549,
+   "old": 126,
+   "total": 675
+  },
+  "fingerprint": "08f055b42ea2",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/latitude-longitude.html",
+  "title": {
+   "en": "Latitude & Longitude",
+   "zh": "经度与纬度"
+  },
+  "updated": "2026-11-19 18:17:30",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
