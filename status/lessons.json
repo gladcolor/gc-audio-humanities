@@ -873,6 +873,25 @@
   "updated": "2026-11-19 18:20:11",
   "verified": ""
  },
+ "georgia/ga-revolution": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 17,
+   "total": 20
+  },
+  "fingerprint": "8762a7586700",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-revolution.html",
+  "title": {
+   "en": "Revolution & Early Statehood",
+   "zh": "独立战争与早期州政"
+  },
+  "updated": "2026-11-19 18:20:23",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
