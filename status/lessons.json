@@ -1366,5 +1366,24 @@
   },
   "updated": "2026-11-19 18:22:19",
   "verified": ""
+ },
+ "worldhistory/wh-india-persia": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 7,
+   "old": 24,
+   "total": 31
+  },
+  "fingerprint": "31f39bebb172",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-india-persia.html",
+  "title": {
+   "en": "Ancient India & Persia",
+   "zh": "古印度与古波斯"
+  },
+  "updated": "2026-11-19 18:22:26",
+  "verified": ""
  }
 }
