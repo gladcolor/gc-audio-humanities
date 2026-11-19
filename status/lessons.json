@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:16:34",
   "verified": ""
  },
+ "politics/development": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 7,
+   "old": 6,
+   "total": 13
+  },
+  "fingerprint": "9a65ebe2aaf1",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/politics/development.html",
+  "title": {
+   "en": "Innovation, Shared Prosperity & Green Development",
+   "zh": "富强与创新 · 共同富裕 · 生态文明"
+  },
+  "updated": "2026-11-19 18:16:39",
+  "verified": ""
+ },
  "politics/rights-duties": {
   "counts": {
    "done": 0,
