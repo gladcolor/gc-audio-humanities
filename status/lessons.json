@@ -113,6 +113,25 @@
   "updated": "2026-11-19 18:12:53",
   "verified": ""
  },
+ "china/revolution": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 3,
+   "old": 28,
+   "total": 31
+  },
+  "fingerprint": "33d1ab1f7656",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/revolution.html",
+  "title": {
+   "en": "The New Democratic Revolution 1919–1949",
+   "zh": "新民主主义革命（1919—1949)"
+  },
+  "updated": "2026-11-19 18:13:42",
+  "verified": ""
+ },
  "china/song-yuan": {
   "counts": {
    "done": 0,
