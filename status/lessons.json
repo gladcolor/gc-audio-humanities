@@ -645,6 +645,25 @@
   "updated": "2026-11-19 18:12:40",
   "verified": ""
  },
+ "geography/americas": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 14,
+   "old": 2,
+   "total": 16
+  },
+  "fingerprint": "08284ef18e44",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/geography/americas.html",
+  "title": {
+   "en": "Latin America & Canada",
+   "zh": "拉丁美洲与加拿大"
+  },
+  "updated": "2026-11-19 18:19:04",
+  "verified": ""
+ },
  "geography/climate-regions": {
   "counts": {
    "done": 0,
