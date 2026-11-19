@@ -37,6 +37,25 @@
   "updated": "2026-11-19 18:12:32",
   "verified": ""
  },
+ "china/inventions": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 1,
+   "old": 24,
+   "total": 25
+  },
+  "fingerprint": "ee5ec79274e9",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/inventions.html",
+  "title": {
+   "en": "Ancient Chinese Science & the Four Great Inventions",
+   "zh": "中国古代科技与四大发明"
+  },
+  "updated": "2026-11-19 18:13:29",
+  "verified": ""
+ },
  "china/ming-qing": {
   "counts": {
    "done": 0,
