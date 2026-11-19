@@ -398,6 +398,25 @@
   "updated": "2026-11-19 18:13:42",
   "verified": ""
  },
+ "china/seas-islands": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 32,
+   "total": 32
+  },
+  "fingerprint": "300134397421",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/seas-islands.html",
+  "title": {
+   "en": "China’s Seas & Islands",
+   "zh": "中国的海洋与岛屿"
+  },
+  "updated": "2026-11-19 18:15:52",
+  "verified": ""
+ },
  "china/silk-road-explorers": {
   "counts": {
    "done": 0,

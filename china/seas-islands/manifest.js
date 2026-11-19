@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/seas-islands", "voice": "serena", "en": "00463668 098810f5 16e5872b 1d466f7a 1dd78d74 2650e824 38c69a84 6ebba409 8bfe4a79 ac84889d b42a5260 cdfa7bb2 d11113cf d166375f f5a4ca46", "zh": "063337ff 06719045 0f7cc0cd 2397c574 2e55e730 3409bd68 57d58991 6f607645 99f96b4f 9a098889 aa403591 b771612b bffa6f06 cb128aad d66e377e e3181b94 e918438a"});
