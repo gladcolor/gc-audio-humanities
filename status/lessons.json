@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:22:57",
   "verified": ""
  },
+ "economics/econ-systems": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 34,
+   "old": 4,
+   "total": 38
+  },
+  "fingerprint": "753cb2411fe6",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/economics/econ-systems.html",
+  "title": {
+   "en": "Economic Systems",
+   "zh": "经济体制"
+  },
+  "updated": "2026-11-19 18:23:03",
+  "verified": ""
+ },
  "geography/africa-asia": {
   "counts": {
    "done": 0,
