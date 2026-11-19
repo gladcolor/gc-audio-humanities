@@ -284,6 +284,25 @@
   "updated": "2026-11-19 18:13:42",
   "verified": ""
  },
+ "china/silk-road-explorers": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 13,
+   "old": 3,
+   "total": 16
+  },
+  "fingerprint": "cd91c2590fbc",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/silk-road-explorers.html",
+  "title": {
+   "en": "Silk Road Explorers & Traders",
+   "zh": "丝路探险家与商队"
+  },
+  "updated": "2026-11-19 18:14:48",
+  "verified": ""
+ },
  "china/song-yuan": {
   "counts": {
    "done": 0,
