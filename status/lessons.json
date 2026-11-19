@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:14:33",
   "verified": ""
  },
+ "china/ancient-science": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 2,
+   "old": 2,
+   "total": 4
+  },
+  "fingerprint": "5f84f1626f0c",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/ancient-science.html",
+  "title": {
+   "en": "Ancient Chinese Science: Quakes, Stars & Numbers",
+   "zh": "古代科技：地震、星空与数学"
+  },
+  "updated": "2026-11-19 18:14:37",
+  "verified": ""
+ },
  "china/division-integration": {
   "counts": {
    "done": 0,
