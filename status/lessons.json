@@ -303,6 +303,25 @@
   "updated": "2026-11-19 18:13:59",
   "verified": ""
  },
+ "china/regions": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 4,
+   "total": 4
+  },
+  "fingerprint": "436c8bb186ac",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/regions.html",
+  "title": {
+   "en": "China’s Four Geographic Regions",
+   "zh": "中国的四大地理区域"
+  },
+  "updated": "2026-11-19 18:15:20",
+  "verified": ""
+ },
  "china/revolution": {
   "counts": {
    "done": 0,
