@@ -816,6 +816,25 @@
   "updated": "2026-11-19 18:18:29",
   "verified": ""
  },
+ "georgia/ga-colony": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 2,
+   "old": 10,
+   "total": 12
+  },
+  "fingerprint": "77628df48d0a",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/georgia/ga-colony.html",
+  "title": {
+   "en": "Founding the Georgia Colony",
+   "zh": "佐治亚殖民地的建立"
+  },
+  "updated": "2026-11-19 18:20:18",
+  "verified": ""
+ },
  "georgia/ga-geography": {
   "counts": {
    "done": 0,
