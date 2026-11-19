@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:12:32",
   "verified": ""
  },
+ "china/qin-han": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 22,
+   "total": 22
+  },
+  "fingerprint": "5822da41fa0e",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/qin-han.html",
+  "title": {
+   "en": "Qin & Han: A Unified Empire",
+   "zh": "秦汉：统一多民族国家的建立和巩固"
+  },
+  "updated": "2026-11-19 18:12:53",
+  "verified": ""
+ },
  "china/spring-warring": {
   "counts": {
    "done": 0,
