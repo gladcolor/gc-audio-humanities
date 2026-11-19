@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "china/early-civilization", "voice": "serena", "en": "0328c663 146529fd 1fc80a6c 2449265c 2d9170f4 49300cd0 5774753b 5a5f1b42 6310fb0f 6a1c6b1a 6a28c9f0 71ba0de4 7decb59b 802180f5 b2912c75 bca60d9e", "zh": "14a7838a 360f9c4f 399486d4 3ca70ad5 412756a5 5b16740b 60201d31 6e4f723b 7982d779 943c2818 95461a71 9ffb81b8 b330bd74 bb12d972 bc5b31cb c8909865 dad67807 e6674630"});

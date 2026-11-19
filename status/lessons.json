@@ -1,0 +1,21 @@
+{
+ "china/early-civilization": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 14,
+   "old": 34,
+   "total": 48
+  },
+  "fingerprint": "f2f78b4c1305",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/early-civilization.html",
+  "title": {
+   "en": "Origins of Chinese Civilization",
+   "zh": "史前时期：中华文明的起源"
+  },
+  "updated": "2026-11-19 18:12:32",
+  "verified": ""
+ }
+}
