@@ -816,6 +816,25 @@
   "updated": "2026-11-19 18:18:29",
   "verified": ""
  },
+ "georgia/ga-geography": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "b52ac6d76136",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/georgia/ga-geography.html",
+  "title": {
+   "en": "Georgia’s Geography & Regions",
+   "zh": "佐治亚州的地理与五大地区"
+  },
+  "updated": "2026-11-19 18:20:04",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
