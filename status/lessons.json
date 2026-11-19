@@ -1252,5 +1252,24 @@
   },
   "updated": "2026-11-19 18:21:42",
   "verified": ""
+ },
+ "ushistory/us-industrial": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 11,
+   "old": 2,
+   "total": 13
+  },
+  "fingerprint": "9cedf55e8eb3",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/ushistory/us-industrial.html",
+  "title": {
+   "en": "Inventions, Industry & Immigration",
+   "zh": "发明、工业与移民"
+  },
+  "updated": "2026-11-19 18:21:53",
+  "verified": ""
  }
 }
