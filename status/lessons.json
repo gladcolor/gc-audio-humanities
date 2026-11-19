@@ -265,6 +265,25 @@
   "updated": "2026-11-19 18:13:08",
   "verified": ""
  },
+ "china/unity-diplomacy": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 9,
+   "old": 15,
+   "total": 24
+  },
+  "fingerprint": "f0326ab493a8",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/china/unity-diplomacy.html",
+  "title": {
+   "en": "National Unity, Defense & Diplomacy",
+   "zh": "民族团结、祖国统一与国防外交"
+  },
+  "updated": "2026-11-19 18:14:13",
+  "verified": ""
+ },
  "china/xia-shang-zhou": {
   "counts": {
    "done": 0,
