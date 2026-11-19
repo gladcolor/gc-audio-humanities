@@ -1442,5 +1442,24 @@
   },
   "updated": "2026-11-19 18:22:35",
   "verified": ""
+ },
+ "worldhistory/wh-world-wars": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 7,
+   "old": 2,
+   "total": 9
+  },
+  "fingerprint": "9fcd8c84e289",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-world-wars.html",
+  "title": {
+   "en": "The World Wars & the Holocaust",
+   "zh": "两次世界大战与大屠杀"
+  },
+  "updated": "2026-11-19 18:22:43",
+  "verified": ""
  }
 }
