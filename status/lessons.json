@@ -170,6 +170,25 @@
   "updated": "2026-11-19 18:13:29",
   "verified": ""
  },
+ "china/megaprojects": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 15,
+   "total": 15
+  },
+  "fingerprint": "b5e22690d13f",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/china/megaprojects.html",
+  "title": {
+   "en": "Mega-Projects: Bridges, Railways & Pipelines",
+   "zh": "超级工程：大桥、铁路与管道"
+  },
+  "updated": "2026-11-19 18:15:41",
+  "verified": ""
+ },
  "china/ming-qing": {
   "counts": {
    "done": 0,
