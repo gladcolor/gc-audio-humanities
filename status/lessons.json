@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:17:30",
   "verified": ""
  },
+ "geography/map-projections": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "cc3620ec90d8",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/geography/map-projections.html",
+  "title": {
+   "en": "Maps & Projections",
+   "zh": "地图与投影"
+  },
+  "updated": "2026-11-19 18:17:37",
+  "verified": ""
+ },
  "politics/china-world": {
   "counts": {
    "done": 0,
