@@ -229,21 +229,21 @@
  },
  "china/ming-qing": {
   "counts": {
-   "done": 0,
+   "done": 30,
    "failed": 0,
    "held": 0,
-   "missing": 4,
-   "old": 26,
+   "missing": 0,
+   "old": 0,
    "total": 30
   },
   "fingerprint": "4e21d9731881",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/ming-qing.html",
   "title": {
    "en": "Ming & Qing (to 1840)",
    "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
   },
-  "updated": "2026-11-19 18:13:22",
+  "updated": "2026-11-20 03:52:26",
   "verified": ""
  },
  "china/modern-china": {
@@ -491,7 +491,7 @@
    "zh": "辽宋夏金元：民族关系发展和社会变化"
   },
   "updated": "2026-11-20 03:49:49",
-  "verified": ""
+  "verified": "2026-11-20 03:52:00"
  },
  "china/spring-warring": {
   "counts": {
@@ -643,7 +643,7 @@
    "zh": "民族团结、祖国统一与国防外交"
   },
   "updated": "2026-11-20 03:49:36",
-  "verified": ""
+  "verified": "2026-11-20 03:51:57"
  },
  "china/xia-shang-zhou": {
   "counts": {
