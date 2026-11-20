@@ -761,21 +761,21 @@
  },
  "economics/econ-trade": {
   "counts": {
-   "done": 0,
+   "done": 9,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 9,
+   "old": 0,
    "total": 9
   },
   "fingerprint": "8050c5381a7c",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-trade.html",
   "title": {
    "en": "Trade, Tariffs & Currency",
    "zh": "贸易、关税与货币"
   },
-  "updated": "2026-11-19 18:23:13",
+  "updated": "2026-11-20 07:48:01",
   "verified": ""
  },
  "geography/africa-asia": {
