@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "economics/econ-systems", "voice": "serena", "en": "0d7a31e2", "zh": "32ee8f48 47e87f8d c31f69e0"});
+LabAudioManifest({"lesson": "economics/econ-systems", "voice": "serena", "en": "0d7a31e2 3650f38e 3dc528a2 837fbd36 bab91b24 c192b473 d551e472 fb175905 fd531d10", "zh": "1f2d5c82 28a4a387 32ee8f48 34568c93 35aee2c5 47e87f8d 55576519 781aa43c 7d674437 92f66353 95de0ae7 9f94691b 9fab4476 a3918bcd aa19d396 bc5bc723 be69f189 c02f80e1 c14fff1d c31f69e0 cb916a3d cf99279f d0705cea e4f85555 e8149d00 ee3ee37a f03eb204 f0da696e f831b7ee"});
