@@ -286,21 +286,21 @@
  },
  "china/new-era": {
   "counts": {
-   "done": 0,
+   "done": 25,
    "failed": 0,
    "held": 0,
    "missing": 1,
-   "old": 42,
+   "old": 17,
    "total": 43
   },
-  "fingerprint": "08df68ef9ab3",
-  "label": "no audio",
+  "fingerprint": "b6460692b285",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/new-era.html",
   "title": {
    "en": "The New Era",
    "zh": "中国特色社会主义新时代"
   },
-  "updated": "2026-11-19 18:14:06",
+  "updated": "2026-11-20 03:18:00",
   "verified": ""
  },
  "china/population-resources": {
