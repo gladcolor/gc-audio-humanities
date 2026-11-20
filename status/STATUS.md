@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:35:12. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:38:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ Updated 2026-11-20 03:35:12. Labels: finished / in progress / no audio / failed 
 | china/ming-qing | no audio | 0 | 26 | 4 | 0 | 0 | 2026-11-19 18:13:22 |  |
 | china/modern-china | no audio | 0 | 24 | 9 | 0 | 0 | 2026-11-19 18:13:35 |  |
 | china/natural-wonders | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:15:31 |  |
-| china/new-era | in progress | 25 | 17 | 1 | 0 | 0 | 2026-11-20 03:18:00 |  |
+| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 |  |
 | china/population-resources | old voice | 0 | 41 | 0 | 0 | 0 | 2026-11-19 18:15:13 |  |
 | china/prc | in progress | 23 | 7 | 0 | 0 | 0 | 2026-11-20 03:26:01 |  |
 | china/prc-founding | no audio | 0 | 8 | 3 | 0 | 0 | 2026-11-19 18:13:54 |  |
@@ -36,7 +36,7 @@ Updated 2026-11-20 03:35:12. Labels: finished / in progress / no audio / failed 
 | china/taiwan-hkm | no audio | 0 | 9 | 3 | 0 | 0 | 2026-11-19 18:15:46 |  |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
 | china/territory | no audio | 0 | 31 | 9 | 0 | 0 | 2026-11-19 18:15:02 |  |
-| china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 |  |
+| china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | in progress | 7 | 12 | 5 | 0 | 0 | 2026-11-20 03:11:05 |  |
 | china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |
 | economics/econ-growth | no audio | 0 | 7 | 11 | 0 | 0 | 2026-11-19 18:23:18 |  |
