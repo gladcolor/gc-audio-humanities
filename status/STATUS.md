@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:43:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed 
 | china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 | 2026-11-20 07:34:07 |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
-| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 |  |
+| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 | 2026-11-20 07:42:48 |
 | china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:17:25 | 2026-11-20 07:18:40 |
 | china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:51 | 2026-11-20 07:15:14 |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |
@@ -34,14 +34,14 @@ Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed 
 | china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:12 | 2026-11-20 07:17:22 |
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 | 2026-11-20 07:15:10 |
 | china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 | 2026-11-20 07:15:20 |
-| china/terrain | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:06 |  |
+| china/terrain | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:06 | 2026-11-20 07:42:55 |
 | china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 | 2026-11-20 07:13:01 |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:54 | 2026-11-20 07:15:16 |
 | china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 | 2026-11-20 07:15:19 |
 | economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 | 2026-11-20 06:44:56 |
 | economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 | 2026-11-20 06:44:57 |
-| economics/econ-scarcity | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:52 |  |
+| economics/econ-scarcity | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:52 | 2026-11-20 07:42:52 |
 | economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 | 2026-11-20 06:44:55 |
 | economics/econ-systems | no audio | 0 | 4 | 34 | 0 | 0 | 2026-11-19 18:23:03 |  |
 | economics/econ-trade | old voice | 0 | 9 | 0 | 0 | 0 | 2026-11-19 18:23:13 |  |
@@ -67,7 +67,7 @@ Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed 
 | georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
 | politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 | 2026-11-20 07:20:48 |
-| politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:43 |  |
+| politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:43 | 2026-11-20 07:42:51 |
 | politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:39 | 2026-11-20 07:29:05 |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 | 2026-11-20 07:17:36 |
 | politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 | 2026-11-20 07:10:27 |
@@ -79,9 +79,9 @@ Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed 
 | ushistory/us-colonies | in progress | 7 | 27 | 0 | 0 | 0 | 2026-11-20 07:16:03 |  |
 | ushistory/us-constitution | no audio | 0 | 11 | 8 | 0 | 0 | 2026-11-19 18:21:38 |  |
 | ushistory/us-expansion | no audio | 0 | 4 | 11 | 0 | 0 | 2026-11-19 18:21:42 |  |
-| ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 |  |
+| ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 | 2026-11-20 07:42:56 |
 | ushistory/us-modern | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:22:07 |  |
-| ushistory/us-worldwars | no audio | 0 | 1 | 8 | 0 | 0 | 2026-11-19 18:21:57 |  |
+| ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 |  |
 | worldhistory/wh-cold-war | no audio | 0 | 1 | 8 | 0 | 0 | 2026-11-19 18:22:47 |  |
 | worldhistory/wh-exploration | no audio | 0 | 2 | 3 | 0 | 0 | 2026-11-19 18:22:38 |  |
 | worldhistory/wh-first-civilizations | no audio | 0 | 18 | 1 | 0 | 0 | 2026-11-19 18:22:12 |  |
@@ -89,5 +89,5 @@ Updated 2026-11-20 07:41:21. Labels: finished / in progress / no audio / failed 
 | worldhistory/wh-india-persia | no audio | 0 | 24 | 7 | 0 | 0 | 2026-11-19 18:22:26 |  |
 | worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 | 2026-11-20 06:07:12 |
 | worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 | 2026-11-20 06:07:13 |
-| worldhistory/wh-today | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:48 |  |
+| worldhistory/wh-today | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:48 | 2026-11-20 07:42:52 |
 | worldhistory/wh-world-wars | no audio | 0 | 2 | 7 | 0 | 0 | 2026-11-19 18:22:43 |  |

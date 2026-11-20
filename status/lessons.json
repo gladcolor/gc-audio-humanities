@@ -206,7 +206,7 @@
    "zh": "中国古代科技与四大发明"
   },
   "updated": "2026-11-20 07:40:06",
-  "verified": ""
+  "verified": "2026-11-20 07:42:48"
  },
  "china/megaprojects": {
   "counts": {
@@ -586,7 +586,7 @@
    "zh": "中国的地形与地势：三级阶梯"
   },
   "updated": "2026-11-20 07:41:06",
-  "verified": ""
+  "verified": "2026-11-20 07:42:55"
  },
  "china/territory": {
   "counts": {
@@ -719,7 +719,7 @@
    "zh": "稀缺性与机会成本"
   },
   "updated": "2026-11-20 07:40:52",
-  "verified": ""
+  "verified": "2026-11-20 07:42:52"
  },
  "economics/econ-supply-demand": {
   "counts": {
@@ -1213,7 +1213,7 @@
    "zh": "坚持宪法至上"
   },
   "updated": "2026-11-20 07:40:43",
-  "verified": ""
+  "verified": "2026-11-20 07:42:51"
  },
  "politics/core-values": {
   "counts": {
@@ -1441,7 +1441,7 @@
    "zh": "发明、工业与移民"
   },
   "updated": "2026-11-20 07:41:21",
-  "verified": ""
+  "verified": "2026-11-20 07:42:56"
  },
  "ushistory/us-modern": {
   "counts": {
@@ -1464,21 +1464,21 @@
  },
  "ushistory/us-worldwars": {
   "counts": {
-   "done": 0,
+   "done": 9,
    "failed": 0,
    "held": 0,
-   "missing": 8,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 9
   },
-  "fingerprint": "5af0741f1052",
-  "label": "no audio",
+  "fingerprint": "c76458ed13dd",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-worldwars.html",
   "title": {
    "en": "World Wars & the Great Depression",
    "zh": "两次世界大战与大萧条"
   },
-  "updated": "2026-11-19 18:21:57",
+  "updated": "2026-11-20 07:43:09",
   "verified": ""
  },
  "worldhistory/wh-cold-war": {
@@ -1631,7 +1631,7 @@
    "zh": "相互联系的世界"
   },
   "updated": "2026-11-20 07:40:48",
-  "verified": ""
+  "verified": "2026-11-20 07:42:52"
  },
  "worldhistory/wh-world-wars": {
   "counts": {
