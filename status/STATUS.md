@@ -1,93 +1,93 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 09:53:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 18:54:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| _shared | finished | 2723 | 0 | 0 | 0 | 0 | 2026-11-20 09:48:21 | 2026-11-20 09:53:39 |
-| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 07:36:21 | 2026-11-20 07:37:48 |
-| china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
-| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 | 2026-11-20 07:29:10 |
-| china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
-| china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
-| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 07:35:51 | 2026-11-20 07:37:47 |
-| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 | 2026-11-20 07:34:07 |
-| china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
-| china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
-| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 | 2026-11-20 07:42:48 |
-| china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:17:25 | 2026-11-20 07:18:40 |
-| china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:51 | 2026-11-20 07:15:14 |
-| china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |
-| china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 | 2026-11-20 07:12:59 |
-| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 | 2026-11-20 07:15:08 |
-| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:13 | 2026-11-20 07:20:44 |
-| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 | 2026-11-20 07:02:53 |
-| china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:19 | 2026-11-20 07:17:23 |
-| china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:47 | 2026-11-20 07:15:12 |
-| china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:09 | 2026-11-20 07:17:20 |
-| china/regions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:25 | 2026-11-20 07:08:01 |
-| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:33 | 2026-11-20 07:13:04 |
-| china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:34 | 2026-11-20 07:17:39 |
-| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 | 2026-11-20 07:05:53 |
-| china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:31 | 2026-11-20 07:15:22 |
-| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:46 | 2026-11-20 07:29:07 |
-| china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:12 | 2026-11-20 07:17:22 |
-| china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 | 2026-11-20 07:15:10 |
-| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 | 2026-11-20 07:15:20 |
-| china/terrain | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:06 | 2026-11-20 07:42:55 |
-| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 | 2026-11-20 07:13:01 |
-| china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
-| china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:54 | 2026-11-20 07:15:16 |
-| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 | 2026-11-20 07:15:19 |
-| economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 | 2026-11-20 06:44:56 |
-| economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 | 2026-11-20 06:44:57 |
-| economics/econ-scarcity | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:52 | 2026-11-20 07:42:52 |
-| economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 | 2026-11-20 06:44:55 |
-| economics/econ-systems | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:00 | 2026-11-20 07:51:16 |
-| economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 | 2026-11-20 07:49:18 |
-| geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 | 2026-11-20 05:59:29 |
-| geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 | 2026-11-20 05:52:40 |
-| geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 | 2026-11-20 05:48:52 |
+| _shared | finished | 2723 | 0 | 0 | 0 | 0 | 2026-11-20 09:48:21 |  |
+| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 07:36:21 |  |
+| china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 |  |
+| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 |  |
+| china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 |  |
+| china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 |  |
+| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 07:35:51 |  |
+| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 |  |
+| china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 |  |
+| china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 |  |
+| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 |  |
+| china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:17:25 |  |
+| china/ming-qing | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-20 18:54:26 |  |
+| china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 |  |
+| china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 |  |
+| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 |  |
+| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:13 |  |
+| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 |  |
+| china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:19 |  |
+| china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:47 |  |
+| china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:09 |  |
+| china/regions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:25 |  |
+| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:33 |  |
+| china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:34 |  |
+| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 |  |
+| china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:31 |  |
+| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:46 |  |
+| china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:12 |  |
+| china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 |  |
+| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 |  |
+| china/terrain | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:06 |  |
+| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 |  |
+| china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 |  |
+| china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:54 |  |
+| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 |  |
+| economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 |  |
+| economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 |  |
+| economics/econ-scarcity | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:52 |  |
+| economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 |  |
+| economics/econ-systems | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:00 |  |
+| economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 |  |
+| geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 |  |
+| geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 |  |
+| geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 |  |
 | geography/europe-oceania | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 05:54:00 | 2026-11-20 05:56:17 |
-| geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 | 2026-11-20 05:48:52 |
-| geography/latitude-longitude | finished | 675 | 0 | 0 | 0 | 0 | 2026-11-20 04:59:13 | 2026-11-20 05:01:17 |
-| geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 | 2026-11-20 05:03:00 |
-| geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 | 2026-11-20 05:59:31 |
-| geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 | 2026-11-20 05:44:54 |
-| geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 | 2026-11-20 06:03:20 |
-| georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 | 2026-11-20 06:35:15 |
-| georgia/ga-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:27 | 2026-11-20 06:44:58 |
-| georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 | 2026-11-20 06:36:41 |
-| georgia/ga-colony | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:40 | 2026-11-20 08:00:59 |
-| georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
-| georgia/ga-government | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:45 | 2026-11-20 08:01:15 |
-| georgia/ga-modern | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:43 | 2026-11-20 08:01:01 |
-| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 | 2026-11-20 06:38:24 |
-| georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 | 2026-11-20 06:35:19 |
-| georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
-| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
-| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 | 2026-11-20 07:20:48 |
-| politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:43 | 2026-11-20 07:42:51 |
-| politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:39 | 2026-11-20 07:29:05 |
-| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 | 2026-11-20 07:17:36 |
-| politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 | 2026-11-20 07:10:27 |
-| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 | 2026-11-20 07:20:40 |
-| politics/state-organs | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:16 | 2026-11-20 07:10:29 |
-| politics/state-system | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:24:28 | 2026-11-20 07:25:34 |
-| ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 | 2026-11-20 07:49:20 |
-| ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 | 2026-11-20 07:49:17 |
-| ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 | 2026-11-20 07:51:14 |
-| ushistory/us-constitution | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:30 | 2026-11-20 08:03:33 |
-| ushistory/us-expansion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:19 | 2026-11-20 07:45:24 |
-| ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 | 2026-11-20 07:42:56 |
-| ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 | 2026-11-20 07:49:19 |
-| ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 | 2026-11-20 07:45:22 |
-| worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 | 2026-11-20 07:45:23 |
-| worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 | 2026-11-20 07:56:03 |
-| worldhistory/wh-first-civilizations | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:02:23 | 2026-11-20 08:03:37 |
-| worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 | 2026-11-20 08:00:59 |
-| worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 | 2026-11-20 08:03:35 |
-| worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 | 2026-11-20 06:07:12 |
-| worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 | 2026-11-20 06:07:13 |
-| worldhistory/wh-today | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:48 | 2026-11-20 07:42:52 |
-| worldhistory/wh-world-wars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:45:32 | 2026-11-20 07:46:42 |
+| geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 |  |
+| geography/latitude-longitude | finished | 675 | 0 | 0 | 0 | 0 | 2026-11-20 04:59:13 |  |
+| geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 |  |
+| geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 |  |
+| geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 |  |
+| geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 |  |
+| georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 |  |
+| georgia/ga-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:27 |  |
+| georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 |  |
+| georgia/ga-colony | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:40 |  |
+| georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 |  |
+| georgia/ga-government | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:45 |  |
+| georgia/ga-modern | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:43 |  |
+| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 |  |
+| georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 |  |
+| georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 |  |
+| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 |  |
+| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 |  |
+| politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:43 |  |
+| politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:39 |  |
+| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 |  |
+| politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 |  |
+| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 |  |
+| politics/state-organs | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:16 |  |
+| politics/state-system | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:24:28 |  |
+| ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 |  |
+| ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 |  |
+| ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 |  |
+| ushistory/us-constitution | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:30 |  |
+| ushistory/us-expansion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:19 |  |
+| ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 |  |
+| ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 |  |
+| ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 |  |
+| worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 |  |
+| worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 |  |
+| worldhistory/wh-first-civilizations | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:02:23 |  |
+| worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 |  |
+| worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 |  |
+| worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 |  |
+| worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 |  |
+| worldhistory/wh-today | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:48 |  |
+| worldhistory/wh-world-wars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:45:32 |  |
