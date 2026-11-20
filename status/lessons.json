@@ -191,21 +191,21 @@
  },
  "china/inventions": {
   "counts": {
-   "done": 4,
+   "done": 25,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 20,
+   "missing": 0,
+   "old": 0,
    "total": 25
   },
   "fingerprint": "1f5528e6e312",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/inventions.html",
   "title": {
    "en": "Ancient Chinese Science & the Four Great Inventions",
    "zh": "中国古代科技与四大发明"
   },
-  "updated": "2026-11-20 02:59:42",
+  "updated": "2026-11-20 04:02:45",
   "verified": ""
  },
  "china/megaprojects": {
