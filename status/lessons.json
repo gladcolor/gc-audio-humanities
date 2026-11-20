@@ -58,21 +58,21 @@
  },
  "china/beijing-capital": {
   "counts": {
-   "done": 0,
+   "done": 15,
    "failed": 0,
    "held": 0,
-   "missing": 21,
-   "old": 23,
+   "missing": 11,
+   "old": 18,
    "total": 44
   },
   "fingerprint": "452d2bb51019",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/beijing-capital.html",
   "title": {
    "en": "Beijing: The Capital & Its Central Axis",
    "zh": "北京：祖国的首都与中轴线"
   },
-  "updated": "2026-11-19 18:16:00",
+  "updated": "2026-11-20 03:35:12",
   "verified": ""
  },
  "china/china-space": {

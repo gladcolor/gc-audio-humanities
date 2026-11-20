@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:34:53. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:35:12. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
 | china/ancient-engineering | no audio | 0 | 5 | 9 | 0 | 0 | 2026-11-19 18:14:33 |  |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
-| china/beijing-capital | no audio | 0 | 23 | 21 | 0 | 0 | 2026-11-19 18:16:00 |  |
+| china/beijing-capital | in progress | 15 | 18 | 11 | 0 | 0 | 2026-11-20 03:35:12 |  |
 | china/china-space | old voice | 0 | 26 | 0 | 0 | 0 | 2026-11-19 18:14:54 |  |
 | china/disasters | in progress | 11 | 0 | 7 | 0 | 0 | 2026-11-20 03:29:27 |  |
 | china/division-integration | old voice | 0 | 37 | 0 | 0 | 0 | 2026-11-19 18:13:01 |  |
