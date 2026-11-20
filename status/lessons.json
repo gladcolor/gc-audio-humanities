@@ -320,7 +320,7 @@
    "zh": "人口、民族与自然资源"
   },
   "updated": "2026-11-20 07:19:13",
-  "verified": ""
+  "verified": "2026-11-20 07:20:44"
  },
  "china/prc": {
   "counts": {
@@ -1065,21 +1065,21 @@
  },
  "georgia/ga-government": {
   "counts": {
-   "done": 0,
+   "done": 138,
    "failed": 0,
    "held": 0,
-   "missing": 3,
-   "old": 249,
+   "missing": 1,
+   "old": 113,
    "total": 252
   },
-  "fingerprint": "f6793bd61311",
-  "label": "no audio",
+  "fingerprint": "60e464879006",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-government.html",
   "title": {
    "en": "Georgia Government & Citizenship",
    "zh": "佐治亚州政府与公民"
   },
-  "updated": "2026-11-19 18:21:22",
+  "updated": "2026-11-20 07:21:46",
   "verified": ""
  },
  "georgia/ga-modern": {
@@ -1194,7 +1194,7 @@
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
   "updated": "2026-11-20 07:19:34",
-  "verified": ""
+  "verified": "2026-11-20 07:20:48"
  },
  "politics/constitution": {
   "counts": {
@@ -1289,7 +1289,7 @@
    "zh": "走进法治天地 · 建设法治中国"
   },
   "updated": "2026-11-20 07:19:05",
-  "verified": ""
+  "verified": "2026-11-20 07:20:40"
  },
  "politics/state-organs": {
   "counts": {

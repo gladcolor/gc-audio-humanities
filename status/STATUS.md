@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:19:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:21:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Updated 2026-11-20 07:19:34. Labels: finished / in progress / no audio / failed 
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |
 | china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 | 2026-11-20 07:12:59 |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 | 2026-11-20 07:15:08 |
-| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:13 |  |
+| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:13 | 2026-11-20 07:20:44 |
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 | 2026-11-20 07:02:53 |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:19 | 2026-11-20 07:17:23 |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:47 | 2026-11-20 07:15:12 |
@@ -60,18 +60,18 @@ Updated 2026-11-20 07:19:34. Labels: finished / in progress / no audio / failed 
 | georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 | 2026-11-20 06:36:41 |
 | georgia/ga-colony | no audio | 0 | 10 | 2 | 0 | 0 | 2026-11-19 18:20:18 |  |
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
-| georgia/ga-government | no audio | 0 | 249 | 3 | 0 | 0 | 2026-11-19 18:21:22 |  |
+| georgia/ga-government | in progress | 138 | 113 | 1 | 0 | 0 | 2026-11-20 07:21:46 |  |
 | georgia/ga-modern | no audio | 0 | 15 | 5 | 0 | 0 | 2026-11-19 18:20:59 |  |
 | georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 | 2026-11-20 06:38:24 |
 | georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 | 2026-11-20 06:35:19 |
 | georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
-| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 |  |
+| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 | 2026-11-20 07:20:48 |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
 | politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:28:55 | 2026-11-20 04:29:41 |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 | 2026-11-20 07:17:36 |
 | politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 | 2026-11-20 07:10:27 |
-| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 |  |
+| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 | 2026-11-20 07:20:40 |
 | politics/state-organs | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:16 | 2026-11-20 07:10:29 |
 | politics/state-system | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:20:50 | 2026-11-20 04:21:59 |
 | ushistory/us-civilrights | old voice | 0 | 17 | 0 | 0 | 0 | 2026-11-19 18:22:01 |  |
