@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:15:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:20:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-20 04:15:58. Labels: finished / in progress / no audio / failed 
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
-| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:58 |  |
+| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:58 | 2026-11-20 04:17:11 |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
@@ -20,7 +20,7 @@ Updated 2026-11-20 04:15:58. Labels: finished / in progress / no audio / failed 
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:56 | 2026-11-20 03:59:08 |
 | china/natural-wonders | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:15:31 |  |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
-| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 |  |
+| china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 | 2026-11-20 04:17:07 |
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 | 2026-11-20 03:54:15 |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 03:58:00 | 2026-11-20 03:59:09 |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
@@ -69,10 +69,10 @@ Updated 2026-11-20 04:15:58. Labels: finished / in progress / no audio / failed 
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
 | politics/core-values | no audio | 0 | 12 | 12 | 0 | 0 | 2026-11-19 18:16:34 |  |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 | 2026-11-20 04:02:14 |
-| politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:28 |  |
+| politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:28 | 2026-11-20 04:17:08 |
 | politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 04:06:13 | 2026-11-20 04:07:19 |
 | politics/state-organs | no audio | 0 | 16 | 7 | 0 | 0 | 2026-11-19 18:16:24 |  |
-| politics/state-system | no audio | 0 | 14 | 10 | 0 | 0 | 2026-11-19 18:16:18 |  |
+| politics/state-system | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:20:50 |  |
 | ushistory/us-civilrights | old voice | 0 | 17 | 0 | 0 | 0 | 2026-11-19 18:22:01 |  |
 | ushistory/us-civilwar | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:21:48 |  |
 | ushistory/us-colonies | old voice | 0 | 34 | 0 | 0 | 0 | 2026-11-19 18:21:32 |  |
