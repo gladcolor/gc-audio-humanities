@@ -856,21 +856,21 @@
  },
  "geography/landforms": {
   "counts": {
-   "done": 0,
+   "done": 8,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 10,
+   "old": 2,
    "total": 10
   },
-  "fingerprint": "ae1f6c45f474",
-  "label": "old voice",
+  "fingerprint": "55992ca52a00",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/landforms.html",
   "title": {
    "en": "Landforms & Waterways",
    "zh": "地形与水系"
   },
-  "updated": "2026-11-19 18:18:50",
+  "updated": "2026-11-20 05:42:10",
   "verified": ""
  },
  "geography/latitude-longitude": {
