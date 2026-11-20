@@ -852,7 +852,7 @@
    "zh": "欧洲与澳大利亚"
   },
   "updated": "2026-11-20 05:54:00",
-  "verified": ""
+  "verified": "2026-11-20 05:56:17"
  },
  "geography/landforms": {
   "counts": {
@@ -1084,21 +1084,21 @@
  },
  "georgia/ga-native": {
   "counts": {
-   "done": 0,
+   "done": 13,
    "failed": 0,
    "held": 0,
-   "missing": 4,
-   "old": 22,
+   "missing": 1,
+   "old": 12,
    "total": 26
   },
   "fingerprint": "520deb900b2f",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-native.html",
   "title": {
    "en": "Native Americans of Georgia",
    "zh": "佐治亚州的美洲原住民"
   },
-  "updated": "2026-11-19 18:20:11",
+  "updated": "2026-11-20 05:57:32",
   "verified": ""
  },
  "georgia/ga-reconstruction": {

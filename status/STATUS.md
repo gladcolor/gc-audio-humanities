@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 05:54:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 05:57:32. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -48,7 +48,7 @@ Updated 2026-11-20 05:54:47. Labels: finished / in progress / no audio / failed 
 | geography/africa-asia | no audio | 0 | 6 | 42 | 0 | 0 | 2026-11-19 18:19:15 |  |
 | geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 | 2026-11-20 05:52:40 |
 | geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 | 2026-11-20 05:48:52 |
-| geography/europe-oceania | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 05:54:00 |  |
+| geography/europe-oceania | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 05:54:00 | 2026-11-20 05:56:17 |
 | geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 | 2026-11-20 05:48:52 |
 | geography/latitude-longitude | finished | 675 | 0 | 0 | 0 | 0 | 2026-11-20 04:59:13 | 2026-11-20 05:01:17 |
 | geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 | 2026-11-20 05:03:00 |
@@ -61,7 +61,7 @@ Updated 2026-11-20 05:54:47. Labels: finished / in progress / no audio / failed 
 | georgia/ga-geography | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:20:04 |  |
 | georgia/ga-government | no audio | 0 | 249 | 3 | 0 | 0 | 2026-11-19 18:21:22 |  |
 | georgia/ga-modern | no audio | 0 | 15 | 5 | 0 | 0 | 2026-11-19 18:20:59 |  |
-| georgia/ga-native | no audio | 0 | 22 | 4 | 0 | 0 | 2026-11-19 18:20:11 |  |
+| georgia/ga-native | in progress | 13 | 12 | 1 | 0 | 0 | 2026-11-20 05:57:32 |  |
 | georgia/ga-reconstruction | no audio | 0 | 15 | 2 | 0 | 0 | 2026-11-19 18:20:42 |  |
 | georgia/ga-removal | in progress | 6 | 29 | 0 | 0 | 0 | 2026-11-20 05:51:28 |  |
 | georgia/ga-revolution | no audio | 0 | 17 | 3 | 0 | 0 | 2026-11-19 18:20:23 |  |
