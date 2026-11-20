@@ -1369,21 +1369,21 @@
  },
  "ushistory/us-colonies": {
   "counts": {
-   "done": 0,
+   "done": 7,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 34,
+   "old": 27,
    "total": 34
   },
-  "fingerprint": "c6b3684f0886",
-  "label": "old voice",
+  "fingerprint": "be4c84af8621",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ushistory/us-colonies.html",
   "title": {
    "en": "Colonies & the American Revolution",
    "zh": "殖民地与美国独立战争"
   },
-  "updated": "2026-11-19 18:21:32",
+  "updated": "2026-11-20 07:16:03",
   "verified": ""
  },
  "ushistory/us-constitution": {

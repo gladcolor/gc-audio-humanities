@@ -45,6 +45,7 @@ en	f6ca2100	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:38:19	tts
 en	f89aafba	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	07b78baf	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 07:10:37	tts	083cb24b24
 zh	0dd71394	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 07:06:50	tts	a0aaa8c091
+zh	31f0e85a	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 07:16:03	tts	d19ff87d33
 zh	34af3dea	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 07:04:45	tts	e621f8fb66
 zh	3ea1737c	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 07:00:30	tts	1e96c3b619
 zh	67309dc3	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 06:53:42	tts	1350776681
@@ -2831,6 +2832,7 @@ en	ee6d4613	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts
 en	f1f829f4	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:40:12	tts	cc84ceb38f
 en	f89aafba	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 en	fd665dc5	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:43:58	tts	1bd41f4287
+zh	18abf6bc	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:38	tts	d4edf5ebd5
 zh	1fc7d1b3	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts	156d68f83c
 zh	25e5f506	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 07:01:49	tts	04c3968fba
 zh	41bf026a	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 07:09:07	tts	19b42a3812
@@ -2969,10 +2971,13 @@ zh	5306d9a1	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:29	tts
 zh	75b8f3ce	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:53	tts	2f4a414a2c
 zh	a8980f8d	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:38	tts	f0d8afd7e7
 zh	d233b818	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:37	tts	3b98841f1a
+zh	fb595ef3	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:16:03	tts	31251f8d35
 zh	28b72e1b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:24	tts	3f9f6b4c9f
 zh	32c3a7ee	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:30	tts	15a2aca1e9
 zh	41b0549b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:26	tts	54d4382b39
 zh	5230b5e3	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:25	tts	8290bb2a82
+zh	91dcf8ae	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:38	tts	30f7adf2d8
+zh	adf72ae6	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:39	tts	2b8885e7e2
 zh	b9b4e32a	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:23	tts	0d0d132597
 zh	daf38238	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:40	tts	062e113e8c
 zh	e85a7fcb	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:32	tts	78c3cd0b96
@@ -2982,6 +2987,13 @@ zh	8d7cd15b	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:15:34	tt
 zh	bdd57f2e	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:15:33	tts	d45cc783ea
 zh	bdd57f2e	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:15:33	tts	d45cc783ea
 zh	bdd57f2e	ushistory/us-worldwars	serena t0.5 -16LUFS	48	2026-11-20 07:15:33	tts	d45cc783ea
+zh	35aee2c5	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	6a3fec5ded
+zh	4199e67d	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	b9d07de0fc
+zh	95de0ae7	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	7b20e865a2
+zh	c14fff1d	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	522cc71665
+zh	cb916a3d	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	39ecab4dcc
+zh	cf99279f	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	42f7dd4876
+zh	f831b7ee	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	851a8c3783
 en	9573fd7f	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:05:42	tts	dcc9a8520b
 zh	d8f341d2	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:02:07	tts	81595e0d99
 en	3960fee3	worldhistory/wh-renaissance	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	dbdccd718a
