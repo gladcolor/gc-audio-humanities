@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 05:57:54. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:01:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -45,15 +45,16 @@ Updated 2026-11-20 05:57:54. Labels: finished / in progress / no audio / failed 
 | economics/econ-supply-demand | old voice | 0 | 11 | 0 | 0 | 0 | 2026-11-19 18:23:08 |  |
 | economics/econ-systems | no audio | 0 | 4 | 34 | 0 | 0 | 2026-11-19 18:23:03 |  |
 | economics/econ-trade | old voice | 0 | 9 | 0 | 0 | 0 | 2026-11-19 18:23:13 |  |
-| geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 |  |
+| geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 | 2026-11-20 05:59:29 |
 | geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 | 2026-11-20 05:52:40 |
 | geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 | 2026-11-20 05:48:52 |
 | geography/europe-oceania | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 05:54:00 | 2026-11-20 05:56:17 |
 | geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 | 2026-11-20 05:48:52 |
 | geography/latitude-longitude | finished | 675 | 0 | 0 | 0 | 0 | 2026-11-20 04:59:13 | 2026-11-20 05:01:17 |
 | geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 | 2026-11-20 05:03:00 |
-| geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 |  |
+| geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 | 2026-11-20 05:59:31 |
 | geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 | 2026-11-20 05:44:54 |
+| geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 |  |
 | georgia/ga-20th | in progress | 5 | 19 | 0 | 0 | 0 | 2026-11-20 05:54:47 |  |
 | georgia/ga-civilrights | no audio | 0 | 8 | 9 | 0 | 0 | 2026-11-19 18:20:54 |  |
 | georgia/ga-civilwar | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:20:36 |  |
