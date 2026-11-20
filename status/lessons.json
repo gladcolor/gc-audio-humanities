@@ -153,22 +153,22 @@
  },
  "china/early-civilization": {
   "counts": {
-   "done": 48,
+   "done": 47,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 48
   },
-  "fingerprint": "f2f78b4c1305",
-  "label": "finished",
+  "fingerprint": "493a9a486092",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/early-civilization.html",
   "title": {
    "en": "Origins of Chinese Civilization",
    "zh": "史前时期：中华文明的起源"
   },
-  "updated": "2026-11-20 03:25:52",
-  "verified": "2026-11-20 03:27:11"
+  "updated": "2026-11-20 07:10:43",
+  "verified": ""
  },
  "china/great-wall": {
   "counts": {
@@ -1270,7 +1270,7 @@
    "zh": "理解权利义务"
   },
   "updated": "2026-11-20 07:09:08",
-  "verified": ""
+  "verified": "2026-11-20 07:10:27"
  },
  "politics/rule-of-law": {
   "counts": {
@@ -1308,7 +1308,7 @@
    "zh": "我国的国家机构"
   },
   "updated": "2026-11-20 07:09:16",
-  "verified": ""
+  "verified": "2026-11-20 07:10:29"
  },
  "politics/state-system": {
   "counts": {
