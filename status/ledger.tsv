@@ -4,6 +4,7 @@ en	41995188	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:56:29
 en	8b57e4f7	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:15:21	tts	531058e921
 en	b03a24e5	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:13:42	tts	476581ea92
 en	c778a342	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
+en	ee6d4613	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f89aafba	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	1fc7d1b3	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	tts	156d68f83c
 zh	2cc5bea9	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:35:18	tts	770e27a454
@@ -33,6 +34,7 @@ en	a34dbe2e	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:27:59	tts
 en	a637ad22	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:27:50	tts	d9a3f9e97b
 en	a65cc89e	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:27:57	tts	c045513756
 en	dcd4e0d9	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:48:36	tts	dea48e0254
+en	ee6d4613	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f6ca2100	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:38:19	tts	009266573f
 en	f89aafba	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	07b78baf	china/beijing-capital	serena t0.5 -16LUFS	48	2026-11-20 03:35:19	tts	a3e77d3ad1
@@ -644,7 +646,9 @@ en	ae7bd14d	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:15:30	tt
 en	c5e8d049	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:17:11	tts	e4d9bee8d3
 en	c778a342	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
 en	c7fde589	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:15:21	tts	0e3865f717
+en	db06ce64	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	b7d19984d4
 en	df2d2e59	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:15:30	tts	342fdcfb07
+en	ee6d4613	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f630bc85	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:15:23	tts	31add7b99d
 en	f89aafba	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 en	f8c03aa0	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:13:28	tts	084eddb368
@@ -978,6 +982,7 @@ en	788a0fc0	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:38:23	tts
 en	868103c9	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:56:29	tts	e2bb0e598f
 en	b5786c6f	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:45:10	tts	ecaf2de6b9
 en	c778a342	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
+en	ee6d4613	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f1f829f4	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:40:12	tts	cc84ceb38f
 en	f89aafba	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 en	fd665dc5	politics/constitution	serena t0.5 -16LUFS	48	2026-11-20 03:43:58	tts	1bd41f4287
@@ -997,6 +1002,7 @@ en	419fa936	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:38:18	tts	
 en	7802e179	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:38:15	tts	339981ede4
 en	c778a342	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
 en	e6b361a3	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:53:11	tts	bddabe8cab
+en	ee6d4613	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f89aafba	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:29:02	copy	6500d11ec5
 zh	1a6e8ae1	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:36:25	tts	2656452cbf
 zh	1fc7d1b3	politics/core-values	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts	156d68f83c
@@ -1039,6 +1045,7 @@ en	41995188	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:56:29	tts	
 en	543e261b	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:48:32	tts	dc102655ae
 en	9cddbad4	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:52:52	tts	503b35399d
 en	c778a342	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
+en	ee6d4613	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f1a98067	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:38:22	tts	34576fe875
 en	f89aafba	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	0cd398ea	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:55:45	tts	ac225b1ab9
@@ -1074,6 +1081,7 @@ en	c1d6f146	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:52:24	tts
 en	c778a342	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	d2ed45fcbe
 en	deba1345	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:33:03	tts	5a09519bbb
 en	e44bee91	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:32:57	tts	b62ff66ad3
+en	ee6d4613	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:56:34	tts	426f7d0f5b
 en	f89aafba	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	580c9f3b	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:35:22	tts	2880306628
 zh	5cfd2054	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	ee1f80ec60
