@@ -932,11 +932,11 @@
  },
  "geography/time-zones": {
   "counts": {
-   "done": 22,
+   "done": 87,
    "failed": 0,
    "held": 0,
-   "missing": 132,
-   "old": 422,
+   "missing": 127,
+   "old": 362,
    "total": 576
   },
   "fingerprint": "00c8d7dbe691",
@@ -946,7 +946,7 @@
    "en": "Time Zones",
    "zh": "时区"
   },
-  "updated": "2026-11-20 04:53:12",
+  "updated": "2026-11-20 05:01:25",
   "verified": ""
  },
  "georgia/ga-20th": {
