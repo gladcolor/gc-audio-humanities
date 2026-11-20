@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 06:01:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:05:42. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Updated 2026-11-20 06:01:48. Labels: finished / in progress / no audio / failed 
 | geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 | 2026-11-20 05:03:00 |
 | geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 | 2026-11-20 05:59:31 |
 | geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 | 2026-11-20 05:44:54 |
-| geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 |  |
+| geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 | 2026-11-20 06:03:20 |
 | georgia/ga-20th | in progress | 5 | 19 | 0 | 0 | 0 | 2026-11-20 05:54:47 |  |
 | georgia/ga-civilrights | no audio | 0 | 8 | 9 | 0 | 0 | 2026-11-19 18:20:54 |  |
 | georgia/ga-civilwar | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:20:36 |  |
@@ -87,7 +87,7 @@ Updated 2026-11-20 06:01:48. Labels: finished / in progress / no audio / failed 
 | worldhistory/wh-first-civilizations | no audio | 0 | 18 | 1 | 0 | 0 | 2026-11-19 18:22:12 |  |
 | worldhistory/wh-greece-rome | no audio | 0 | 16 | 9 | 0 | 0 | 2026-11-19 18:22:19 |  |
 | worldhistory/wh-india-persia | no audio | 0 | 24 | 7 | 0 | 0 | 2026-11-19 18:22:26 |  |
-| worldhistory/wh-middle-ages | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:22:31 |  |
+| worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 |  |
 | worldhistory/wh-renaissance | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:22:35 |  |
 | worldhistory/wh-today | no audio | 0 | 5 | 1 | 0 | 0 | 2026-11-19 18:22:51 |  |
 | worldhistory/wh-world-wars | no audio | 0 | 2 | 7 | 0 | 0 | 2026-11-19 18:22:43 |  |
