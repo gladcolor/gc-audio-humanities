@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:31:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:36:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -50,7 +50,7 @@ Updated 2026-11-20 04:31:52. Labels: finished / in progress / no audio / failed 
 | geography/climate-regions | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:18:54 |  |
 | geography/europe-oceania | no audio | 0 | 4 | 8 | 0 | 0 | 2026-11-19 18:19:08 |  |
 | geography/landforms | old voice | 0 | 10 | 0 | 0 | 0 | 2026-11-19 18:18:50 |  |
-| geography/latitude-longitude | in progress | 269 | 40 | 366 | 0 | 0 | 2026-11-20 04:25:17 |  |
+| geography/latitude-longitude | in progress | 364 | 25 | 286 | 0 | 0 | 2026-11-20 04:36:21 |  |
 | geography/map-projections | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:17:37 |  |
 | geography/population | no audio | 0 | 9 | 20 | 0 | 0 | 2026-11-19 18:19:00 |  |
 | geography/time-zones | no audio | 0 | 444 | 132 | 0 | 0 | 2026-11-19 18:18:29 |  |
@@ -65,7 +65,7 @@ Updated 2026-11-20 04:31:52. Labels: finished / in progress / no audio / failed 
 | georgia/ga-reconstruction | no audio | 0 | 15 | 2 | 0 | 0 | 2026-11-19 18:20:42 |  |
 | georgia/ga-removal | old voice | 0 | 35 | 0 | 0 | 0 | 2026-11-19 18:20:30 |  |
 | georgia/ga-revolution | no audio | 0 | 17 | 3 | 0 | 0 | 2026-11-19 18:20:23 |  |
-| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 04:31:49 |  |
+| politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 04:31:49 | 2026-11-20 04:32:49 |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
 | politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:28:55 | 2026-11-20 04:29:41 |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 | 2026-11-20 04:02:14 |

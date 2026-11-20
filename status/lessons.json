@@ -875,11 +875,11 @@
  },
  "geography/latitude-longitude": {
   "counts": {
-   "done": 269,
+   "done": 364,
    "failed": 0,
    "held": 0,
-   "missing": 366,
-   "old": 40,
+   "missing": 286,
+   "old": 25,
    "total": 675
   },
   "fingerprint": "08f055b42ea2",
@@ -889,7 +889,7 @@
    "en": "Latitude & Longitude",
    "zh": "经度与纬度"
   },
-  "updated": "2026-11-20 04:25:17",
+  "updated": "2026-11-20 04:36:21",
   "verified": ""
  },
  "geography/map-projections": {
@@ -1175,7 +1175,7 @@
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
   "updated": "2026-11-20 04:31:49",
-  "verified": ""
+  "verified": "2026-11-20 04:32:49"
  },
  "politics/constitution": {
   "counts": {
