@@ -413,6 +413,7 @@ en	b7e86f50	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 03:21:1
 en	ca314f7b	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 03:33:02	tts	7d1f2405a3
 zh	0131e620	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:00:28	tts	2776077e0b
 zh	07a2140a	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 06:56:41	tts	953617417d
+zh	07f29e0a	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:19:13	tts	dc683786bc
 zh	1af02cbe	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:04:44	tts	cffae5e02a
 zh	356c7ee4	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 06:56:39	tts	f59ccecc4a
 zh	36e2062b	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:00:31	tts	b99ceaa2c1
@@ -431,6 +432,7 @@ zh	9ad59dac	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 06:56:4
 zh	a659cc1a	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:00:37	tts	96d174e3f0
 zh	a79785ad	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:00:40	tts	66bbd38ee0
 zh	a82a5826	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 06:56:39	tts	e18f5c1db9
+zh	ab8bebd6	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:19:11	tts	c187878892
 zh	af4e32c4	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:06:55	tts	307abb64b6
 zh	b16a55b9	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 07:13:09	tts	0baa712a3e
 zh	bc63ad49	china/population-resources	serena t0.5 -16LUFS	48	2026-11-20 06:56:45	tts	1d5063dedf
@@ -659,6 +661,7 @@ en	f95fe81a	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:56:01	tts	
 en	f99a96dc	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:56:04	tts	b4946d3071
 zh	12c68bc8	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:51:03	tts	b69f108ffa
 zh	21e2cf92	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:13:34	tts	96d9ea9c46
+zh	34a48566	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:19:09	tts	40ea56ee37
 zh	3d39276e	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 03:23:51	tts	5134e2ba9c
 zh	53235b40	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:06:54	tts	971ffe8ba7
 zh	65b61ae2	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:50:14	tts	ee1c8763d1
@@ -2983,8 +2986,10 @@ zh	cb5ccdd9	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:04:47	tts
 zh	dde3ad62	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 zh	0cc71256	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:15:31	tts	a80909b7df
 zh	23c97954	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:19:04	tts	5b3d381f95
+zh	5bc800d1	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:19:10	tts	dea9b278f3
 zh	a4bd69c6	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:17:33	tts	6918739084
 zh	e6a9c5fc	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:17:29	tts	8266179be8
+zh	f1e71178	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:19:11	tts	26c172ad4e
 zh	f9b93096	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:19:02	tts	636e190522
 zh	0020ae75	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:38	tts	18d205f07a
 zh	1404c0ff	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:16:18	tts	6dcd131107
@@ -3006,6 +3011,7 @@ zh	28b72e1b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:24
 zh	32c3a7ee	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:30	tts	15a2aca1e9
 zh	41b0549b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:26	tts	54d4382b39
 zh	5230b5e3	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:25	tts	8290bb2a82
+zh	551429c0	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:19:12	tts	92978a9e94
 zh	91dcf8ae	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:38	tts	30f7adf2d8
 zh	9fcadc1a	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:19:03	tts	94b7d751d6
 zh	adf72ae6	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:39	tts	2b8885e7e2
