@@ -510,7 +510,7 @@
    "zh": "春秋战国：变革与百家争鸣"
   },
   "updated": "2026-11-20 03:41:45",
-  "verified": ""
+  "verified": "2026-11-20 03:42:59"
  },
  "china/strategy-battles": {
   "counts": {
@@ -533,21 +533,21 @@
  },
  "china/sui-tang": {
   "counts": {
-   "done": 26,
+   "done": 28,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 2,
+   "old": 0,
    "total": 28
   },
   "fingerprint": "0ca87b8929c1",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/sui-tang.html",
   "title": {
    "en": "Sui & Tang: A Prosperous, Open Age",
    "zh": "隋唐：繁荣与开放的时代"
   },
-  "updated": "2026-11-20 03:23:54",
+  "updated": "2026-11-20 03:46:03",
   "verified": ""
  },
  "china/taiwan-hkm": {

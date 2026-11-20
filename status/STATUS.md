@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:41:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:46:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@ Updated 2026-11-20 03:41:45. Labels: finished / in progress / no audio / failed 
 | china/seas-islands | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:15:52 |  |
 | china/silk-road-explorers | no audio | 0 | 3 | 13 | 0 | 0 | 2026-11-19 18:14:48 |  |
 | china/song-yuan | old voice | 0 | 34 | 0 | 0 | 0 | 2026-11-19 18:13:15 |  |
-| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 |  |
+| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | no audio | 0 | 29 | 11 | 0 | 0 | 2026-11-19 18:14:43 |  |
-| china/sui-tang | in progress | 26 | 2 | 0 | 0 | 0 | 2026-11-20 03:23:54 |  |
+| china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 |  |
 | china/taiwan-hkm | no audio | 0 | 9 | 3 | 0 | 0 | 2026-11-19 18:15:46 |  |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
 | china/territory | no audio | 0 | 31 | 9 | 0 | 0 | 2026-11-19 18:15:02 |  |
