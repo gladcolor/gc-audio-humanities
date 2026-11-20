@@ -533,21 +533,21 @@
  },
  "china/sui-tang": {
   "counts": {
-   "done": 0,
+   "done": 3,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 28,
+   "old": 25,
    "total": 28
   },
   "fingerprint": "0ca87b8929c1",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/sui-tang.html",
   "title": {
    "en": "Sui & Tang: A Prosperous, Open Age",
    "zh": "隋唐：繁荣与开放的时代"
   },
-  "updated": "2026-11-19 18:13:08",
+  "updated": "2026-11-20 02:56:27",
   "verified": ""
  },
  "china/taiwan-hkm": {
