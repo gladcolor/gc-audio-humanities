@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "politics/constitution", "voice": "serena", "en": "06ecd017 1445586b 2161deb3 41c2ec94 55cb2378 788a0fc0 b5786c6f f1f829f4 fd665dc5", "zh": "18abf6bc 25e5f506 41bf026a 486ec984 6a46a8d6 795f88b0 97d3d60b a938a5db acb8e625"});
+LabAudioManifest({"lesson": "politics/constitution", "voice": "serena", "en": "06ecd017 0a65f407 0d2dd93b 1445586b 2161deb3 3c9dc8c2 41995188 41c2ec94 4b36097a 55cb2378 788a0fc0 868103c9 b5786c6f c778a342 d8c6a06b ee6d4613 f1f829f4 f89aafba fd665dc5", "zh": "18abf6bc 1fc7d1b3 25e5f506 41bf026a 486ec984 51b9d0e0 5cfd2054 6a46a8d6 795f88b0 81b0666a 97d3d60b a938a5db acb8e625 bea7d454 dde3ad62 efd5d731"});

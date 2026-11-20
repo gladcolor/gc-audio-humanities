@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:06:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:13:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -66,11 +66,11 @@ Updated 2026-11-20 04:06:13. Labels: finished / in progress / no audio / failed 
 | georgia/ga-removal | old voice | 0 | 35 | 0 | 0 | 0 | 2026-11-19 18:20:30 |  |
 | georgia/ga-revolution | no audio | 0 | 17 | 3 | 0 | 0 | 2026-11-19 18:20:23 |  |
 | politics/china-world | no audio | 0 | 48 | 4 | 0 | 0 | 2026-11-19 18:16:46 |  |
-| politics/constitution | no audio | 0 | 18 | 17 | 0 | 0 | 2026-11-19 18:16:06 |  |
+| politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 |  |
 | politics/core-values | no audio | 0 | 12 | 12 | 0 | 0 | 2026-11-19 18:16:34 |  |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 | 2026-11-20 04:02:14 |
 | politics/rights-duties | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:16:12 |  |
-| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 04:06:13 |  |
+| politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 04:06:13 | 2026-11-20 04:07:19 |
 | politics/state-organs | no audio | 0 | 16 | 7 | 0 | 0 | 2026-11-19 18:16:24 |  |
 | politics/state-system | no audio | 0 | 14 | 10 | 0 | 0 | 2026-11-19 18:16:18 |  |
 | ushistory/us-civilrights | old voice | 0 | 17 | 0 | 0 | 0 | 2026-11-19 18:22:01 |  |
