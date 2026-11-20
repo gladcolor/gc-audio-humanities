@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "geography/africa-asia", "voice": "serena", "en": "53b1c9bd 5e9ccff8 f91ee42d", "zh": "05938c89 934cd63d 9ff4c4da"});
+LabAudioManifest({"lesson": "geography/africa-asia", "voice": "serena", "en": "09a294f0 194219eb 2510eaeb 2853956a 33dcccaf 5160e2cd 53b1c9bd 5a0c2b2b 5e9ccff8 6ba52bed 7542c74f 8102b4c1 95939558 9fc24c19 a68b78ee a86c6ada cdf16013 d332b0b7 f91ee42d fe771375", "zh": "02905a26 05938c89 19ce23c1 1f16be5d 23f019cc 25e834da 3226c05a 35742cf2 3820cf42 673f9787 68db4546 6d58e487 83f8f63c 87204ff0 934cd63d 9bb0fa56 9e8a8ed5 9ff4c4da a3c32567 a88bcd0c aff56b81 b5038a94 c2705193 c634a337 ddd9009c e35eda20 f917cec3 ff39683d"});
