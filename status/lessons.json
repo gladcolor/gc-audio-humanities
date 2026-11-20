@@ -1160,21 +1160,21 @@
  },
  "politics/china-world": {
   "counts": {
-   "done": 0,
+   "done": 52,
    "failed": 0,
    "held": 0,
-   "missing": 4,
-   "old": 48,
+   "missing": 0,
+   "old": 0,
    "total": 52
   },
   "fingerprint": "7c74c13540b4",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/politics/china-world.html",
   "title": {
    "en": "China and the World",
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
-  "updated": "2026-11-19 18:16:46",
+  "updated": "2026-11-20 04:31:49",
   "verified": ""
  },
  "politics/constitution": {
@@ -1213,7 +1213,7 @@
    "zh": "文明与家园：中华文化与核心价值观"
   },
   "updated": "2026-11-20 04:28:55",
-  "verified": ""
+  "verified": "2026-11-20 04:29:41"
  },
  "politics/development": {
   "counts": {
