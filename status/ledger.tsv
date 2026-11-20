@@ -2397,6 +2397,7 @@ zh	6ca2c8ef	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 06:02:02	tts	925ea
 zh	8903a589	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:56:19	tts	aa02394c6d
 zh	d882ee53	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:57:53	tts	079ba2c16e
 zh	f1de5817	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:56:20	tts	3711decc35
+en	1b709bf5	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 06:05:54	tts	a472c31a5e
 en	5ed1c2bb	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 05:57:16	tts	903b2faf44
 en	6108e843	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 06:01:54	tts	a8233cc7f1
 en	d5f408e2	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 05:59:33	tts	27e3a6c41e
@@ -2430,6 +2431,7 @@ en	3ebf4ca2	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:54:13	tts	
 en	415f0a19	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:59:43	tts	d3ffe896aa
 en	7f104255	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:51:36	tts	364b0aad53
 en	c9fb82d6	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:49:13	tts	9340b8623a
+en	d5f1ed5a	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 06:05:53	tts	a3fc81d167
 en	d8db3fa8	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:49:10	tts	a893aa7a57
 en	df8bc574	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:59:36	tts	682c070148
 zh	268f7ca6	georgia/ga-geography	serena t0.5 -16LUFS	48	2026-11-20 05:56:24	tts	9ebc5991ef
@@ -2530,7 +2532,9 @@ zh	99d34a19	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:56	tts
 zh	9c20581e	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:57:31	tts	c799b9f459
 zh	aebfc109	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:50:38	copy	d475509893
 zh	b5713c9f	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:56	tts	76374b1dd4
+en	05311039	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:05:49	tts	8ac36d5426
 en	0cd7e99d	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 05:53:59	tts	f0f191b5e8
+en	11fe495d	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	42924533ff
 en	3368db0c	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:00:34	tts	90888e8960
 en	45c4f86e	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 05:51:26	tts	8539606075
 en	81172568	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:01:57	tts	0aefd921dd
@@ -2605,6 +2609,7 @@ zh	dd92d963	georgia/ga-removal	serena t0.5 -16LUFS	48	2026-11-20 05:56:29	tts	4c
 en	1201e324	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	tts	57d9256d76
 en	203b5f87	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 06:00:29	tts	7f561de4c0
 en	39d8f683	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 05:51:27	tts	9a9fa98ed3
+en	43773bb3	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 06:05:51	tts	7ea727d692
 en	614c5519	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 05:54:14	tts	059f1ed88e
 en	8c141890	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 05:53:58	tts	ee11a0d3d1
 en	a1224153	georgia/ga-revolution	serena t0.5 -16LUFS	48	2026-11-20 05:53:05	tts	cee6067e6d
@@ -2823,4 +2828,5 @@ zh	cb5ccdd9	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 04:05:37	tts
 zh	dde3ad62	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 en	9573fd7f	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:05:42	tts	dcc9a8520b
 zh	d8f341d2	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:02:07	tts	81595e0d99
+en	3960fee3	worldhistory/wh-renaissance	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	dbdccd718a
 zh	08ed18eb	worldhistory/wh-renaissance	serena t0.5 -16LUFS	48	2026-11-20 06:02:05	tts	1010ae146c
