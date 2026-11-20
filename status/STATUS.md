@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:11:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:13:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,13 +12,13 @@ Updated 2026-11-20 07:11:45. Labels: finished / in progress / no audio / failed 
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
 | china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:58 | 2026-11-20 04:17:11 |
-| china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 |  |
-| china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 |  |
+| china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
+| china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
 | china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:39 | 2026-11-20 04:03:53 |
 | china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:26 | 2026-11-20 03:54:13 |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |
-| china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 |  |
+| china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 | 2026-11-20 07:12:59 |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
 | china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 | 2026-11-20 04:17:07 |
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 | 2026-11-20 07:02:53 |
@@ -26,7 +26,7 @@ Updated 2026-11-20 07:11:45. Labels: finished / in progress / no audio / failed 
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
 | china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 | 2026-11-20 03:59:06 |
 | china/regions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:25 | 2026-11-20 07:08:01 |
-| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:33 |  |
+| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:33 | 2026-11-20 07:13:04 |
 | china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 04:00:58 | 2026-11-20 04:02:14 |
 | china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 | 2026-11-20 07:05:53 |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
@@ -35,10 +35,10 @@ Updated 2026-11-20 07:11:45. Labels: finished / in progress / no audio / failed 
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 | 2026-11-20 03:47:36 |
 | china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:35 | 2026-11-20 04:03:52 |
 | china/terrain | failed | 1 | 0 | 0 | 1 | 0 | 2026-11-20 04:31:52 |  |
-| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 |  |
+| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 | 2026-11-20 07:13:01 |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:36 | 2026-11-20 03:51:57 |
-| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |
+| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 |  |
 | economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 | 2026-11-20 06:44:56 |
 | economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 | 2026-11-20 06:44:57 |
 | economics/econ-scarcity | no audio | 0 | 8 | 1 | 0 | 0 | 2026-11-19 18:22:57 |  |
