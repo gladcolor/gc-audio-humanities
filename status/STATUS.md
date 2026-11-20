@@ -1,20 +1,20 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:36:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:40:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
-| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 07:36:21 |  |
+| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 07:36:21 | 2026-11-20 07:37:48 |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
 | china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 | 2026-11-20 07:29:10 |
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
-| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 07:35:51 |  |
+| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 07:35:51 | 2026-11-20 07:37:47 |
 | china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 | 2026-11-20 07:34:07 |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
-| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
+| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 |  |
 | china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:17:25 | 2026-11-20 07:18:40 |
 | china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:51 | 2026-11-20 07:15:14 |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |

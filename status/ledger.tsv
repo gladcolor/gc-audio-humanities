@@ -266,6 +266,7 @@ zh	059de1b5	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 03:25:56	tts	4ed8
 zh	06b70c08	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 03:29:37	tts	7824610847
 zh	240ed89e	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 07:00:32	tts	577c1b3a01
 zh	246a6cb7	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 03:25:45	tts	a603a6c913
+zh	3e2ce284	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 07:40:06	tts	c9f1f6942c
 zh	658f1aa6	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 03:25:59	tts	7369bda0d8
 zh	7b412d27	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 07:06:51	tts	2aae1c87f3
 zh	80e57095	china/inventions	serena t0.5 -16LUFS	48	2026-11-20 03:19:10	tts	fc07536e7e
@@ -771,6 +772,7 @@ en	4cb37baf	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:29:36	tts	9d8897c
 en	50630c99	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:54:26	tts	00ce269677
 en	649a3256	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:34:55	tts	76fa83ae41
 en	95ec9862	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:29:29	tts	449b5aea6c
+en	a716a424	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:38:19	tts	d7d6f8fd4c
 en	b9ae1c41	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:29:28	tts	8b5ead8b79
 en	bba56712	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:54:14	tts	534b08f29e
 en	cf77e6ba	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:26:48	tts	ce8b346426
@@ -3104,6 +3106,7 @@ zh	c635bb54	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:23	
 zh	f8c3fa3e	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:20	tts	be03fdf67a
 zh	fa653b82	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:27	tts	4cbf41196e
 en	15b5c4b9	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:38	tts	0a60740041
+en	5fac9d6b	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:38:25	tts	f058fa5892
 en	751c31fd	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:33	tts	54cef40a89
 en	86c717e6	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:31	tts	854e6cf77c
 en	8a127937	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:32	tts	a6001a3ff7
@@ -3123,10 +3126,12 @@ en	296eb09e	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:54	tts
 en	2a5b60f7	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:44	tts	20238933d8
 en	395247e8	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:47	tts	e16ac14745
 en	3a1a33d1	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:44	tts	98a604a4f0
+en	49b3630c	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:38:24	tts	d739924911
 en	4f7158cf	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:50	tts	3074af9c7c
 en	5a5269bd	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:43	tts	19c724d143
 en	68e946e4	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:45	tts	1fcad5e40d
 en	6b11581e	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:54	tts	01ffacf7d1
+en	9be23010	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:38:18	tts	2e4d04b907
 en	b6f7acc0	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:51	tts	d2c9f6e5b4
 en	f6bc7760	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:52	tts	bc3d2e1c13
 en	fc243a34	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:52	tts	57b5692953
@@ -3148,7 +3153,10 @@ zh	eb3c4f64	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:16:08	tts
 zh	fb595ef3	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:16:03	tts	31251f8d35
 zh	fe4cbc26	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:16:17	tts	ed2352bc44
 en	01b8a754	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:29:31	tts	dacfea4145
+en	0ab7b18b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:38:21	tts	1e04f6904b
 en	a722fb8e	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:34:47	tts	b5021e69da
+en	c10c9669	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:38:15	tts	71e9e87462
+en	c6ca049e	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:38:22	tts	3304ee1e89
 zh	28b72e1b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:24	tts	3f9f6b4c9f
 zh	32c3a7ee	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:30	tts	15a2aca1e9
 zh	41b0549b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:26	tts	54d4382b39
@@ -3219,6 +3227,7 @@ zh	b708bea3	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-2
 zh	bd0710d6	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:19:29	tts	a5cad9edfd
 zh	f42ce14f	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:19:26	tts	5dea721b3d
 en	50c47761	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:34:50	tts	4a9eb88773
+en	74e48b35	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:38:17	tts	df35d2ccf5
 en	85e19f82	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:26:53	tts	4423f262ae
 en	c8d8e05c	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:26:45	tts	094a7da8e2
 zh	35aee2c5	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	6a3fec5ded
@@ -3238,12 +3247,14 @@ zh	cb916a3d	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:
 zh	cf99279f	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	42f7dd4876
 zh	f831b7ee	worldhistory/wh-greece-rome	serena t0.5 -16LUFS	48	2026-11-20 07:16:02	copy	851a8c3783
 en	02fa1987	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:29:27	tts	8d079bb1f0
+en	32a35bc8	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:38:16	tts	6ff84dc90f
 en	66ad07b2	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:26:48	tts	daec2c0aa2
 en	6897d134	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:34:49	tts	005a8bf72b
 en	a09ce247	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:26:46	tts	24752583cc
 en	b2a8c103	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:26:47	tts	c070e39edb
 en	c90772f6	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:34:51	tts	2bcfe6287a
 en	e2922d13	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:34:56	tts	0005b57b31
+en	e95486fe	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:38:16	tts	a385abc72f
 zh	0b9767fa	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:21:52	tts	2194420fc4
 zh	1f2d5c82	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:17:23	copy	96dbb96e08
 zh	350021ac	worldhistory/wh-india-persia	serena t0.5 -16LUFS	48	2026-11-20 07:21:52	tts	4a3a175710
