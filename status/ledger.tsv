@@ -882,8 +882,10 @@ en	16e7854b	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:35:27	tts
 en	3650f38e	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	2d017a59a2
 en	3dc528a2	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:11:29	copy	63f0643c43
 en	837fbd36	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:11:29	copy	4b4c1e4273
+en	ad0c3ced	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:43:16	tts	dca1f9c31e
 en	bab91b24	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:11:29	copy	e7af915991
 en	c192b473	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:11:29	copy	97a265c4a5
+en	c4f25463	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:43:16	tts	ee09219f02
 en	c595597c	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:35:32	tts	f998226551
 en	d551e472	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	24eb60200c
 en	e463f777	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:35:33	tts	fa0484c773
@@ -910,6 +912,7 @@ zh	abfd38cf	economics/econ-personal-finance	serena t0.5 -16LUFS	48	2026-11-20 06
 zh	be69f189	economics/econ-personal-finance	serena t0.5 -16LUFS	48	2026-11-20 06:14:37	copy	76d86ac7ad
 zh	f831b7ee	economics/econ-personal-finance	serena t0.5 -16LUFS	48	2026-11-20 06:14:37	copy	851a8c3783
 en	86f383dc	economics/econ-scarcity	serena t0.5 -16LUFS	48	2026-11-20 06:35:34	tts	2d18909146
+en	d87af741	economics/econ-scarcity	serena t0.5 -16LUFS	48	2026-11-20 06:43:13	tts	e827dd2abe
 en	efd1cd7d	economics/econ-scarcity	serena t0.5 -16LUFS	48	2026-11-20 06:35:29	tts	0b33755d3f
 zh	543dc268	economics/econ-scarcity	serena t0.5 -16LUFS	48	2026-11-20 06:11:38	tts	0fba93ac6b
 zh	c6aaadf6	economics/econ-scarcity	serena t0.5 -16LUFS	48	2026-11-20 06:08:52	tts	00aa5b3c2b
@@ -2562,6 +2565,7 @@ en	4c13fa9c	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:57:18	tts
 en	4c31e4e1	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:57:20	tts	8a2e7af447
 en	4cc19b30	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:55:18	tts	16b21cd530
 en	4d762bf7	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:55:16	tts	9026b20567
+en	4f17a3b6	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 06:43:13	tts	d1e9307917
 en	56ac8916	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:30	tts	167abeb795
 en	59e2225a	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:55:15	tts	89072d7d02
 en	5ac79412	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:33	tts	2824d99650
@@ -2650,6 +2654,7 @@ en	11fe495d	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	429
 en	3368db0c	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:00:34	tts	90888e8960
 en	45c4f86e	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 05:51:26	tts	8539606075
 en	81172568	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:01:57	tts	0aefd921dd
+en	9d2f160c	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:43:13	tts	602b9d9359
 en	d768f4cc	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 05:59:45	tts	731d3e4a8f
 en	ec6cbf02	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 05:53:13	tts	91c0936147
 en	fb8c754b	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:01:59	tts	28ee4043ee
