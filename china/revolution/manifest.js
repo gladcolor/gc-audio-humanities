@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "china/revolution", "voice": "serena", "en": "213b4471 3e492c7f 401a1c88 56c6964f 5d849b3e 81667a58 a1c07fca bcc1196c dda430a7 e0cd4dce f2668ca1 f46961f6 f66d0f19 fb282f38", "zh": "082e0097 2a704cd5 477d3bc9 4c3424b0 58477986 8deacd06 9d4c37d8 9fb9ee3a aee70ce5 b61ef7c8 b976d06e c61924a6 ddeb0d2d e1bf8964"});
+LabAudioManifest({"lesson": "china/revolution", "voice": "serena", "en": "213b4471 3e492c7f 401a1c88 56c6964f 5d849b3e 81667a58 a1c07fca bcc1196c dda430a7 e0cd4dce f2668ca1 f46961f6 f66d0f19 fb282f38", "zh": "082e0097 2a704cd5 477d3bc9 4c3424b0 58477986 5cfd2054 8deacd06 9d4c37d8 9fb9ee3a a6303c07 aee70ce5 b61ef7c8 b976d06e c61924a6 dde3ad62 ddeb0d2d e1bf8964"});
