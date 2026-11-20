@@ -248,21 +248,21 @@
  },
  "china/modern-china": {
   "counts": {
-   "done": 0,
+   "done": 33,
    "failed": 0,
    "held": 0,
-   "missing": 9,
-   "old": 24,
+   "missing": 0,
+   "old": 0,
    "total": 33
   },
   "fingerprint": "de0de5549505",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/modern-china.html",
   "title": {
    "en": "Modern China 1840–1919: Crisis & Resistance",
    "zh": "近代中国（1840—1919)：屈辱与抗争"
   },
-  "updated": "2026-11-19 18:13:35",
+  "updated": "2026-11-20 03:57:56",
   "verified": ""
  },
  "china/natural-wonders": {
