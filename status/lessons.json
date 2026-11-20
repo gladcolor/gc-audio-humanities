@@ -875,11 +875,11 @@
  },
  "geography/latitude-longitude": {
   "counts": {
-   "done": 43,
+   "done": 99,
    "failed": 0,
    "held": 0,
-   "missing": 521,
-   "old": 111,
+   "missing": 489,
+   "old": 87,
    "total": 675
   },
   "fingerprint": "08f055b42ea2",
@@ -889,7 +889,7 @@
    "en": "Latitude & Longitude",
    "zh": "经度与纬度"
   },
-  "updated": "2026-11-20 03:40:46",
+  "updated": "2026-11-20 03:46:10",
   "verified": ""
  },
  "geography/map-projections": {
