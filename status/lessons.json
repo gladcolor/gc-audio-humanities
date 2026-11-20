@@ -1,21 +1,21 @@
 {
  "_shared": {
   "counts": {
-   "done": 0,
+   "done": 63,
    "failed": 0,
    "held": 0,
-   "missing": 2708,
+   "missing": 2658,
    "old": 2,
-   "total": 2710
+   "total": 2723
   },
-  "fingerprint": "d095585591e4",
-  "label": "no audio",
+  "fingerprint": "7b24ac0e8477",
+  "label": "in progress",
   "page": "",
   "title": {
    "en": "shared clips",
    "zh": "shared clips"
   },
-  "updated": "2026-11-19 18:28:30",
+  "updated": "2026-11-20 07:59:22",
   "verified": ""
  },
  "china/ancient-engineering": {
@@ -1517,7 +1517,7 @@
    "zh": "大航海时代"
   },
   "updated": "2026-11-20 07:54:51",
-  "verified": ""
+  "verified": "2026-11-20 07:56:03"
  },
  "worldhistory/wh-first-civilizations": {
   "counts": {
