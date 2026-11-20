@@ -1255,21 +1255,21 @@
  },
  "politics/rule-of-law": {
   "counts": {
-   "done": 0,
+   "done": 19,
    "failed": 0,
    "held": 0,
-   "missing": 11,
-   "old": 8,
+   "missing": 0,
+   "old": 0,
    "total": 19
   },
   "fingerprint": "0afc053b6db3",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rule-of-law.html",
   "title": {
    "en": "Rule of Law",
    "zh": "走进法治天地 · 建设法治中国"
   },
-  "updated": "2026-11-19 18:16:29",
+  "updated": "2026-11-20 04:06:13",
   "verified": ""
  },
  "politics/state-organs": {
