@@ -8,6 +8,7 @@ en	ee6d4613	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:56:34
 en	f89aafba	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
 zh	1fc7d1b3	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	tts	156d68f83c
 zh	5cfd2054	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	ee1f80ec60
+zh	7185764e	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 07:11:30	tts	8d21086dbb
 zh	dde3ad62	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 zh	efd5d731	china/ancient-engineering	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	tts	d3de388d59
 en	9d0c0837	china/ancient-science	serena t0.5 -16LUFS	48	2026-11-20 03:15:31	tts	fa14082e30
@@ -450,6 +451,7 @@ en	79ed3aa3	china/prc-founding	serena t0.5 -16LUFS	48	2026-11-20 03:05:53	tts	3b
 en	cd81c154	china/prc-founding	serena t0.5 -16LUFS	48	2026-11-20 03:05:54	tts	4d0b994f2f
 en	d332b0b7	china/prc-founding	serena t0.5 -16LUFS	48	2026-11-20 02:59:36	copy	38f4981b03
 zh	18ea0bf7	china/prc-founding	serena t0.5 -16LUFS	48	2026-11-20 06:53:49	tts	ba76c73acc
+zh	d5a472d3	china/prc-founding	serena t0.5 -16LUFS	48	2026-11-20 07:11:02	tts	36231c246a
 en	04148f94	china/qin-han	serena t0.5 -16LUFS	48	2026-11-20 02:53:40	tts	36d289026c
 en	0b457d38	china/qin-han	serena t0.5 -16LUFS	48	2026-11-20 02:53:48	tts	ae3f522b0d
 en	0e871a13	china/qin-han	serena t0.5 -16LUFS	48	2026-11-20 02:56:35	tts	17771c3978
@@ -519,6 +521,7 @@ zh	a6303c07	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts	31ed
 zh	aee70ce5	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:05:18	tts	eed5f3817c
 zh	b61ef7c8	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:25:14	tts	40828dfb6a
 zh	b976d06e	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:25:09	tts	2de032596b
+zh	c61924a6	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 07:11:33	tts	2b5114649f
 zh	dde3ad62	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 zh	ddeb0d2d	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:25:08	tts	b015d7f752
 zh	e1bf8964	china/revolution	serena t0.5 -16LUFS	48	2026-11-20 03:25:15	tts	a3bbc05b7c
@@ -538,9 +541,13 @@ en	d11113cf	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 03:27:14	tts	63
 en	d166375f	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 03:27:23	tts	e0db0d799e
 en	f5a4ca46	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 03:27:15	tts	9dfaa6bc3a
 zh	063337ff	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:10:36	tts	555d80a30f
+zh	2397c574	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:11:32	tts	b241959206
 zh	2e55e730	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 06:53:48	tts	41c30b5917
 zh	57d58991	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:10:34	tts	d675e54868
+zh	6f607645	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:11:31	tts	1e3683d51a
+zh	9a098889	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:11:32	tts	77103458aa
 zh	b771612b	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:10:47	tts	7a58269e7f
+zh	cb128aad	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:11:30	tts	699887be6f
 zh	e3181b94	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 07:10:33	tts	8aea23d756
 zh	e918438a	china/seas-islands	serena t0.5 -16LUFS	48	2026-11-20 06:53:41	tts	14f0352b4e
 en	035f6c71	china/silk-road-explorers	serena t0.5 -16LUFS	48	2026-11-20 03:52:19	tts	9bbd76e5a0
@@ -2896,6 +2903,7 @@ zh	a6303c07	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts
 zh	aa8ed336	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:06:24	tts	cfe9c69c7a
 zh	cb5ccdd9	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:04:47	tts	3c671f95ec
 zh	dde3ad62	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
+zh	5306d9a1	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:29	tts	945e0569b6
 en	9573fd7f	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:05:42	tts	dcc9a8520b
 zh	d8f341d2	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:02:07	tts	81595e0d99
 en	3960fee3	worldhistory/wh-renaissance	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	dbdccd718a
