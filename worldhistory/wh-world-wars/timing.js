@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "worldhistory/wh-world-wars", "en": {"3fd49586": {"dur": 33.92}, "45ea2a52": {"dur": 11.28}, "b4f3adcc": {"dur": 14.0}, "ed845466": {"dur": 11.28}}, "zh": {"02f1d93e": {"dur": 12.4}, "30e78f64": {"dur": 9.2}, "375ed580": {"dur": 24.96}, "474bbf4a": {"dur": 10.24}, "b82d9f73": {"dur": 13.28}}});

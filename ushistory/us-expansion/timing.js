@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ushistory/us-expansion", "en": {"63304e87": {"dur": 14.64}, "65c2b3d8": {"dur": 20.4}, "bf2898e2": {"dur": 27.04}, "e0d6cd68": {"dur": 16.4}}, "zh": {"2d88215f": {"dur": 33.76}, "57b049c8": {"dur": 32.16}, "5e77dc90": {"dur": 33.04}, "66786550": {"dur": 11.52}, "8bff9d92": {"dur": 20.0}, "8d7cd15b": {"dur": 22.64}, "bdd57f2e": {"dur": 17.2}, "c0cc58f1": {"dur": 11.44}, "c85dcb40": {"dur": 41.36}, "cdbe6d1b": {"dur": 22.24}, "dc1b34b0": {"dur": 22.56}}});

@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "china/ancient-engineering", "en": {"3c9dc8c2": {"dur": 0.8}, "41995188": {"dur": 0.8}, "8b57e4f7": {"dur": 17.28}, "b03a24e5": {"dur": 29.76}, "c778a342": {"dur": 0.96}, "ee6d4613": {"dur": 0.88}, "f89aafba": {"dur": 1.28}}, "zh": {"1fc7d1b3": {"dur": 1.6}, "2cc5bea9": {"dur": 30.16}, "45980510": {"dur": 27.12}, "5cfd2054": {"dur": 1.84}, "7185764e": {"dur": 13.36}, "dde3ad62": {"dur": 1.36}, "efd5d731": {"dur": 1.2}}});

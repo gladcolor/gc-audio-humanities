@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "china/taiwan-hkm", "en": {"1a46665f": {"dur": 53.28}, "20c36f59": {"dur": 33.12}, "3256da1f": {"dur": 49.36}, "458e2cd2": {"dur": 34.64}, "ab54b3c3": {"dur": 33.68}}, "zh": {"3519ac0d": {"dur": 32.24}, "57537be3": {"dur": 28.4}, "5f5aeb10": {"dur": 22.32}, "7bd9f246": {"dur": 9.36}, "f79b8c88": {"dur": 7.76}, "f7cd15f3": {"dur": 8.56}, "fde2ac38": {"dur": 28.32}}});

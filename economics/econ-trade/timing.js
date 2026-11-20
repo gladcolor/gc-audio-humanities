@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "economics/econ-trade", "en": {"00df8bcb": {"dur": 32.48}, "218b567d": {"dur": 40.8}, "2e427f7a": {"dur": 42.32}, "b8102f00": {"dur": 32.56}, "d8822a7a": {"dur": 29.84}}, "zh": {"32fd01d4": {"dur": 23.36}, "47ab2cab": {"dur": 39.76}, "483bd2f0": {"dur": 24.32}, "ae817972": {"dur": 33.28}}});

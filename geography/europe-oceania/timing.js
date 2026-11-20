@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "geography/europe-oceania", "en": {"48d9aa0c": {"dur": 36.16}, "7aedaa80": {"dur": 41.12}, "83d35fee": {"dur": 35.76}, "90aa9913": {"dur": 12.4}, "95a71efa": {"dur": 39.68}, "98125e6c": {"dur": 13.36}, "9a6fcb37": {"dur": 11.84}, "c0b22a84": {"dur": 12.72}, "cbf91aa7": {"dur": 34.48}, "dcb9391b": {"dur": 12.16}, "f67138a2": {"dur": 33.2}, "fd043278": {"dur": 40.0}}, "zh": {}});

@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "economics/econ-supply-demand", "en": {"10e45948": {"dur": 26.16}, "16df439b": {"dur": 28.24}, "3527d087": {"dur": 31.36}}, "zh": {"1ce13381": {"dur": 22.24}, "70768268": {"dur": 25.6}, "79f58e76": {"dur": 28.16}, "7ed406b1": {"dur": 25.76}, "8d0b8730": {"dur": 21.68}, "9c863725": {"dur": 18.32}, "9d2444e1": {"dur": 28.56}, "dddb7a30": {"dur": 25.12}}});

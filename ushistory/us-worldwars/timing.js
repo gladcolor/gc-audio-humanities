@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ushistory/us-worldwars", "en": {"65c2b3d8": {"dur": 20.4}, "a7251a2f": {"dur": 25.76}, "b4f3adcc": {"dur": 14.0}, "cea4c584": {"dur": 22.56}}, "zh": {"02f1d93e": {"dur": 12.4}, "16416060": {"dur": 28.56}, "8f84e70d": {"dur": 22.8}, "bdd57f2e": {"dur": 17.2}, "c064c2bd": {"dur": 46.64}}});
