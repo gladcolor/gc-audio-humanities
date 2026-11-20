@@ -757,7 +757,7 @@
    "zh": "经济体制"
   },
   "updated": "2026-11-20 07:50:00",
-  "verified": ""
+  "verified": "2026-11-20 07:51:16"
  },
  "economics/econ-trade": {
   "counts": {
@@ -1384,7 +1384,7 @@
    "zh": "殖民地与美国独立战争"
   },
   "updated": "2026-11-20 07:49:50",
-  "verified": ""
+  "verified": "2026-11-20 07:51:14"
  },
  "ushistory/us-constitution": {
   "counts": {
@@ -1502,21 +1502,21 @@
  },
  "worldhistory/wh-exploration": {
   "counts": {
-   "done": 0,
+   "done": 5,
    "failed": 0,
    "held": 0,
-   "missing": 3,
-   "old": 2,
+   "missing": 0,
+   "old": 0,
    "total": 5
   },
-  "fingerprint": "49d107e4efcd",
-  "label": "no audio",
+  "fingerprint": "7d4316a0e3d8",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-exploration.html",
   "title": {
    "en": "The Age of Exploration",
    "zh": "大航海时代"
   },
-  "updated": "2026-11-19 18:22:38",
+  "updated": "2026-11-20 07:54:51",
   "verified": ""
  },
  "worldhistory/wh-first-civilizations": {
