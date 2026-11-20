@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 06:35:10. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:37:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -55,17 +55,17 @@ Updated 2026-11-20 06:35:10. Labels: finished / in progress / no audio / failed 
 | geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 | 2026-11-20 05:59:31 |
 | geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 | 2026-11-20 05:44:54 |
 | geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 | 2026-11-20 06:03:20 |
-| georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 |  |
+| georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 | 2026-11-20 06:35:15 |
 | georgia/ga-civilrights | no audio | 0 | 8 | 9 | 0 | 0 | 2026-11-19 18:20:54 |  |
-| georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 |  |
+| georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 | 2026-11-20 06:36:41 |
 | georgia/ga-colony | no audio | 0 | 10 | 2 | 0 | 0 | 2026-11-19 18:20:18 |  |
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
 | georgia/ga-government | no audio | 0 | 249 | 3 | 0 | 0 | 2026-11-19 18:21:22 |  |
 | georgia/ga-modern | no audio | 0 | 15 | 5 | 0 | 0 | 2026-11-19 18:20:59 |  |
-| georgia/ga-native | in progress | 13 | 12 | 1 | 0 | 0 | 2026-11-20 05:57:32 |  |
-| georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 |  |
-| georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 |  |
-| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 |  |
+| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 |  |
+| georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 | 2026-11-20 06:35:19 |
+| georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
+| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
 | politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 04:31:49 | 2026-11-20 04:32:49 |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
 | politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:28:55 | 2026-11-20 04:29:41 |

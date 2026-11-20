@@ -985,7 +985,7 @@
    "zh": "世界大战、大萧条与新政"
   },
   "updated": "2026-11-20 06:33:07",
-  "verified": ""
+  "verified": "2026-11-20 06:35:15"
  },
  "georgia/ga-civilrights": {
   "counts": {
@@ -1023,7 +1023,7 @@
    "zh": "南北战争中的佐治亚"
   },
   "updated": "2026-11-20 06:35:10",
-  "verified": ""
+  "verified": "2026-11-20 06:36:41"
  },
  "georgia/ga-colony": {
   "counts": {
@@ -1103,21 +1103,21 @@
  },
  "georgia/ga-native": {
   "counts": {
-   "done": 13,
+   "done": 26,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 12,
+   "missing": 0,
+   "old": 0,
    "total": 26
   },
   "fingerprint": "520deb900b2f",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-native.html",
   "title": {
    "en": "Native Americans of Georgia",
    "zh": "佐治亚州的美洲原住民"
   },
-  "updated": "2026-11-20 05:57:32",
+  "updated": "2026-11-20 06:37:07",
   "verified": ""
  },
  "georgia/ga-reconstruction": {
@@ -1137,7 +1137,7 @@
    "zh": "重建时期与“新南方”"
   },
   "updated": "2026-11-20 06:33:27",
-  "verified": ""
+  "verified": "2026-11-20 06:35:19"
  },
  "georgia/ga-removal": {
   "counts": {
@@ -1156,7 +1156,7 @@
    "zh": "土地、黄金与切罗基人迁移"
   },
   "updated": "2026-11-20 06:33:15",
-  "verified": ""
+  "verified": "2026-11-20 06:35:18"
  },
  "georgia/ga-revolution": {
   "counts": {
@@ -1175,7 +1175,7 @@
    "zh": "独立战争与早期州政"
   },
   "updated": "2026-11-20 06:33:44",
-  "verified": ""
+  "verified": "2026-11-20 06:35:21"
  },
  "politics/china-world": {
   "counts": {
