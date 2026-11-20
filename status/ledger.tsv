@@ -1,12 +1,16 @@
 lang	key	lesson	voice	kbps	date	source	send
+en	00b6db3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:28	tts	081fa5a13f
 en	014e6f94	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:19	tts	917fcfae57
 en	021717cb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:41	tts	3848ec1c99
 en	029b2da0	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:29	tts	9372503da8
+en	03998ad0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:21:35	tts	fcde51d3d9
 en	04102198	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:58	tts	695985697c
 en	0597f5ff	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:29	tts	8fd1a6093e
 en	081b582d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:57	tts	4a0a784c83
 en	097389aa	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:33	tts	c3cecda4d7
+en	0be9b219	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:32	tts	9b22b65d2b
 en	0cb75391	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:34	tts	567f15008f
+en	0d50fb14	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:30	tts	273e4c9622
 en	0dab204a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:33	tts	deae073f9c
 en	0de1c7da	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:56	tts	273226360e
 en	0df73ec0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:32	tts	1d31ea3502
@@ -17,6 +21,7 @@ en	11d2945e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:34	tts	d4f7363852
 en	123168f7	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:18	tts	ec86a3d165
 en	139faeca	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:00	tts	59197122f6
 en	13d86cf5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:17	tts	b350faedc0
+en	142bddfb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:21	tts	ec761239c4
 en	14807eba	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:43	tts	fceaf6af94
 en	148b9daf	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:33	tts	684ceb2605
 en	14bd50d4	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:57	tts	e582c732ab
@@ -68,13 +73,17 @@ en	3d62e8c9	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:19	tts	659d9ab17e
 en	3d6358c1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:27	tts	850b1dc8d2
 en	3da51bef	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:29	tts	512c2c69e2
 en	3e4cd027	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:48	tts	2018f6bb38
+en	3f9932f6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:26	tts	a6823c69f6
+en	3f9bb016	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:21:35	tts	c5ab7ed0de
 en	40717bbd	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:45	tts	3d646e309e
 en	40faa3a8	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:24	tts	6a13d40dab
 en	40fae5bb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:26	tts	ac73f8bccf
 en	414fbf71	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:03	tts	9958b2fe0c
 en	41ae9717	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:28	tts	57da83538a
+en	423ad3a7	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:35	tts	e4a8c5fa30
 en	42e0e62c	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:30	tts	9be9185b3a
 en	435b7b9f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:34	tts	e69b0257e9
+en	466c26f2	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:25	tts	f0511969df
 en	47e631e9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:06	tts	acb4b02c69
 en	482cddee	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:59	tts	a2d2a310de
 en	483fb27f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:31	tts	5ebd2d4771
@@ -88,6 +97,7 @@ en	4d50c0aa	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:37	tts	4cac619f6e
 en	4e254bdc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:35	tts	3f785fe178
 en	4e5b7edc	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:34	tts	6c62e110be
 en	4eb3b7de	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:28	tts	5909625ace
+en	50ffbc47	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:21:36	tts	3e5f3dafa4
 en	5153aff7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:32	tts	9cde9852ee
 en	51ea3ef5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:27	tts	8cd9f219ed
 en	5244a510	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:29	tts	9f8cb07f33
@@ -120,6 +130,7 @@ en	649fc54e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:02	tts	d0d84b29c7
 en	651b14fc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:14	tts	b7e34d79e7
 en	65769fe4	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:38	tts	281882dd52
 en	65b73f3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:32	tts	47bdc05da6
+en	66a4d90d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:31	tts	0eeb777a8c
 en	672346ea	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:29	tts	02f74b0408
 en	673544b8	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:04	tts	242e772c75
 en	6736cfea	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:50	tts	e713ff6112
@@ -137,6 +148,7 @@ en	6e42b3fe	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:25	tts	5d327c1af3
 en	6f0560bd	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:35	tts	19c9f7ef33
 en	6f8a1b19	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:27	tts	6c9515ee96
 en	7143e778	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:39	tts	6d8ea318a2
+en	720a529d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:27	tts	d0030eee78
 en	727a6ae7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:29	tts	c20e003210
 en	7312a2e7	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:30	tts	9e7f6d552e
 en	740cd191	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:46	tts	eced8a0ab3
@@ -148,15 +160,18 @@ en	765fa6fa	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:16	tts	131fd7624d
 en	770206cf	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:28	tts	084bacdbd1
 en	77a20ff1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:29	tts	a8dc076a03
 en	7878d118	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:02	tts	b8af494041
+en	7abe018f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:35	tts	22609f99b2
 en	7ad377b9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:22	tts	116b6b0029
 en	7c077cd0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:36	tts	8277ce9730
 en	7c2ceac5	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:43	tts	ba1a2214b1
 en	7c8b8d2b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:17	tts	3aacdb7468
 en	7f92b623	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:04	tts	722b4a09ec
 en	807595b4	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:31	tts	d3c8765e26
+en	80f23817	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:33	tts	ce3dd3a081
 en	81bf0dbf	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:30	tts	5ac4f75387
 en	81ff3492	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:30	tts	dbda295a2c
 en	82a168c0	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:27	tts	d8eb2bb10e
+en	83fe6b4d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:32	tts	28331c232f
 en	84672021	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:28	tts	2a4140673c
 en	8492c55b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:26	tts	7b41d35cf4
 en	84957d8a	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:22	tts	4198fdeb0d
@@ -169,6 +184,7 @@ en	8a1646ce	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:28	tts	af5afbda88
 en	8a52653f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:42	tts	a64020f029
 en	8a71b073	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:32	tts	cb8c9ec7c5
 en	8bd57708	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:39	tts	04f37116b9
+en	8bde4e01	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:15	tts	d63f91de6a
 en	8c72acc4	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:30	tts	7948c42e91
 en	8e095bce	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:20	tts	0cd6eb7e68
 en	8eb2821c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:46	tts	9627896354
@@ -184,17 +200,20 @@ en	979003b1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:04	tts	c81e8c392e
 en	9a5198f2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:16	tts	771bfeb177
 en	9aee14b7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:35	tts	18497faad1
 en	9bd010ff	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:27	tts	86ff237cce
+en	9e8218d9	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:23	tts	44becc3241
 en	9fc57fda	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:15	tts	248d9ee5c8
 en	a02a3ba6	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:29	tts	b567273f05
 en	a0306a3b	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:44	tts	1d047b3463
 en	a16a5cc5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:35	tts	539b525c8f
 en	a23aa26c	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:40	tts	26eed489d8
+en	a2efc4d5	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:28	tts	b0f78dc16c
 en	a3626181	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:33	tts	d7b7419569
 en	a3e0b7ec	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:25	tts	cf7a57dcf6
 en	a4400052	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:50	tts	01ea0bb7c1
 en	a907b3a6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:34	tts	99dd08282d
 en	a96b76fe	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:40	tts	7a88a4cd61
 en	a9b90e4e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:33	tts	9ac0b83e6d
+en	aa174a5a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:34	tts	0f279dd91f
 en	aa2388e9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:26	tts	d7b23d6db0
 en	aa953824	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:39	tts	405baa89af
 en	aba6fd20	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:30	tts	ce4084ac45
@@ -204,11 +223,13 @@ en	adb285c5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:31	tts	0ab7da8762
 en	add362f1	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:29	tts	5b220c8659
 en	ae32ab22	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:34	tts	0e843c9467
 en	aea82549	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:23	tts	aecb2d059c
+en	aed94880	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:25	tts	e674c68835
 en	af0de4d0	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:28	tts	1119a465bf
 en	af495819	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:30	tts	6ad9bace5e
 en	af94e185	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:35	tts	f95ba3a30b
 en	b080a392	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:32	tts	cf77306e5c
 en	b0d35f1b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:35	tts	a5404fcc4f
+en	b1740bcc	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:20	tts	546491ff1d
 en	b2670fe6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:49	tts	0f0b9bc039
 en	b3ee5e91	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:31	tts	948e90d171
 en	b5802d2f	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:36	tts	5d96341de5
@@ -221,6 +242,7 @@ en	b9bb525a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:30	tts	a2b1bd5e00
 en	b9d649c7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:38	tts	65286299de
 en	bb86b8a7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:30	tts	293c1df745
 en	bbc362cf	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:33	tts	296b1561cb
+en	bbcbf21f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:44	tts	fc7c931b15
 en	bc1c28a6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:36	tts	7e18e2e0ca
 en	bca7b897	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:34	tts	dbdc726635
 en	bcda4a50	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:26	tts	13ed03b3fa
@@ -232,6 +254,7 @@ en	c2d365f5	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:33	tts	d393be595d
 en	c56bdecc	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:31	tts	9f89a155de
 en	c5823639	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:37	tts	1f820a2326
 en	c61b2d0a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:00	tts	14448140d1
+en	c77da51b	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:43	tts	56f0ffc06d
 en	c7933f21	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:18	tts	a563cfd342
 en	c7b0fda3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:25	tts	b00636ff7a
 en	c7fc0cfe	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:36	tts	795be57307
@@ -243,6 +266,7 @@ en	ccf7275e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:30	tts	25e314fcac
 en	cd978cca	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:26	tts	d1b94febba
 en	cda635ac	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:19:28	tts	5cfb13f894
 en	ceadf396	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:27	tts	c64d34edb2
+en	cef8707d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:33	tts	964c3448be
 en	cefeccb3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:29	tts	ce93da95c6
 en	d0a93b20	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:33	tts	22586bae4d
 en	d12e99f0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:58	tts	ee10e9b17c
@@ -268,6 +292,7 @@ en	e598e27b	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:29	tts	28581d0460
 en	e641bab6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:55	tts	96c6412403
 en	e6eabc59	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:28	tts	9354fd1ea8
 en	e7a40102	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:32	tts	3c460558f4
+en	e7ba6cf5	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:45	tts	f178dc527d
 en	e7c55cf8	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:58:41	tts	ec45ef2e52
 en	e8da8168	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:05	tts	76e905bcb8
 en	e8de1a37	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:20	tts	1cb9c7cb6d
@@ -283,6 +308,7 @@ en	efd998ef	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:23	tts	35fbc6d90e
 en	f00177ca	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:43	tts	ea3728de73
 en	f09cb145	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:15:01	tts	2b8aaf2466
 en	f0d7cfca	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:30	tts	a945269c90
+en	f3106beb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:41	tts	ded46b51aa
 en	f42bbbfe	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:56:31	tts	2faea03643
 en	f6a452bf	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:12	tts	6fe64dfaaa
 en	f79ac420	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:37	tts	22e56e21d4
@@ -290,8 +316,10 @@ en	f7aa84dc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:34	tts	7dcb14a436
 en	f8bfcf85	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:28	tts	40022a32bc
 en	f8c1174f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:34	tts	4107d0a654
 en	f9056272	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:01:23	tts	9371075d57
+en	f94f0646	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:30	tts	34a70e04fd
 en	f9536c0e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:16	tts	8d55fb3a2c
 en	f9b020db	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:11:39	tts	eaae78ec18
+en	faccde9e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:19:29	tts	44fcfe403a
 en	fb017b6b	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:32	tts	a6b0ac67d0
 en	fb66e6b0	_shared	serena t0.5 -16LUFS	48	2026-11-20 07:59:31	tts	8f036b49cd
 en	fb81cdd6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:35	tts	a723a9e45e
@@ -321,6 +349,7 @@ zh	03f6bb75	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:50	tts	e0f8d9ceb8
 zh	0416b644	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:59:43	tts	49e331eb0f
 zh	045c81ba	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:06	tts	b2b54ccb76
 zh	045f4cda	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:35	tts	d0f2f8a8b7
+zh	0474ba2a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:36	tts	b01980d080
 zh	048ecd8f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:10	tts	fdd099dcbe
 zh	05426b90	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:12	tts	cc3a44e7d5
 zh	060d74bb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:27	tts	4dfa6aabad
@@ -337,6 +366,7 @@ zh	07c063fa	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:45:03	tts	72ae722df9
 zh	08351139	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:04:32	tts	92be16b6d8
 zh	0846aeb3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:03	tts	7ca3e2aef0
 zh	08b32775	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:21	tts	7c354f8645
+zh	08eb963d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:17:00	tts	f0e03755cb
 zh	0920eb6b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:53	tts	4b3e3967b2
 zh	09326194	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:45	tts	27ea4b29a3
 zh	093487ae	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:46	tts	b906eaa3ad
@@ -433,6 +463,8 @@ zh	19fe43a6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:51	tts	0ae4689df3
 zh	1a30619b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:39	tts	c2e88313b0
 zh	1a31abb5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:55	tts	d6af98f3ed
 zh	1a41071d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:07	tts	1c298e47c5
+zh	1a4d6970	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:34	tts	329236361d
+zh	1a6df6cf	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:34	tts	b2b5d4d0a6
 zh	1aadfd26	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:43	tts	669268f57f
 zh	1ac125ec	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:42:00	tts	2a9dd2cd26
 zh	1af36369	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:19	tts	8831d3aa6e
@@ -447,12 +479,14 @@ zh	1bda14fc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:17:28	tts	f306668772
 zh	1c06deb6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:03:59	tts	35ae67b8b4
 zh	1c56bc02	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:15	tts	b6180f9969
 zh	1c7bf7ec	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:49	tts	e1e6f96e6b
+zh	1c8f20c6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:35	tts	a5ed735981
 zh	1cff5771	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:07	tts	3f87011b96
 zh	1d54e851	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:25:05	tts	f540af1133
 zh	1d61819e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:48:28	tts	5486884320
 zh	1d826f52	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:27	tts	f195b2906a
 zh	1d9923cc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:05	tts	d1531c6b39
 zh	1db67f8f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:19	tts	f011fb6c44
+zh	1dd033bd	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:34	tts	154b4e8d6f
 zh	1e3455a4	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:01:54	tts	be9ed86392
 zh	1ea27346	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:56	tts	5095dcfecd
 zh	1ecb8afa	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:47	tts	8b49b72598
@@ -464,6 +498,7 @@ zh	1fb9ad07	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:34	tts	3041c3e9d8
 zh	1fedc04a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:05	tts	eb30f786d2
 zh	1fee6a7b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:58	tts	bbce959ed7
 zh	1ff24752	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:23	tts	053a04f66d
+zh	1ff74ce9	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:35	tts	aa2f71577d
 zh	1ff94124	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:17	tts	49101b8ff1
 zh	207afaf6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:03:59	tts	a87c9098dc
 zh	20a7de10	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:05	tts	957cf5530b
@@ -473,6 +508,7 @@ zh	20e49031	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:04:16	tts	36be821be4
 zh	2106f792	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:59	tts	8da5213eb4
 zh	212ac621	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:13	tts	852c9f3fa2
 zh	21521a11	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:04	tts	6d235cffa7
+zh	215e268d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:36	tts	7071de6df0
 zh	2182cc2c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:15	tts	dd1b06487d
 zh	218b900b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:25:09	tts	fbe68e1b3b
 zh	21b50a10	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:14	tts	37c6c579a2
@@ -528,6 +564,7 @@ zh	2afa8c87	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:50	tts	fbeac5a7c9
 zh	2b1f8b4f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:17:32	tts	80273dacb5
 zh	2b718479	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:18	tts	40b60f2109
 zh	2ba2eacb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:00:11	tts	9f36e157d0
+zh	2ba8ab70	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:36	tts	33b465a69f
 zh	2bbe3c26	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:42:01	tts	adf40c45a1
 zh	2bbeb838	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:12	tts	32db169a1c
 zh	2bcda392	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:23	tts	e1fa666a57
@@ -587,6 +624,7 @@ zh	35250d70	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:55	tts	c290288905
 zh	3541055d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:17	tts	39de91d0e3
 zh	35e9c006	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:12	tts	b53cd8f98b
 zh	36a496ce	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:34	tts	97ec153dc6
+zh	373a6d04	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:34	tts	4022e33e43
 zh	375a5aa2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:11	tts	1aa0558e64
 zh	3767d63e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:13	tts	5e381e6389
 zh	382382cd	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:17	tts	75e4087cc8
@@ -647,11 +685,13 @@ zh	422ba873	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:47	tts	2d4539ebdc
 zh	425647f2	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:47	tts	aaefadfc8a
 zh	426b36fc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:28	tts	aa6c735e02
 zh	42ba3e7e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:28	tts	483c71a3f5
+zh	42c39b99	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:35	tts	a7824c8ecc
 zh	42e0c840	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:19	tts	3cfe620179
 zh	43d425c3	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:00:10	tts	1e14fccf4f
 zh	44144a89	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:17	tts	6087113a49
 zh	44268d8a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:21	tts	186363ab04
 zh	443dfec1	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:12:17	tts	9e57a4f72b
+zh	444f266b	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:35	tts	b6950d8e9f
 zh	446c87cb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:34	tts	cf30e0f7e4
 zh	449f0d30	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:13	tts	b5c94af2aa
 zh	44a007b7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:51	tts	cb8305cb86
@@ -687,6 +727,7 @@ zh	4a194a58	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:31	tts	27b26e7d81
 zh	4a2e8c51	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:54	tts	25b9804526
 zh	4a4ac3ff	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:00	tts	6ef77ee2a6
 zh	4a4f7933	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:12	tts	4671b384c8
+zh	4a61bf60	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:59	tts	0abb9ceae2
 zh	4a6883d2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:54	tts	d581de2975
 zh	4a8b0d12	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:59:49	tts	dec926cba6
 zh	4ac4e2ec	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:21	tts	ec964ad3ad
@@ -699,6 +740,7 @@ zh	4d0e4d0e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:10:22	tts	d6dbb14b29
 zh	4d171e7e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:40	tts	1d400acf31
 zh	4d6c8aaa	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:37	tts	b828136da6
 zh	4d9a20a7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:29	tts	c4fdc47497
+zh	4dad246a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:40	tts	eb4d572b11
 zh	4dcda21e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:12	tts	2bcb4835cc
 zh	4e1aa613	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:13	tts	69d172c6d1
 zh	4eac6df9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:21	tts	925d446ac7
@@ -706,6 +748,7 @@ zh	4eb8b28a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:29	tts	79e011d8bf
 zh	4ef02b3c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:30	tts	6ca7dad788
 zh	4f040d05	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:35	tts	f7cd433be4
 zh	4f17ad71	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:38	tts	2574bbd2b3
+zh	4f291f40	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:22	tts	c453d0ff0c
 zh	4f364d2d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:22	tts	ac27b64b1f
 zh	4f6475e5	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:06:48	tts	a2c3331b5c
 zh	4fcb3e27	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:12	tts	67f3f19504
@@ -822,6 +865,7 @@ zh	667d04b3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:59	tts	288b380c3c
 zh	66839b16	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:00	tts	dd1fc39087
 zh	6697d331	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:56	tts	2deb84b813
 zh	66c1aa8b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:41	tts	6c1ce28a0c
+zh	6721e913	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:25	tts	96e7d75207
 zh	67368a42	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:25:08	tts	6d91069665
 zh	677f0fb2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:35	tts	bfc263ec41
 zh	67fb3d3c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:01	tts	a753ae001c
@@ -829,6 +873,7 @@ zh	68190d07	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:38	tts	1389369bf8
 zh	689077a9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:06	tts	4a68987657
 zh	6905003b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:50	tts	95290a90f5
 zh	6984fb4d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:04	tts	d6bfab2f1a
+zh	69b45ac3	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:34	tts	36aa5e3a37
 zh	69e75ac4	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:18	tts	80f00ffec9
 zh	69e7672f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:32	tts	77a8daecf5
 zh	6a46b9af	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:53	tts	af50265b09
@@ -839,6 +884,7 @@ zh	6b574ce9	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:58	tts	f3af5637bd
 zh	6b60cca9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:32:13	tts	e1b17157bf
 zh	6bb14dab	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:25	tts	35f825ed27
 zh	6be49f44	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:34	tts	a375c9b0e7
+zh	6bffc5de	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:26	tts	0f48c0bae0
 zh	6c616929	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:09	tts	6e01ab8042
 zh	6c79e321	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:28	tts	56fd0bec00
 zh	6c81a779	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:48	tts	62a37a90ea
@@ -856,6 +902,7 @@ zh	6e86a611	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:19	tts	6a5c2a4827
 zh	6e921704	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:20	tts	a9d464ca30
 zh	6e935c92	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:04	tts	c417547023
 zh	6f0e7abf	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:44:14	tts	2fde33a2b5
+zh	6f1cb169	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:17:00	tts	cb360d0d12
 zh	6f312d5c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:40	tts	476adf6809
 zh	6f4559e0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:22:37	tts	aee9e7046b
 zh	6f541682	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:38	tts	81763fdf72
@@ -868,6 +915,7 @@ zh	704062ca	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:22	tts	41841b23c9
 zh	708aaa58	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:17:54	tts	3c60b6047b
 zh	70d5e56a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:27	tts	feb6dc6f2b
 zh	70eedf71	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:02	tts	5f0532629b
+zh	7125da03	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:25	tts	413927ac99
 zh	712fbed6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:05	tts	9a560a14d9
 zh	720e07bb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:07	tts	bdbdb006a6
 zh	72264613	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:16	tts	e61233f15a
@@ -936,6 +984,7 @@ zh	7c6b29e0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:59	tts	c308d0cf9e
 zh	7c720020	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:51	tts	20487a4641
 zh	7cbaa329	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:36:22	tts	fb28cadfbc
 zh	7d0d2410	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:10:21	tts	c4e92a3f76
+zh	7dee2677	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:59	tts	22eca276e5
 zh	7e0faeab	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:15	tts	e1884bf615
 zh	7e273975	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:44:00	tts	16b68a1803
 zh	7e30389f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:18	tts	a9675064d1
@@ -967,6 +1016,7 @@ zh	8469350f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:54	tts	ae5706ec33
 zh	8499cd51	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:28	tts	dfde34b77e
 zh	849c9e3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:46	tts	69debfc9d8
 zh	84b95783	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:30	tts	b05fcdb99e
+zh	852065ac	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:33	tts	8885bc1b7c
 zh	85316359	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:09:06	tts	fa6a84edb6
 zh	854ebf02	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:55	tts	ea1a29739d
 zh	8555f5e5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:35	tts	5252a1622b
@@ -985,6 +1035,7 @@ zh	88db408a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:34	tts	5b611f9027
 zh	8904705b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:56	tts	ad2e9ed5f7
 zh	8911b6e0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:11	tts	6898e8c6b1
 zh	8919f3e7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:59	tts	63f1dfe6de
+zh	8933643e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:02	tts	526b3d3c76
 zh	8946b13b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:26	tts	a4ea65604f
 zh	895c5675	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:44:12	tts	abdc489e2b
 zh	898d754d	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:00:44	tts	088ad52d8e
@@ -1067,6 +1118,7 @@ zh	979baabb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:31	tts	fd169a377c
 zh	97f0a930	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:49	tts	5eb30bc855
 zh	97f31381	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:36:20	tts	334edc0a38
 zh	980cc6b0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:28	tts	9990ac5e84
+zh	987d05b8	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:21	tts	a46d1dd8ef
 zh	98f16a92	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:13:15	tts	f68822e47c
 zh	992a87bb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:17	tts	5861b1ae3f
 zh	994658fa	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:45:41	tts	444a2a366a
@@ -1100,6 +1152,7 @@ zh	9dd6ec25	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:27	tts	89e33c7996
 zh	9e38fe0c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:54	tts	fb398a3c0b
 zh	9e75864c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:51	tts	8ab7538fa0
 zh	9ea5be3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:28	tts	be10aa9ffc
+zh	9eb5753f	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:21	tts	eafbe14e65
 zh	9f69b7b3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:36	tts	89eee41b95
 zh	9f8c8a9d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:20	tts	c7d756b751
 zh	9fb93f9d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:48:25	tts	0a360593c7
@@ -1161,15 +1214,19 @@ zh	ab4e12f6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:32	tts	39cbd6ec78
 zh	ab5a8c94	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:12:16	tts	206f1be830
 zh	ab605a8a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:17	tts	fd023bce0b
 zh	ab81f0db	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:15	tts	034c29d4e4
+zh	ab84621c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:25	tts	5a38eda9f0
 zh	ab8a0eb5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:49	tts	3485e1e12f
 zh	ab8ff6a5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:39	tts	abd9fd7c79
+zh	ab9ec0ff	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:36	tts	aa4cef0ea4
 zh	abab32d0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:09:14	tts	76d6cceea7
 zh	abdf0c1e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:10	tts	d5f8d00ff5
 zh	abee22b9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:38:26	tts	8f1ce4cfe7
+zh	ac06f697	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:23	tts	5deac787eb
 zh	ac1ce170	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:42:02	tts	a5a23e4a42
 zh	ac4316ae	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:12:26	tts	993f293f41
 zh	ac497f84	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:09:18	tts	58d27ef07c
 zh	ac737e3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:35	tts	bd7ebbd9d0
+zh	ac92667a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:22	tts	b600427536
 zh	aca013dc	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:11	tts	6a7d3bea9d
 zh	acc4d3b8	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:05	tts	6b98f27f92
 zh	ad0183fe	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:50	tts	b1ad9afba7
@@ -1187,7 +1244,9 @@ zh	af2bd021	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:12	tts	34896f84e1
 zh	af6416b3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:54	tts	d8c41a3d90
 zh	afae92a5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:42:52	tts	d564c36717
 zh	afb42e9a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:32	tts	7c9c10eb3e
+zh	afdff30a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:24	tts	c5b79ba481
 zh	b00134f0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:13	tts	9d42917403
+zh	b0037a45	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:23	tts	80633f148b
 zh	b009fa85	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:10	tts	df0975dd9d
 zh	b01b7488	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:09:03	tts	1eba9bee31
 zh	b02f97b2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:12	tts	46f81eb01e
@@ -1218,6 +1277,7 @@ zh	b55ddacf	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:36:18	tts	49a5aae496
 zh	b55f833e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:09:19	tts	ae9801c281
 zh	b576be3a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:31:00	tts	fbbe46c9c0
 zh	b5ac4e9c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:17:35	tts	2c8df066db
+zh	b5ef10fa	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:24	tts	44a8fd3141
 zh	b6124771	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:08:15	tts	87f3d59f2a
 zh	b639a679	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:12:21	tts	5cb97c5ba6
 zh	b6518943	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:00:45	tts	baed3f4448
@@ -1232,6 +1292,7 @@ zh	b77af805	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:52	tts	1e8ce4be06
 zh	b79020b8	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:38	tts	a707ab7c51
 zh	b80d084c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:10:18	tts	566c6e1fdc
 zh	b80e7f1f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:31	tts	0f0ba6a334
+zh	b8134848	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:01	tts	db486d4d5d
 zh	b8802af3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:47:48	tts	6146c92099
 zh	b892c019	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:16	tts	dfb8723637
 zh	b8a9ce90	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:12	tts	c7b65bca7d
@@ -1245,6 +1306,7 @@ zh	b987e54a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:11	tts	a295da0bd7
 zh	b9cc9d4c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:14	tts	0157926de6
 zh	b9e1a177	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:03:57	tts	190b8c294d
 zh	ba865c05	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:40:31	tts	c1b84e46dc
+zh	baa1164c	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:26	tts	1de82b13e3
 zh	bad0d3fe	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:15	tts	e383062e1b
 zh	baf6e605	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:52	tts	6c08fafbbb
 zh	bb061beb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:30	tts	81a3c0baa2
@@ -1322,6 +1384,7 @@ zh	c90153c9	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:07	tts	b43e0c2d1a
 zh	c909d69a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:19	tts	369e297d67
 zh	c9343407	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:42:02	tts	1fc3e6aa9c
 zh	c9730ec4	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:40:25	tts	7838a7132c
+zh	c98a1a42	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:24	tts	206ef2f2c4
 zh	c9b3e595	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:11:26	tts	5d99f638c5
 zh	ca31fd3f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:25	tts	7b3aaba52d
 zh	ca4fb954	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:40:24	tts	06c86061ec
@@ -1352,6 +1415,7 @@ zh	cfb0d892	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:53	tts	794e818f9b
 zh	cfb18b5b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:18	tts	d1e59e03c6
 zh	cfb66583	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:53	tts	f6302529c6
 zh	cfdaa03e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:26	tts	7064a4c34a
+zh	d0048648	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:41	tts	8407938ec1
 zh	d02334a3	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:17	tts	72c9f9704b
 zh	d088f419	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:43:55	tts	4e649b65d3
 zh	d0b1fceb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:26	tts	0cf10ea69c
@@ -1400,6 +1464,7 @@ zh	d734cef7	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:02:01	tts	d9ce96af2c
 zh	d76dc203	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:06	tts	34fd7ffda6
 zh	d7ad315c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:29	tts	516ff324df
 zh	d7c9b4e0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:49	tts	7dca9a43a7
+zh	d7f441f4	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:58	tts	77c66bcb62
 zh	d818304e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:17	tts	3d7ea7733b
 zh	d84391c5	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:41:56	tts	8c53838cfb
 zh	d894c0dd	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:16	tts	1eaeb7fd64
@@ -1424,6 +1489,7 @@ zh	dcc92b56	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:40:30	tts	50b7d2ed56
 zh	dcdc88c6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:20:09	tts	034089ab98
 zh	dd007592	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:10:31	tts	1a59164333
 zh	dd050497	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:20	tts	4191306188
+zh	dd1e7dfb	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:35	tts	b97080067e
 zh	dd23dac0	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:11:27	tts	f291f50d4a
 zh	dd4b3e61	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:51	tts	56d9225558
 zh	dd6bd4a3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:35:39	tts	37065e8570
@@ -1443,6 +1509,7 @@ zh	df181c58	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:10	tts	011ea65cef
 zh	df7b2265	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:15	tts	9db8f5bf0e
 zh	df9bd1dd	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:24	tts	480d307a60
 zh	dfec9a82	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:34:14	tts	80edbad079
+zh	dfff67e9	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:24	tts	d34bb2df26
 zh	e00b7bbb	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:29	tts	5abbcb0f8f
 zh	e09dcc1b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:33	tts	fd591b831d
 zh	e10c3950	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:14	tts	69e222f1ca
@@ -1463,6 +1530,7 @@ zh	e2eeb70e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:44:14	tts	1c7a711f2c
 zh	e315cd93	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:40:32	tts	89374f0b3d
 zh	e32609ac	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:17:57	tts	35543ed383
 zh	e32a198b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:09:00	tts	ac4d6685a5
+zh	e38d85a3	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:23	tts	e0d9d60396
 zh	e3a7409a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:33	tts	2ed453ad3e
 zh	e3a96d3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:19	tts	05f780f3e3
 zh	e410d37b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:16	tts	faaf008d05
@@ -1478,6 +1546,7 @@ zh	e61cefca	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:54	tts	80eb93fe96
 zh	e62f3eed	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:17	tts	ac468e6ca4
 zh	e639ddb6	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:13	tts	f8ff1d9c88
 zh	e661e07c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:25:17	tts	1b490c7ec3
+zh	e6a5eccc	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:37	tts	8bbc290ce2
 zh	e6c093d3	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:16	tts	e35f685da7
 zh	e70e49d6	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:51:21	tts	261fc5864a
 zh	e7354a3c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:37	tts	2fd9c4c167
@@ -1504,6 +1573,7 @@ zh	eb9ada7c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:06	tts	2dd9ca5419
 zh	ebf7e7b8	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:12:17	tts	5f4e6c7c10
 zh	ec2f9c78	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:56	tts	b744585fa5
 zh	ec9484dd	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:16	tts	1a48edd431
+zh	eca31c29	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:15:22	tts	7f6c9e75e8
 zh	ecc8532f	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:35	tts	0e277d2769
 zh	ece92882	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:56	tts	f808ea0f66
 zh	ecf72ce0	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:57	tts	150b653095
@@ -1511,6 +1581,7 @@ zh	ed211970	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:59	tts	a551094326
 zh	ed5607ef	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:03	tts	640f774d6b
 zh	ed914112	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:58	tts	c949801abb
 zh	ee4bf41a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:39:24	tts	5a9d1bbc1e
+zh	ee58637b	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:42	tts	442dc6b6ed
 zh	ee58f019	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:53:57	tts	1267c92828
 zh	ee5f9aab	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:45:07	tts	f8a6a6a514
 zh	eec3d6a2	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:11	tts	90dbcdf6b7
@@ -1535,6 +1606,7 @@ zh	f468d2c7	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:30	tts	1abe5d1f6f
 zh	f46e3ddd	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:54	tts	e7a7d9be9d
 zh	f494aed2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:11:24	tts	4218595ef3
 zh	f4b0e3af	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:04	tts	0015b2ce02
+zh	f4cadc23	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:58	tts	f8b49b5266
 zh	f4f96c3a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:04:53	tts	06c4e34b80
 zh	f57e910c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:33:14	tts	92c2a896a7
 zh	f5b2c932	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:06:08	tts	2a2d7d4fdc
@@ -1560,11 +1632,17 @@ zh	fab2288b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:51	tts	ed313cd01c
 zh	fad94eca	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:05:16	tts	ed7f467eda
 zh	faecde92	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:49:20	tts	6eeac0deac
 zh	faf53256	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:52:28	tts	9564af52e9
+zh	fb385618	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:41	tts	6e7b5c7f67
 zh	fb52eb2a	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:18:35	tts	e0057158c8
 zh	fb9e0be1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:19	tts	f64e464493
+zh	fbc6cf2a	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:17:01	tts	473bd80256
 zh	fbedbad1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:56	tts	86026c84ee
+zh	fc029ef5	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:20:41	tts	cae3eea890
+zh	fc1c8f34	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:16:57	tts	81790239df
 zh	fc45e62c	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:05:50	tts	7ac7b2bf94
 zh	fc53ab04	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:55:34	tts	b64a6b7bb8
+zh	fc8f2965	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:37	tts	0443f50429
+zh	fca39c57	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:14:36	tts	db3b052661
 zh	fd0286e1	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:29:54	tts	3a946a85cf
 zh	fd256791	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:44:11	tts	b2cbbf5030
 zh	fd585f3e	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:00:49	tts	e6322c22e2
@@ -1574,6 +1652,7 @@ zh	fdee463b	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:54:59	tts	7037c6d292
 zh	fe105268	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:37:33	tts	0aeb75b358
 zh	fe28c820	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:09:44	tts	bd5cdd8905
 zh	fe4eec05	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:07:27	tts	60c8a3e8c3
+zh	fe4fb7ec	_shared	serena t0.5 -16LUFS	48	2026-11-20 09:17:01	tts	76cbc91877
 zh	fe6c6a5d	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:02:53	tts	2acd94edfb
 zh	fe728bbe	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:45:05	tts	be8240409c
 zh	ff1172d2	_shared	serena t0.5 -16LUFS	48	2026-11-20 08:14:07	tts	9cc4420686
