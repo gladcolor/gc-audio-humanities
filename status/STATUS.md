@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:40:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:41:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Updated 2026-11-20 03:40:46. Labels: finished / in progress / no audio / failed 
 | china/beijing-capital | in progress | 15 | 18 | 11 | 0 | 0 | 2026-11-20 03:35:12 |  |
 | china/china-space | old voice | 0 | 26 | 0 | 0 | 0 | 2026-11-19 18:14:54 |  |
 | china/disasters | in progress | 11 | 0 | 7 | 0 | 0 | 2026-11-20 03:29:27 |  |
-| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 |  |
+| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
@@ -30,7 +30,7 @@ Updated 2026-11-20 03:40:46. Labels: finished / in progress / no audio / failed 
 | china/seas-islands | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:15:52 |  |
 | china/silk-road-explorers | no audio | 0 | 3 | 13 | 0 | 0 | 2026-11-19 18:14:48 |  |
 | china/song-yuan | old voice | 0 | 34 | 0 | 0 | 0 | 2026-11-19 18:13:15 |  |
-| china/spring-warring | in progress | 7 | 23 | 0 | 0 | 0 | 2026-11-20 02:51:03 |  |
+| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 |  |
 | china/strategy-battles | no audio | 0 | 29 | 11 | 0 | 0 | 2026-11-19 18:14:43 |  |
 | china/sui-tang | in progress | 26 | 2 | 0 | 0 | 0 | 2026-11-20 03:23:54 |  |
 | china/taiwan-hkm | no audio | 0 | 9 | 3 | 0 | 0 | 2026-11-19 18:15:46 |  |
