@@ -263,7 +263,7 @@
    "zh": "近代中国（1840—1919)：屈辱与抗争"
   },
   "updated": "2026-11-20 07:06:32",
-  "verified": ""
+  "verified": "2026-11-20 07:08:03"
  },
  "china/natural-wonders": {
   "counts": {
@@ -415,7 +415,7 @@
    "zh": "中国的四大地理区域"
   },
   "updated": "2026-11-20 07:06:25",
-  "verified": ""
+  "verified": "2026-11-20 07:08:01"
  },
  "china/revolution": {
   "counts": {
@@ -1262,15 +1262,15 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "44f57fcfae3a",
+  "fingerprint": "2b8dd52bde85",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rights-duties.html",
   "title": {
    "en": "Citizens’ Rights & Duties",
    "zh": "理解权利义务"
   },
-  "updated": "2026-11-20 04:15:28",
-  "verified": "2026-11-20 04:17:08"
+  "updated": "2026-11-20 07:09:08",
+  "verified": ""
  },
  "politics/rule-of-law": {
   "counts": {
