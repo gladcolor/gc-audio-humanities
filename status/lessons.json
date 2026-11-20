@@ -115,21 +115,21 @@
  },
  "china/division-integration": {
   "counts": {
-   "done": 0,
+   "done": 37,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 37,
+   "old": 0,
    "total": 37
   },
   "fingerprint": "aee9bc66ccbe",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/division-integration.html",
   "title": {
    "en": "Three Kingdoms to Northern & Southern Dynasties",
    "zh": "三国两晋南北朝：政权分立与民族交融"
   },
-  "updated": "2026-11-19 18:13:01",
+  "updated": "2026-11-20 03:40:39",
   "verified": ""
  },
  "china/dynasties": {
@@ -301,7 +301,7 @@
    "zh": "中国特色社会主义新时代"
   },
   "updated": "2026-11-20 03:38:25",
-  "verified": ""
+  "verified": "2026-11-20 03:40:06"
  },
  "china/population-resources": {
   "counts": {

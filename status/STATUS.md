@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:38:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:40:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Updated 2026-11-20 03:38:25. Labels: finished / in progress / no audio / failed 
 | china/beijing-capital | in progress | 15 | 18 | 11 | 0 | 0 | 2026-11-20 03:35:12 |  |
 | china/china-space | old voice | 0 | 26 | 0 | 0 | 0 | 2026-11-19 18:14:54 |  |
 | china/disasters | in progress | 11 | 0 | 7 | 0 | 0 | 2026-11-20 03:29:27 |  |
-| china/division-integration | old voice | 0 | 37 | 0 | 0 | 0 | 2026-11-19 18:13:01 |  |
+| china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 |  |
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
@@ -19,7 +19,7 @@ Updated 2026-11-20 03:38:25. Labels: finished / in progress / no audio / failed 
 | china/ming-qing | no audio | 0 | 26 | 4 | 0 | 0 | 2026-11-19 18:13:22 |  |
 | china/modern-china | no audio | 0 | 24 | 9 | 0 | 0 | 2026-11-19 18:13:35 |  |
 | china/natural-wonders | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:15:31 |  |
-| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 |  |
+| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
 | china/population-resources | old voice | 0 | 41 | 0 | 0 | 0 | 2026-11-19 18:15:13 |  |
 | china/prc | in progress | 23 | 7 | 0 | 0 | 0 | 2026-11-20 03:26:01 |  |
 | china/prc-founding | no audio | 0 | 8 | 3 | 0 | 0 | 2026-11-19 18:13:54 |  |
