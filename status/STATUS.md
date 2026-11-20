@@ -1,15 +1,15 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:56:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:57:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
-| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:34 |  |
+| china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:34 | 2026-11-20 03:57:40 |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
 | china/beijing-capital | in progress | 15 | 18 | 11 | 0 | 0 | 2026-11-20 03:35:12 |  |
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
-| china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 |  |
+| china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
@@ -24,11 +24,11 @@ Updated 2026-11-20 03:56:34. Labels: finished / in progress / no audio / failed 
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 | 2026-11-20 03:54:15 |
 | china/prc-founding | no audio | 0 | 8 | 3 | 0 | 0 | 2026-11-19 18:13:54 |  |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
-| china/reform-opening | in progress | 18 | 1 | 2 | 0 | 0 | 2026-11-20 03:56:20 |  |
+| china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 |  |
 | china/regions | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:15:20 |  |
 | china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:53:04 | 2026-11-20 03:54:19 |
 | china/seas-islands | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:15:52 |  |
-| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:31 |  |
+| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:31 | 2026-11-20 03:57:39 |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | no audio | 0 | 29 | 11 | 0 | 0 | 2026-11-19 18:14:43 |  |

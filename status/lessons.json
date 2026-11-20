@@ -35,7 +35,7 @@
    "zh": "古代工程奇迹：桥、运河与宫殿"
   },
   "updated": "2026-11-20 03:56:34",
-  "verified": ""
+  "verified": "2026-11-20 03:57:40"
  },
  "china/ancient-science": {
   "counts": {
@@ -111,7 +111,7 @@
    "zh": "自然灾害：地震、台风与沙尘暴"
   },
   "updated": "2026-11-20 03:56:25",
-  "verified": ""
+  "verified": "2026-11-20 03:57:38"
  },
  "china/division-integration": {
   "counts": {
@@ -381,21 +381,21 @@
  },
  "china/reform-opening": {
   "counts": {
-   "done": 18,
+   "done": 21,
    "failed": 0,
    "held": 0,
-   "missing": 2,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 21
   },
   "fingerprint": "34c079ba9d77",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/reform-opening.html",
   "title": {
    "en": "Reform and Opening Up",
    "zh": "改革开放与中国特色社会主义"
   },
-  "updated": "2026-11-20 03:56:20",
+  "updated": "2026-11-20 03:57:52",
   "verified": ""
  },
  "china/regions": {
@@ -472,7 +472,7 @@
    "zh": "丝路探险家与商队"
   },
   "updated": "2026-11-20 03:56:31",
-  "verified": ""
+  "verified": "2026-11-20 03:57:39"
  },
  "china/song-yuan": {
   "counts": {
