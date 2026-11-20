@@ -476,21 +476,21 @@
  },
  "china/song-yuan": {
   "counts": {
-   "done": 0,
+   "done": 34,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 34,
+   "old": 0,
    "total": 34
   },
-  "fingerprint": "aa399471192c",
-  "label": "old voice",
+  "fingerprint": "7fb9cb8fb820",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/song-yuan.html",
   "title": {
    "en": "Liao, Song, Xia, Jin & Yuan",
    "zh": "辽宋夏金元：民族关系发展和社会变化"
   },
-  "updated": "2026-11-19 18:13:15",
+  "updated": "2026-11-20 03:49:49",
   "verified": ""
  },
  "china/spring-warring": {
