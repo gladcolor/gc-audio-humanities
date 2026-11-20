@@ -1,10 +1,10 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 08:02:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 08:06:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| _shared | in progress | 63 | 2 | 2658 | 0 | 0 | 2026-11-20 07:59:22 |  |
+| _shared | in progress | 266 | 1 | 2456 | 0 | 0 | 2026-11-20 08:06:08 |  |
 | china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 07:36:21 | 2026-11-20 07:37:48 |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
 | china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 | 2026-11-20 07:29:10 |
@@ -77,16 +77,16 @@ Updated 2026-11-20 08:02:23. Labels: finished / in progress / no audio / failed 
 | ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 | 2026-11-20 07:49:20 |
 | ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 | 2026-11-20 07:49:17 |
 | ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 | 2026-11-20 07:51:14 |
-| ushistory/us-constitution | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:30 |  |
+| ushistory/us-constitution | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:30 | 2026-11-20 08:03:33 |
 | ushistory/us-expansion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:19 | 2026-11-20 07:45:24 |
 | ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 | 2026-11-20 07:42:56 |
 | ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 | 2026-11-20 07:49:19 |
 | ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 | 2026-11-20 07:45:22 |
 | worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 | 2026-11-20 07:45:23 |
 | worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 | 2026-11-20 07:56:03 |
-| worldhistory/wh-first-civilizations | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:02:23 |  |
+| worldhistory/wh-first-civilizations | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:02:23 | 2026-11-20 08:03:37 |
 | worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 | 2026-11-20 08:00:59 |
-| worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 |  |
+| worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 | 2026-11-20 08:03:35 |
 | worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 | 2026-11-20 06:07:12 |
 | worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 | 2026-11-20 06:07:13 |
 | worldhistory/wh-today | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:48 | 2026-11-20 07:42:52 |

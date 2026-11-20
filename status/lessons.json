@@ -1,11 +1,11 @@
 {
  "_shared": {
   "counts": {
-   "done": 63,
+   "done": 266,
    "failed": 0,
    "held": 0,
-   "missing": 2658,
-   "old": 2,
+   "missing": 2456,
+   "old": 1,
    "total": 2723
   },
   "fingerprint": "7b24ac0e8477",
@@ -15,7 +15,7 @@
    "en": "shared clips",
    "zh": "shared clips"
   },
-  "updated": "2026-11-20 07:59:22",
+  "updated": "2026-11-20 08:06:08",
   "verified": ""
  },
  "china/ancient-engineering": {
@@ -1403,7 +1403,7 @@
    "zh": "美国宪法与《权利法案》"
   },
   "updated": "2026-11-20 08:01:30",
-  "verified": ""
+  "verified": "2026-11-20 08:03:33"
  },
  "ushistory/us-expansion": {
   "counts": {
@@ -1536,7 +1536,7 @@
    "zh": "最早的文明：美索不达米亚与古埃及"
   },
   "updated": "2026-11-20 08:02:23",
-  "verified": ""
+  "verified": "2026-11-20 08:03:37"
  },
  "worldhistory/wh-greece-rome": {
   "counts": {
@@ -1574,7 +1574,7 @@
    "zh": "古印度与古波斯"
   },
   "updated": "2026-11-20 08:01:48",
-  "verified": ""
+  "verified": "2026-11-20 08:03:35"
  },
  "worldhistory/wh-middle-ages": {
   "counts": {
