@@ -875,21 +875,21 @@
  },
  "geography/latitude-longitude": {
   "counts": {
-   "done": 0,
+   "done": 43,
    "failed": 0,
    "held": 0,
-   "missing": 549,
-   "old": 126,
+   "missing": 521,
+   "old": 111,
    "total": 675
   },
   "fingerprint": "08f055b42ea2",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/latitude-longitude.html",
   "title": {
    "en": "Latitude & Longitude",
    "zh": "经度与纬度"
   },
-  "updated": "2026-11-19 18:17:30",
+  "updated": "2026-11-20 03:40:46",
   "verified": ""
  },
  "geography/map-projections": {
