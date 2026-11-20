@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:32:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:35:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-20 07:32:47. Labels: finished / in progress / no audio / failed 
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
-| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 |  |
+| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 | 2026-11-20 07:34:07 |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
@@ -89,5 +89,5 @@ Updated 2026-11-20 07:32:47. Labels: finished / in progress / no audio / failed 
 | worldhistory/wh-india-persia | no audio | 0 | 24 | 7 | 0 | 0 | 2026-11-19 18:22:26 |  |
 | worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 | 2026-11-20 06:07:12 |
 | worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 | 2026-11-20 06:07:13 |
-| worldhistory/wh-today | no audio | 0 | 5 | 1 | 0 | 0 | 2026-11-19 18:22:51 |  |
+| worldhistory/wh-today | in progress | 4 | 2 | 0 | 0 | 0 | 2026-11-20 07:35:01 |  |
 | worldhistory/wh-world-wars | no audio | 0 | 2 | 7 | 0 | 0 | 2026-11-19 18:22:43 |  |

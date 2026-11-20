@@ -149,7 +149,7 @@
    "zh": "朝代大挑战：一张地图看四千年"
   },
   "updated": "2026-11-20 07:32:47",
-  "verified": ""
+  "verified": "2026-11-20 07:34:07"
  },
  "china/early-civilization": {
   "counts": {
@@ -1616,21 +1616,21 @@
  },
  "worldhistory/wh-today": {
   "counts": {
-   "done": 0,
+   "done": 4,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 5,
+   "missing": 0,
+   "old": 2,
    "total": 6
   },
-  "fingerprint": "7a0a15516e56",
-  "label": "no audio",
+  "fingerprint": "9bd3dbd3a09b",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/worldhistory/wh-today.html",
   "title": {
    "en": "Our Connected World",
    "zh": "相互联系的世界"
   },
-  "updated": "2026-11-19 18:22:51",
+  "updated": "2026-11-20 07:35:01",
   "verified": ""
  },
  "worldhistory/wh-world-wars": {
