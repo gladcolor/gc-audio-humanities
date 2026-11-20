@@ -1046,21 +1046,21 @@
  },
  "georgia/ga-geography": {
   "counts": {
-   "done": 0,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 20,
+   "old": 0,
    "total": 20
   },
-  "fingerprint": "b52ac6d76136",
-  "label": "old voice",
+  "fingerprint": "fbc56d4247dc",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-geography.html",
   "title": {
    "en": "Georgia’s Geography & Regions",
    "zh": "佐治亚州的地理与五大地区"
   },
-  "updated": "2026-11-19 18:20:04",
+  "updated": "2026-11-20 06:29:41",
   "verified": ""
  },
  "georgia/ga-government": {
@@ -1593,7 +1593,7 @@
    "zh": "中世纪与伊斯兰黄金时代"
   },
   "updated": "2026-11-20 06:05:42",
-  "verified": ""
+  "verified": "2026-11-20 06:07:12"
  },
  "worldhistory/wh-renaissance": {
   "counts": {
@@ -1612,7 +1612,7 @@
    "zh": "文艺复兴与宗教改革"
   },
   "updated": "2026-11-20 06:05:57",
-  "verified": ""
+  "verified": "2026-11-20 06:07:13"
  },
  "worldhistory/wh-today": {
   "counts": {
