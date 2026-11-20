@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:13:54. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:15:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -16,29 +16,29 @@ Updated 2026-11-20 07:13:54. Labels: finished / in progress / no audio / failed 
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
 | china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:39 | 2026-11-20 04:03:53 |
-| china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:51 |  |
+| china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:51 | 2026-11-20 07:15:14 |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 | 2026-11-20 07:08:03 |
 | china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 | 2026-11-20 07:12:59 |
-| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 |  |
+| china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 | 2026-11-20 07:15:08 |
 | china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 | 2026-11-20 04:17:07 |
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 | 2026-11-20 07:02:53 |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 03:58:00 | 2026-11-20 03:59:09 |
-| china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:47 |  |
+| china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:47 | 2026-11-20 07:15:12 |
 | china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 | 2026-11-20 03:59:06 |
 | china/regions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:25 | 2026-11-20 07:08:01 |
 | china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:33 | 2026-11-20 07:13:04 |
 | china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 04:00:58 | 2026-11-20 04:02:14 |
 | china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 | 2026-11-20 07:05:53 |
-| china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:31 |  |
+| china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:31 | 2026-11-20 07:15:22 |
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:22:16 | 2026-11-20 04:23:34 |
-| china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 |  |
-| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 |  |
+| china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 | 2026-11-20 07:15:10 |
+| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 | 2026-11-20 07:15:20 |
 | china/terrain | failed | 1 | 0 | 0 | 1 | 0 | 2026-11-20 04:31:52 |  |
 | china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:58 | 2026-11-20 07:13:01 |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
-| china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:54 |  |
-| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 |  |
+| china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:54 | 2026-11-20 07:15:16 |
+| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:18 | 2026-11-20 07:15:19 |
 | economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 | 2026-11-20 06:44:56 |
 | economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 | 2026-11-20 06:44:57 |
 | economics/econ-scarcity | no audio | 0 | 8 | 1 | 0 | 0 | 2026-11-19 18:22:57 |  |
@@ -69,7 +69,7 @@ Updated 2026-11-20 07:13:54. Labels: finished / in progress / no audio / failed 
 | politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 04:31:49 | 2026-11-20 04:32:49 |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
 | politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 04:28:55 | 2026-11-20 04:29:41 |
-| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 | 2026-11-20 04:02:14 |
+| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 |  |
 | politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 | 2026-11-20 07:10:27 |
 | politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 04:06:13 | 2026-11-20 04:07:19 |
 | politics/state-organs | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:16 | 2026-11-20 07:10:29 |

@@ -129,6 +129,7 @@ zh	8e6d3852	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 03:19:1
 zh	922f7b10	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 07:11:39	tts	43e6c56815
 zh	924f8ae9	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 03:19:14	tts	c93a3317f6
 zh	b1c8ceba	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 03:07:25	tts	d072c0767c
+zh	ceeb402c	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 07:15:26	tts	b5cac52366
 zh	d2390bf1	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 03:07:26	tts	f3209606e2
 zh	fc49edc9	china/division-integration	serena t0.5 -16LUFS	48	2026-11-20 03:23:39	tts	5db201d926
 en	00d5b2ac	china/dynasties	serena t0.5 -16LUFS	48	2026-11-20 03:48:31	tts	eec027915a
@@ -680,6 +681,7 @@ en	f89aafba	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tt
 en	f8c03aa0	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:13:28	tts	084eddb368
 zh	0eb7970c	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 06:53:52	tts	6d14f877f8
 zh	22edc141	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:25:56	tts	6d3408bd41
+zh	279a4680	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 07:13:58	tts	b8bbfd6230
 zh	42ebda3f	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 07:13:45	tts	1d9ca73d28
 zh	54bb075f	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:25:21	tts	27c07be460
 zh	5dd135a7	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 07:11:40	tts	9b3d6bbd23
@@ -740,6 +742,7 @@ zh	5a336a1f	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:10:37	tts	b0240dd
 zh	5c93a14b	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:13:29	tts	50d70b41fb
 zh	7f209a79	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:10:38	tts	217e69d912
 zh	908d59e4	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:53:51	tts	9d0f6263fb
+zh	978eb6cb	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:13:57	tts	d1689ff617
 zh	991d7533	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:53:51	tts	377f75e982
 zh	e8daefb8	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:56:38	tts	bd772c2d6d
 zh	eb7a8999	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:10:34	tts	67e8381ad9
@@ -2870,6 +2873,8 @@ en	ca7ee6d5	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy
 en	f89aafba	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy	6500d11ec5
 en	fb822591	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:38:20	tts	53c9b4b6af
 zh	0ab2b2e8	politics/development	serena t0.5 -16LUFS	48	2026-11-20 07:13:24	tts	16f0441552
+zh	0b2b2e15	politics/development	serena t0.5 -16LUFS	48	2026-11-20 07:15:27	tts	0de6f58582
+zh	106e9b5c	politics/development	serena t0.5 -16LUFS	48	2026-11-20 07:15:27	tts	68a2f87656
 zh	5cfd2054	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy	ee1f80ec60
 zh	81b0666a	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts	a94e93a7bd
 zh	a6303c07	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:34	tts	31edbee142
@@ -2955,12 +2960,18 @@ zh	aa8ed336	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:06:24	tts
 zh	cb5ccdd9	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:04:47	tts	3c671f95ec
 zh	dde3ad62	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 zh	0020ae75	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:38	tts	18d205f07a
+zh	30d747c8	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:15:25	tts	5b9fe00eb3
 zh	5306d9a1	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:29	tts	945e0569b6
 zh	75b8f3ce	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:53	tts	2f4a414a2c
 zh	a8980f8d	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:38	tts	f0d8afd7e7
 zh	d233b818	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:11:37	tts	3b98841f1a
+zh	28b72e1b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:24	tts	3f9f6b4c9f
 zh	32c3a7ee	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:30	tts	15a2aca1e9
+zh	41b0549b	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:26	tts	54d4382b39
+zh	5230b5e3	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:25	tts	8290bb2a82
+zh	b9b4e32a	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:23	tts	0d0d132597
 zh	daf38238	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:13:40	tts	062e113e8c
+zh	f3cfa95e	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:15:24	tts	9145759b18
 en	9573fd7f	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:05:42	tts	dcc9a8520b
 zh	d8f341d2	worldhistory/wh-middle-ages	serena t0.5 -16LUFS	48	2026-11-20 06:02:07	tts	81595e0d99
 en	3960fee3	worldhistory/wh-renaissance	serena t0.5 -16LUFS	48	2026-11-20 06:05:57	tts	dbdccd718a
