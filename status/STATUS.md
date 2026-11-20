@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:48:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:49:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Updated 2026-11-20 07:48:13. Labels: finished / in progress / no audio / failed 
 | economics/econ-scarcity | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:52 | 2026-11-20 07:42:52 |
 | economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 | 2026-11-20 06:44:55 |
 | economics/econ-systems | no audio | 0 | 4 | 34 | 0 | 0 | 2026-11-19 18:23:03 |  |
-| economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 |  |
+| economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 | 2026-11-20 07:49:18 |
 | geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 | 2026-11-20 05:59:29 |
 | geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 | 2026-11-20 05:52:40 |
 | geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 | 2026-11-20 05:48:52 |
@@ -74,13 +74,13 @@ Updated 2026-11-20 07:48:13. Labels: finished / in progress / no audio / failed 
 | politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 | 2026-11-20 07:20:40 |
 | politics/state-organs | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:16 | 2026-11-20 07:10:29 |
 | politics/state-system | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:24:28 | 2026-11-20 07:25:34 |
-| ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 |  |
-| ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 |  |
-| ushistory/us-colonies | in progress | 7 | 27 | 0 | 0 | 0 | 2026-11-20 07:16:03 |  |
+| ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 | 2026-11-20 07:49:20 |
+| ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 | 2026-11-20 07:49:17 |
+| ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 |  |
 | ushistory/us-constitution | no audio | 0 | 11 | 8 | 0 | 0 | 2026-11-19 18:21:38 |  |
 | ushistory/us-expansion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:19 | 2026-11-20 07:45:24 |
 | ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 | 2026-11-20 07:42:56 |
-| ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 |  |
+| ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 | 2026-11-20 07:49:19 |
 | ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 | 2026-11-20 07:45:22 |
 | worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 | 2026-11-20 07:45:23 |
 | worldhistory/wh-exploration | no audio | 0 | 2 | 3 | 0 | 0 | 2026-11-19 18:22:38 |  |

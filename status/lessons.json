@@ -776,7 +776,7 @@
    "zh": "贸易、关税与货币"
   },
   "updated": "2026-11-20 07:48:01",
-  "verified": ""
+  "verified": "2026-11-20 07:49:18"
  },
  "geography/africa-asia": {
   "counts": {
@@ -1346,7 +1346,7 @@
    "zh": "民权运动"
   },
   "updated": "2026-11-20 07:48:13",
-  "verified": ""
+  "verified": "2026-11-20 07:49:20"
  },
  "ushistory/us-civilwar": {
   "counts": {
@@ -1365,25 +1365,25 @@
    "zh": "南北战争与重建"
   },
   "updated": "2026-11-20 07:47:57",
-  "verified": ""
+  "verified": "2026-11-20 07:49:17"
  },
  "ushistory/us-colonies": {
   "counts": {
-   "done": 7,
+   "done": 34,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 27,
+   "old": 0,
    "total": 34
   },
   "fingerprint": "be4c84af8621",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-colonies.html",
   "title": {
    "en": "Colonies & the American Revolution",
    "zh": "殖民地与美国独立战争"
   },
-  "updated": "2026-11-20 07:16:03",
+  "updated": "2026-11-20 07:49:50",
   "verified": ""
  },
  "ushistory/us-constitution": {
@@ -1460,7 +1460,7 @@
    "zh": "从冷战到今天"
   },
   "updated": "2026-11-20 07:48:09",
-  "verified": ""
+  "verified": "2026-11-20 07:49:19"
  },
  "ushistory/us-worldwars": {
   "counts": {
