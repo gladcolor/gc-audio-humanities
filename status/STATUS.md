@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 06:37:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:43:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@ Updated 2026-11-20 06:37:07. Labels: finished / in progress / no audio / failed 
 | economics/econ-growth | no audio | 0 | 7 | 11 | 0 | 0 | 2026-11-19 18:23:18 |  |
 | economics/econ-personal-finance | no audio | 0 | 12 | 4 | 0 | 0 | 2026-11-19 18:23:23 |  |
 | economics/econ-scarcity | no audio | 0 | 8 | 1 | 0 | 0 | 2026-11-19 18:22:57 |  |
-| economics/econ-supply-demand | old voice | 0 | 11 | 0 | 0 | 0 | 2026-11-19 18:23:08 |  |
+| economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 |  |
 | economics/econ-systems | no audio | 0 | 4 | 34 | 0 | 0 | 2026-11-19 18:23:03 |  |
 | economics/econ-trade | old voice | 0 | 9 | 0 | 0 | 0 | 2026-11-19 18:23:13 |  |
 | geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 | 2026-11-20 05:59:29 |
@@ -62,7 +62,7 @@ Updated 2026-11-20 06:37:07. Labels: finished / in progress / no audio / failed 
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
 | georgia/ga-government | no audio | 0 | 249 | 3 | 0 | 0 | 2026-11-19 18:21:22 |  |
 | georgia/ga-modern | no audio | 0 | 15 | 5 | 0 | 0 | 2026-11-19 18:20:59 |  |
-| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 |  |
+| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 | 2026-11-20 06:38:24 |
 | georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 | 2026-11-20 06:35:19 |
 | georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
