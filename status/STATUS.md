@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:15:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:15:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-20 04:15:28. Labels: finished / in progress / no audio / failed 
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
-| china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
+| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:58 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
