@@ -453,7 +453,7 @@
    "zh": "中国的海洋与岛屿"
   },
   "updated": "2026-11-20 04:00:58",
-  "verified": ""
+  "verified": "2026-11-20 04:02:14"
  },
  "china/silk-road-explorers": {
   "counts": {
@@ -552,21 +552,21 @@
  },
  "china/taiwan-hkm": {
   "counts": {
-   "done": 0,
+   "done": 12,
    "failed": 0,
    "held": 0,
-   "missing": 3,
-   "old": 9,
+   "missing": 0,
+   "old": 0,
    "total": 12
   },
   "fingerprint": "e58650dd4c11",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/taiwan-hkm.html",
   "title": {
    "en": "Taiwan Province, Hong Kong & Macao",
    "zh": "台湾省与香港、澳门"
   },
-  "updated": "2026-11-19 18:15:46",
+  "updated": "2026-11-20 04:02:35",
   "verified": ""
  },
  "china/terrain": {
@@ -605,7 +605,7 @@
    "zh": "中国的疆域与行政区划"
   },
   "updated": "2026-11-20 04:01:07",
-  "verified": ""
+  "verified": "2026-11-20 04:02:17"
  },
  "china/three-gorges": {
   "counts": {
@@ -1232,7 +1232,7 @@
    "zh": "富强与创新 · 共同富裕 · 生态文明"
   },
   "updated": "2026-11-20 04:01:02",
-  "verified": ""
+  "verified": "2026-11-20 04:02:14"
  },
  "politics/rights-duties": {
   "counts": {

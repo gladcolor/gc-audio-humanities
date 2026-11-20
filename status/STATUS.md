@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:01:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:02:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -27,15 +27,15 @@ Updated 2026-11-20 04:01:07. Labels: finished / in progress / no audio / failed 
 | china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 | 2026-11-20 03:59:06 |
 | china/regions | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:15:20 |  |
 | china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:53:04 | 2026-11-20 03:54:19 |
-| china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 04:00:58 |  |
+| china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 04:00:58 | 2026-11-20 04:02:14 |
 | china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:31 | 2026-11-20 03:57:39 |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | no audio | 0 | 29 | 11 | 0 | 0 | 2026-11-19 18:14:43 |  |
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 | 2026-11-20 03:47:36 |
-| china/taiwan-hkm | no audio | 0 | 9 | 3 | 0 | 0 | 2026-11-19 18:15:46 |  |
+| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:35 |  |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
-| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:07 |  |
+| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:07 | 2026-11-20 04:02:17 |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:36 | 2026-11-20 03:51:57 |
 | china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |
@@ -68,7 +68,7 @@ Updated 2026-11-20 04:01:07. Labels: finished / in progress / no audio / failed 
 | politics/china-world | no audio | 0 | 48 | 4 | 0 | 0 | 2026-11-19 18:16:46 |  |
 | politics/constitution | no audio | 0 | 18 | 17 | 0 | 0 | 2026-11-19 18:16:06 |  |
 | politics/core-values | no audio | 0 | 12 | 12 | 0 | 0 | 2026-11-19 18:16:34 |  |
-| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 |  |
+| politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:02 | 2026-11-20 04:02:14 |
 | politics/rights-duties | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:16:12 |  |
 | politics/rule-of-law | no audio | 0 | 8 | 11 | 0 | 0 | 2026-11-19 18:16:29 |  |
 | politics/state-organs | no audio | 0 | 16 | 7 | 0 | 0 | 2026-11-19 18:16:24 |  |
