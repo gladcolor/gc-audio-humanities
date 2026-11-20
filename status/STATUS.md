@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 06:43:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:01:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Updated 2026-11-20 06:43:27. Labels: finished / in progress / no audio / failed 
 | china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 04:20:56 | 2026-11-20 04:22:01 |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
 | china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 | 2026-11-20 04:17:07 |
-| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 | 2026-11-20 03:54:15 |
+| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 |  |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 03:58:00 | 2026-11-20 03:59:09 |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
 | china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 | 2026-11-20 03:59:06 |
@@ -39,10 +39,10 @@ Updated 2026-11-20 06:43:27. Labels: finished / in progress / no audio / failed 
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:36 | 2026-11-20 03:51:57 |
 | china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |
-| economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 |  |
-| economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 |  |
+| economics/econ-growth | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:16 | 2026-11-20 06:44:56 |
+| economics/econ-personal-finance | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:20 | 2026-11-20 06:44:57 |
 | economics/econ-scarcity | no audio | 0 | 8 | 1 | 0 | 0 | 2026-11-19 18:22:57 |  |
-| economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 |  |
+| economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 | 2026-11-20 06:44:55 |
 | economics/econ-systems | no audio | 0 | 4 | 34 | 0 | 0 | 2026-11-19 18:23:03 |  |
 | economics/econ-trade | old voice | 0 | 9 | 0 | 0 | 0 | 2026-11-19 18:23:13 |  |
 | geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 | 2026-11-20 05:59:29 |
@@ -56,7 +56,7 @@ Updated 2026-11-20 06:43:27. Labels: finished / in progress / no audio / failed 
 | geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 | 2026-11-20 05:44:54 |
 | geography/world-religions | finished | 108 | 0 | 0 | 0 | 0 | 2026-11-20 06:01:48 | 2026-11-20 06:03:20 |
 | georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 | 2026-11-20 06:35:15 |
-| georgia/ga-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:27 |  |
+| georgia/ga-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:27 | 2026-11-20 06:44:58 |
 | georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 | 2026-11-20 06:36:41 |
 | georgia/ga-colony | no audio | 0 | 10 | 2 | 0 | 0 | 2026-11-19 18:20:18 |  |
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
