@@ -1,15 +1,15 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:27:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:29:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
 | china/ancient-engineering | no audio | 0 | 5 | 9 | 0 | 0 | 2026-11-19 18:14:33 |  |
-| china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 |  |
+| china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
 | china/beijing-capital | no audio | 0 | 23 | 21 | 0 | 0 | 2026-11-19 18:16:00 |  |
 | china/china-space | old voice | 0 | 26 | 0 | 0 | 0 | 2026-11-19 18:14:54 |  |
-| china/disasters | no audio | 0 | 0 | 29 | 0 | 0 | 2026-11-19 18:15:36 |  |
+| china/disasters | in progress | 11 | 0 | 7 | 0 | 0 | 2026-11-20 03:29:27 |  |
 | china/division-integration | old voice | 0 | 37 | 0 | 0 | 0 | 2026-11-19 18:13:01 |  |
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
@@ -38,7 +38,7 @@ Updated 2026-11-20 03:27:52. Labels: finished / in progress / no audio / failed 
 | china/territory | no audio | 0 | 31 | 9 | 0 | 0 | 2026-11-19 18:15:02 |  |
 | china/three-gorges | old voice | 0 | 19 | 0 | 0 | 0 | 2026-11-19 18:15:25 |  |
 | china/unity-diplomacy | in progress | 7 | 12 | 5 | 0 | 0 | 2026-11-20 03:11:05 |  |
-| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 |  |
+| china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |
 | economics/econ-growth | no audio | 0 | 7 | 11 | 0 | 0 | 2026-11-19 18:23:18 |  |
 | economics/econ-personal-finance | no audio | 0 | 12 | 4 | 0 | 0 | 2026-11-19 18:23:23 |  |
 | economics/econ-scarcity | no audio | 0 | 8 | 1 | 0 | 0 | 2026-11-19 18:22:57 |  |
