@@ -951,21 +951,21 @@
  },
  "georgia/ga-20th": {
   "counts": {
-   "done": 0,
+   "done": 5,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 24,
+   "old": 19,
    "total": 24
   },
-  "fingerprint": "8f5a0deaf753",
-  "label": "old voice",
+  "fingerprint": "3810c6b27f47",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-20th.html",
   "title": {
    "en": "Wars, Depression & the New Deal",
    "zh": "世界大战、大萧条与新政"
   },
-  "updated": "2026-11-19 18:20:49",
+  "updated": "2026-11-20 05:54:47",
   "verified": ""
  },
  "georgia/ga-civilrights": {
