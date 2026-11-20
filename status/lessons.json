@@ -225,7 +225,7 @@
    "zh": "超级工程：大桥、铁路与管道"
   },
   "updated": "2026-11-20 07:17:25",
-  "verified": ""
+  "verified": "2026-11-20 07:18:40"
  },
  "china/ming-qing": {
   "counts": {
@@ -453,7 +453,7 @@
    "zh": "中国的海洋与岛屿"
   },
   "updated": "2026-11-20 07:15:34",
-  "verified": ""
+  "verified": "2026-11-20 07:17:39"
  },
  "china/silk-road-explorers": {
   "counts": {
@@ -1251,7 +1251,7 @@
    "zh": "富强与创新 · 共同富裕 · 生态文明"
   },
   "updated": "2026-11-20 07:15:27",
-  "verified": ""
+  "verified": "2026-11-20 07:17:36"
  },
  "politics/rights-duties": {
   "counts": {
@@ -1281,15 +1281,15 @@
    "old": 0,
    "total": 19
   },
-  "fingerprint": "0afc053b6db3",
+  "fingerprint": "318e7dcf981d",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rule-of-law.html",
   "title": {
    "en": "Rule of Law",
    "zh": "走进法治天地 · 建设法治中国"
   },
-  "updated": "2026-11-20 04:06:13",
-  "verified": "2026-11-20 04:07:19"
+  "updated": "2026-11-20 07:19:05",
+  "verified": ""
  },
  "politics/state-organs": {
   "counts": {
