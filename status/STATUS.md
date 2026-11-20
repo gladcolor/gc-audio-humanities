@@ -1,17 +1,17 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:26:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:32:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
 | china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:34 | 2026-11-20 03:57:40 |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
-| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 |  |
+| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 07:26:16 | 2026-11-20 07:29:10 |
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
-| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:58 | 2026-11-20 04:17:11 |
+| china/dynasties | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:47 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:45 | 2026-11-20 07:13:08 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 | 2026-11-20 07:13:05 |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
@@ -30,7 +30,7 @@ Updated 2026-11-20 07:26:20. Labels: finished / in progress / no audio / failed 
 | china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:34 | 2026-11-20 07:17:39 |
 | china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 | 2026-11-20 07:05:53 |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:31 | 2026-11-20 07:15:22 |
-| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:46 |  |
+| china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:46 | 2026-11-20 07:29:07 |
 | china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 07:16:12 | 2026-11-20 07:17:22 |
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:42 | 2026-11-20 07:15:10 |
 | china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:25 | 2026-11-20 07:15:20 |
@@ -68,7 +68,7 @@ Updated 2026-11-20 07:26:20. Labels: finished / in progress / no audio / failed 
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 | 2026-11-20 06:35:21 |
 | politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 | 2026-11-20 07:20:48 |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 04:13:25 | 2026-11-20 04:14:37 |
-| politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:39 |  |
+| politics/core-values | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 07:25:39 | 2026-11-20 07:29:05 |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 | 2026-11-20 07:17:36 |
 | politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 | 2026-11-20 07:10:27 |
 | politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 | 2026-11-20 07:20:40 |
