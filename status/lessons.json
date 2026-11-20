@@ -92,7 +92,7 @@
    "zh": "中国航天：从东方红到嫦娥"
   },
   "updated": "2026-11-20 03:52:57",
-  "verified": ""
+  "verified": "2026-11-20 03:54:17"
  },
  "china/disasters": {
   "counts": {
@@ -244,7 +244,7 @@
    "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
   },
   "updated": "2026-11-20 03:52:26",
-  "verified": ""
+  "verified": "2026-11-20 03:54:13"
  },
  "china/modern-china": {
   "counts": {
@@ -339,7 +339,7 @@
    "zh": "中华人民共和国的成立与发展"
   },
   "updated": "2026-11-20 03:52:53",
-  "verified": ""
+  "verified": "2026-11-20 03:54:15"
  },
  "china/prc-founding": {
   "counts": {
@@ -381,11 +381,11 @@
  },
  "china/reform-opening": {
   "counts": {
-   "done": 1,
+   "done": 18,
    "failed": 0,
    "held": 0,
-   "missing": 9,
-   "old": 11,
+   "missing": 2,
+   "old": 1,
    "total": 21
   },
   "fingerprint": "34c079ba9d77",
@@ -395,7 +395,7 @@
    "en": "Reform and Opening Up",
    "zh": "改革开放与中国特色社会主义"
   },
-  "updated": "2026-11-20 03:05:36",
+  "updated": "2026-11-20 03:56:20",
   "verified": ""
  },
  "china/regions": {
@@ -434,7 +434,7 @@
    "zh": "新民主主义革命（1919—1949)"
   },
   "updated": "2026-11-20 03:53:04",
-  "verified": ""
+  "verified": "2026-11-20 03:54:19"
  },
  "china/seas-islands": {
   "counts": {

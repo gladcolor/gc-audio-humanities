@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 03:53:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:56:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -8,7 +8,7 @@ Updated 2026-11-20 03:53:04. Labels: finished / in progress / no audio / failed 
 | china/ancient-engineering | no audio | 0 | 5 | 9 | 0 | 0 | 2026-11-19 18:14:33 |  |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
 | china/beijing-capital | in progress | 15 | 18 | 11 | 0 | 0 | 2026-11-20 03:35:12 |  |
-| china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 |  |
+| china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | in progress | 11 | 0 | 7 | 0 | 0 | 2026-11-20 03:29:27 |  |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
@@ -16,17 +16,17 @@ Updated 2026-11-20 03:53:04. Labels: finished / in progress / no audio / failed 
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
 | china/inventions | in progress | 4 | 20 | 1 | 0 | 0 | 2026-11-20 02:59:42 |  |
 | china/megaprojects | old voice | 0 | 15 | 0 | 0 | 0 | 2026-11-19 18:15:41 |  |
-| china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:26 |  |
+| china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:26 | 2026-11-20 03:54:13 |
 | china/modern-china | no audio | 0 | 24 | 9 | 0 | 0 | 2026-11-19 18:13:35 |  |
 | china/natural-wonders | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:15:31 |  |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
 | china/population-resources | old voice | 0 | 41 | 0 | 0 | 0 | 2026-11-19 18:15:13 |  |
-| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 |  |
+| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 | 2026-11-20 03:54:15 |
 | china/prc-founding | no audio | 0 | 8 | 3 | 0 | 0 | 2026-11-19 18:13:54 |  |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
-| china/reform-opening | in progress | 1 | 11 | 9 | 0 | 0 | 2026-11-20 03:05:36 |  |
+| china/reform-opening | in progress | 18 | 1 | 2 | 0 | 0 | 2026-11-20 03:56:20 |  |
 | china/regions | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:15:20 |  |
-| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:53:04 |  |
+| china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:53:04 | 2026-11-20 03:54:19 |
 | china/seas-islands | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:15:52 |  |
 | china/silk-road-explorers | no audio | 0 | 3 | 13 | 0 | 0 | 2026-11-19 18:14:48 |  |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
