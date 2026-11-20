@@ -790,6 +790,7 @@ zh	7f209a79	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:10:38	tts	217e69d
 zh	908d59e4	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:53:51	tts	9d0f6263fb
 zh	978eb6cb	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:13:57	tts	d1689ff617
 zh	991d7533	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 06:53:51	tts	377f75e982
+zh	c53b7632	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:41:06	tts	57a705a2ad
 zh	d3febebf	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:25:37	tts	1b10a698c8
 zh	dca6052d	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:35:50	tts	aa43200c61
 zh	dda558ab	china/terrain	serena t0.5 -16LUFS	48	2026-11-20 07:16:07	tts	9630008c80
@@ -3099,6 +3100,8 @@ zh	adc7686f	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:24:28	tts
 zh	cb5ccdd9	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 07:04:47	tts	3c671f95ec
 zh	dde3ad62	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:29:25	tts	665e9d0432
 en	18edfe92	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:40:47	tts	bd45e23bd6
+en	a97d0a3c	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:40:56	tts	18589fb545
+en	c35d33f0	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:40:58	tts	a1813fe69b
 zh	176591d1	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:26	tts	88fea161a2
 zh	19e230b0	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:32:57	tts	6e1a60581e
 zh	2601124c	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:19:38	tts	73c54c660e
@@ -3188,10 +3191,13 @@ zh	c85dcb40	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:17:32	tt
 zh	cdbe6d1b	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:19:01	tts	49397b5286
 zh	dc1b34b0	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:19:39	tts	c0cd390a5d
 en	65c2b3d8	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:34:50	tts	428be0d913
+en	6ebec5f6	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:40:59	tts	cc9f4b39fd
 en	7088aea0	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:26:45	tts	d67d4bd436
 zh	0ef6a8ad	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:16:15	tts	1169ed16cc
 zh	bdd57f2e	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:15:33	tts	d45cc783ea
 zh	d4968292	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:17:31	tts	c843d9c7ef
+en	02585b25	ushistory/us-modern	serena t0.5 -16LUFS	48	2026-11-20 07:41:00	tts	104545937a
+en	a6c3ad13	ushistory/us-modern	serena t0.5 -16LUFS	48	2026-11-20 07:40:55	tts	af0a2a419d
 zh	0012b614	ushistory/us-modern	serena t0.5 -16LUFS	48	2026-11-20 07:24:18	tts	1414cdb052
 zh	2da28ff9	ushistory/us-modern	serena t0.5 -16LUFS	48	2026-11-20 07:24:17	tts	caf4746950
 zh	543a230e	ushistory/us-modern	serena t0.5 -16LUFS	48	2026-11-20 07:19:29	tts	b28b7a0623

@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "china/terrain", "voice": "serena", "en": "60c4f391", "zh": "c8432bac"});
+LabAudioManifest({"lesson": "china/terrain", "voice": "serena", "en": "02cb9d0b 1ae586d5 2fd8503a 47c5a573 49936eaf 4cb37baf 50630c99 649a3256 95ec9862 a716a424 b9ae1c41 bba56712 cf77e6ba e5db2a77 e6b94963 f2ec2c3e f317e5f2", "zh": "0b39059e 0ca2c869 56c60824 5a336a1f 5c93a14b 6a1a9a21 7f209a79 908d59e4 978eb6cb 991d7533 c53b7632 d3febebf dca6052d dda558ab e7f16511 e8daefb8 eb7a8999 fe45a00d"});
