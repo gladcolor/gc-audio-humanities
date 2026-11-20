@@ -1422,7 +1422,7 @@
    "zh": "西进运动"
   },
   "updated": "2026-11-20 07:43:19",
-  "verified": ""
+  "verified": "2026-11-20 07:45:24"
  },
  "ushistory/us-industrial": {
   "counts": {
@@ -1479,7 +1479,7 @@
    "zh": "两次世界大战与大萧条"
   },
   "updated": "2026-11-20 07:43:09",
-  "verified": ""
+  "verified": "2026-11-20 07:45:22"
  },
  "worldhistory/wh-cold-war": {
   "counts": {
@@ -1498,7 +1498,7 @@
    "zh": "冷战与民族独立运动"
   },
   "updated": "2026-11-20 07:43:16",
-  "verified": ""
+  "verified": "2026-11-20 07:45:23"
  },
  "worldhistory/wh-exploration": {
   "counts": {
@@ -1635,21 +1635,21 @@
  },
  "worldhistory/wh-world-wars": {
   "counts": {
-   "done": 0,
+   "done": 9,
    "failed": 0,
    "held": 0,
-   "missing": 7,
-   "old": 2,
+   "missing": 0,
+   "old": 0,
    "total": 9
   },
-  "fingerprint": "9fcd8c84e289",
-  "label": "no audio",
+  "fingerprint": "9e03648cf063",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-world-wars.html",
   "title": {
    "en": "The World Wars & the Holocaust",
    "zh": "两次世界大战与大屠杀"
   },
-  "updated": "2026-11-19 18:22:43",
+  "updated": "2026-11-20 07:45:32",
   "verified": ""
  }
 }

@@ -996,9 +996,11 @@ zh	c14fff1d	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	co
 zh	c31f69e0	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:37:13	tts	f859e0d30c
 zh	cb916a3d	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	copy	39ecab4dcc
 zh	cf99279f	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	copy	42f7dd4876
+zh	d0705cea	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 07:43:34	tts	61d58d9cbf
 zh	e8149d00	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:37:18	tts	c6160bb806
 zh	ee3ee37a	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:37:18	tts	d3498be594
 zh	f03eb204	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:37:21	tts	4b388109e5
+zh	f0da696e	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 07:43:35	tts	eb3737e59e
 zh	f831b7ee	economics/econ-systems	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	copy	851a8c3783
 en	00df8bcb	economics/econ-trade	serena t0.5 -16LUFS	48	2026-11-20 06:35:38	tts	c8add6431a
 en	2e427f7a	economics/econ-trade	serena t0.5 -16LUFS	48	2026-11-20 06:17:58	tts	c34e543cac
@@ -3171,10 +3173,12 @@ zh	c635bb54	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:23	
 zh	f8c3fa3e	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:20	tts	be03fdf67a
 zh	fa653b82	ushistory/us-civilrights	serena t0.5 -16LUFS	48	2026-11-20 07:24:27	tts	4cbf41196e
 en	15b5c4b9	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:38	tts	0a60740041
+en	2fa7fcc0	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:45:28	tts	5b196bfcdc
 en	5fac9d6b	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:38:25	tts	f058fa5892
 en	751c31fd	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:33	tts	54cef40a89
 en	86c717e6	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:31	tts	854e6cf77c
 en	8a127937	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:32	tts	a6001a3ff7
+en	c88903aa	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:45:28	tts	9b573c1a9b
 en	fe486c16	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:35	tts	933a073557
 zh	0cc71256	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:15:31	tts	a80909b7df
 zh	23c97954	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:19:04	tts	5b3d381f95
@@ -3298,6 +3302,7 @@ en	28afc01b	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-2
 en	491a4a62	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:43:15	tts	ad4243def1
 en	6ad8c470	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:34:52	tts	a5c621f5e0
 en	8428df72	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:34:56	tts	2163ab511b
+en	8d49c016	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:45:27	tts	0f0d31ed2f
 en	b7a6a1e5	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:34:59	tts	191fd34900
 en	cf9bda9d	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:34:54	tts	af1d134de1
 en	e20692dd	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:29:39	tts	996ba444c8
@@ -3369,6 +3374,7 @@ en	b93074ab	worldhistory/wh-today	serena t0.5 -16LUFS	48	2026-11-20 07:29:38	tts
 en	ddd91259	worldhistory/wh-today	serena t0.5 -16LUFS	48	2026-11-20 07:40:48	tts	a668ed2ffc
 zh	51d9cf4a	worldhistory/wh-today	serena t0.5 -16LUFS	48	2026-11-20 07:24:24	tts	73fb970fd0
 zh	6301d041	worldhistory/wh-today	serena t0.5 -16LUFS	48	2026-11-20 07:25:52	tts	710a06fff4
+en	3fd49586	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:45:32	tts	a26f349ce5
 en	45ea2a52	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:26:54	tts	e028f050d8
 en	b4f3adcc	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:43:09	tts	c79885a1c9
 en	ed845466	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:26:48	tts	625d54298f
