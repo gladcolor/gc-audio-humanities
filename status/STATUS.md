@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:23:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:25:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | no audio | 0 | 2 | 2708 | 0 | 0 | 2026-11-19 18:28:30 |  |
 | china/ancient-engineering | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:34 | 2026-11-20 03:57:40 |
 | china/ancient-science | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:45 | 2026-11-20 03:29:00 |
-| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 04:23:19 |  |
+| china/beijing-capital | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-20 04:23:19 | 2026-11-20 04:24:46 |
 | china/china-space | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:57 | 2026-11-20 03:54:17 |
 | china/disasters | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:25 | 2026-11-20 03:57:38 |
 | china/division-integration | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-20 03:40:39 | 2026-11-20 03:41:41 |
@@ -31,7 +31,7 @@ Updated 2026-11-20 04:23:19. Labels: finished / in progress / no audio / failed 
 | china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:31 | 2026-11-20 03:57:39 |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
-| china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:22:16 |  |
+| china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:22:16 | 2026-11-20 04:23:34 |
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 | 2026-11-20 03:47:36 |
 | china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:35 | 2026-11-20 04:03:52 |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
@@ -50,7 +50,7 @@ Updated 2026-11-20 04:23:19. Labels: finished / in progress / no audio / failed 
 | geography/climate-regions | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:18:54 |  |
 | geography/europe-oceania | no audio | 0 | 4 | 8 | 0 | 0 | 2026-11-19 18:19:08 |  |
 | geography/landforms | old voice | 0 | 10 | 0 | 0 | 0 | 2026-11-19 18:18:50 |  |
-| geography/latitude-longitude | in progress | 172 | 60 | 443 | 0 | 0 | 2026-11-20 04:23:11 |  |
+| geography/latitude-longitude | in progress | 269 | 40 | 366 | 0 | 0 | 2026-11-20 04:25:17 |  |
 | geography/map-projections | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:17:37 |  |
 | geography/population | no audio | 0 | 9 | 20 | 0 | 0 | 2026-11-19 18:19:00 |  |
 | geography/time-zones | no audio | 0 | 444 | 132 | 0 | 0 | 2026-11-19 18:18:29 |  |

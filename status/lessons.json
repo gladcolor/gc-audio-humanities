@@ -73,7 +73,7 @@
    "zh": "北京：祖国的首都与中轴线"
   },
   "updated": "2026-11-20 04:23:19",
-  "verified": ""
+  "verified": "2026-11-20 04:24:46"
  },
  "china/china-space": {
   "counts": {
@@ -529,7 +529,7 @@
    "zh": "兵法与著名战役"
   },
   "updated": "2026-11-20 04:22:16",
-  "verified": ""
+  "verified": "2026-11-20 04:23:34"
  },
  "china/sui-tang": {
   "counts": {
@@ -875,11 +875,11 @@
  },
  "geography/latitude-longitude": {
   "counts": {
-   "done": 172,
+   "done": 269,
    "failed": 0,
    "held": 0,
-   "missing": 443,
-   "old": 60,
+   "missing": 366,
+   "old": 40,
    "total": 675
   },
   "fingerprint": "08f055b42ea2",
@@ -889,7 +889,7 @@
    "en": "Latitude & Longitude",
    "zh": "经度与纬度"
   },
-  "updated": "2026-11-20 04:23:11",
+  "updated": "2026-11-20 04:25:17",
   "verified": ""
  },
  "geography/map-projections": {
