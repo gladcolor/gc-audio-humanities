@@ -495,21 +495,21 @@
  },
  "china/spring-warring": {
   "counts": {
-   "done": 0,
+   "done": 7,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 30,
+   "old": 23,
    "total": 30
   },
   "fingerprint": "6264919761e1",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/spring-warring.html",
   "title": {
    "en": "Spring & Autumn and Warring States",
    "zh": "春秋战国：变革与百家争鸣"
   },
-  "updated": "2026-11-19 18:12:47",
+  "updated": "2026-11-20 02:51:03",
   "verified": ""
  },
  "china/strategy-battles": {
