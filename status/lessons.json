@@ -206,7 +206,7 @@
    "zh": "中国古代科技与四大发明"
   },
   "updated": "2026-11-20 04:02:45",
-  "verified": ""
+  "verified": "2026-11-20 04:03:55"
  },
  "china/megaprojects": {
   "counts": {
@@ -225,7 +225,7 @@
    "zh": "超级工程：大桥、铁路与管道"
   },
   "updated": "2026-11-20 04:02:39",
-  "verified": ""
+  "verified": "2026-11-20 04:03:53"
  },
  "china/ming-qing": {
   "counts": {
@@ -305,21 +305,21 @@
  },
  "china/population-resources": {
   "counts": {
-   "done": 0,
+   "done": 26,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 41,
+   "old": 15,
    "total": 41
   },
-  "fingerprint": "6e0ea3235a07",
-  "label": "old voice",
+  "fingerprint": "72b0ff1d764f",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/population-resources.html",
   "title": {
    "en": "Population, Ethnic Groups & Resources",
    "zh": "人口、民族与自然资源"
   },
-  "updated": "2026-11-19 18:15:13",
+  "updated": "2026-11-20 04:05:44",
   "verified": ""
  },
  "china/prc": {
@@ -567,7 +567,7 @@
    "zh": "台湾省与香港、澳门"
   },
   "updated": "2026-11-20 04:02:35",
-  "verified": ""
+  "verified": "2026-11-20 04:03:52"
  },
  "china/terrain": {
   "counts": {

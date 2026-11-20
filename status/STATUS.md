@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:02:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:05:44. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,13 +14,13 @@ Updated 2026-11-20 04:02:45. Labels: finished / in progress / no audio / failed 
 | china/dynasties | no audio | 0 | 39 | 1 | 0 | 0 | 2026-11-19 18:14:21 |  |
 | china/early-civilization | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:52 | 2026-11-20 03:27:11 |
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:25:45 | 2026-11-20 03:27:07 |
-| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 |  |
-| china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:39 |  |
+| china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:45 | 2026-11-20 04:03:55 |
+| china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:39 | 2026-11-20 04:03:53 |
 | china/ming-qing | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:26 | 2026-11-20 03:54:13 |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:56 | 2026-11-20 03:59:08 |
 | china/natural-wonders | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:15:31 |  |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
-| china/population-resources | old voice | 0 | 41 | 0 | 0 | 0 | 2026-11-19 18:15:13 |  |
+| china/population-resources | in progress | 26 | 15 | 0 | 0 | 0 | 2026-11-20 04:05:44 |  |
 | china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:52:53 | 2026-11-20 03:54:15 |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 03:58:00 | 2026-11-20 03:59:09 |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
@@ -33,7 +33,7 @@ Updated 2026-11-20 04:02:45. Labels: finished / in progress / no audio / failed 
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | no audio | 0 | 29 | 11 | 0 | 0 | 2026-11-19 18:14:43 |  |
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 | 2026-11-20 03:47:36 |
-| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:35 |  |
+| china/taiwan-hkm | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 04:02:35 | 2026-11-20 04:03:52 |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
 | china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:07 | 2026-11-20 04:02:17 |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
