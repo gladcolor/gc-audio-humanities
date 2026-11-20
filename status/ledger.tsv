@@ -676,6 +676,7 @@ zh	ba2ff95b	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:50:20	tts	
 zh	bc1044b4	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:50:19	tts	db4c4d222c
 zh	e2dfbba5	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 02:50:19	tts	90ae136ce0
 zh	eb1368fe	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:25:35	tts	2acf0dafdc
+zh	f2d4c937	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:25:46	tts	5a691fb6ee
 zh	f7437b53	china/spring-warring	serena t0.5 -16LUFS	48	2026-11-20 07:19:28	tts	4afa3f3913
 en	0808d90e	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:17:12	tts	bb137e0ba4
 en	0a900bb9	china/strategy-battles	serena t0.5 -16LUFS	48	2026-11-20 03:13:29	tts	c5014d0628
@@ -2653,6 +2654,7 @@ zh	0cebe32e	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:44	tts
 zh	150087ed	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:45	tts	cac36ff8ac
 zh	167dc8cb	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:37	tts	81a9d531fa
 zh	1c171c2a	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:45	tts	7a281413d1
+zh	1e2b3222	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:43	tts	5f1b44dbb9
 zh	2cecdd32	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 06:27:20	tts	e723579ce0
 zh	2d358312	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:44	tts	37a4ed94b2
 zh	2e500869	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:56	tts	fc4e41ef21
@@ -2715,6 +2717,7 @@ zh	b80f57d3	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:51	tts
 zh	c043d841	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:53	tts	eb7b1cb790
 zh	c8c7f713	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:38	tts	236c661850
 zh	c96eb9e1	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:35	tts	3b1de524cd
+zh	d9d3d427	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:43	tts	39f2985398
 zh	dafd2368	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:25:36	tts	340c60c88f
 zh	e13d981a	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:53	tts	f82d86ad35
 zh	e5485ce7	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 07:21:46	tts	4dfb7dc737
@@ -3117,6 +3120,10 @@ en	7191cb10	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:19:24	
 zh	53b4f775	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:24:25	tts	69b70b6f9d
 zh	5f5d691a	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:24:12	tts	733015e57e
 zh	aba90812	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:24:15	tts	1f040e0c2c
+zh	d42ab1b6	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:25:45	tts	b20398608f
+zh	f9e5e9a4	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:25:45	tts	29a787fdeb
+zh	b12e90e3	worldhistory/wh-exploration	serena t0.5 -16LUFS	48	2026-11-20 07:25:44	tts	3f4b6ab42b
+zh	d31e879b	worldhistory/wh-exploration	serena t0.5 -16LUFS	48	2026-11-20 07:25:44	tts	f541880dd1
 zh	126b703e	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:19:30	tts	3f61fdeef9
 zh	2738fd29	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:19:25	tts	37ca79d701
 zh	b6f8f6e3	worldhistory/wh-first-civilizations	serena t0.5 -16LUFS	48	2026-11-20 07:19:33	tts	4b6474add7
@@ -3160,3 +3167,4 @@ zh	51d9cf4a	worldhistory/wh-today	serena t0.5 -16LUFS	48	2026-11-20 07:24:24	tts
 zh	02f1d93e	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:19:24	copy	7723d9ece5
 zh	30e78f64	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:25:35	tts	801a0d71c9
 zh	375ed580	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:24:20	tts	86438f941b
+zh	474bbf4a	worldhistory/wh-world-wars	serena t0.5 -16LUFS	48	2026-11-20 07:25:44	tts	6def01d8d0
