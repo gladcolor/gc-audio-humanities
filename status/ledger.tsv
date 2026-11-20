@@ -879,6 +879,9 @@ zh	d9d91388	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 02:51:17	tts	
 zh	e8a8e88b	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 02:50:21	tts	53e130452f
 zh	eea2b0cd	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 02:50:11	tts	e92aaeddab
 en	53b1c9bd	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:42:59	tts	6352442e7f
+en	5a0c2b2b	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:47:09	tts	ce4a88abb1
+en	95939558	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:47:09	tts	f93b733fca
+en	a68b78ee	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:47:07	tts	04a5ab17f8
 en	d332b0b7	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:23:38	copy	38f4981b03
 en	f91ee42d	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:42:55	tts	4778c2f183
 zh	05938c89	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:45:04	tts	090e953bcf
@@ -890,7 +893,9 @@ zh	9ff4c4da	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:45:10	tts
 zh	aff56b81	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:46:30	tts	61b76d1ffe
 zh	ddd9009c	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:23:38	copy	b232ba73c9
 zh	e35eda20	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:44:56	tts	9dfa99e0ff
+en	7191cb10	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:47:15	tts	4824536098
 en	76384fb5	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:43:04	tts	531e544097
+en	f0d639d1	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:47:10	tts	f3f8cadd58
 zh	bfa13181	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:42:14	tts	b913c6dbab
 zh	ef3e3fd9	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:46:29	tts	506718c2fa
 en	1134a569	geography/climate-regions	serena t0.5 -16LUFS	48	2026-11-20 05:42:59	tts	f2c09d7c3f
@@ -1592,10 +1597,14 @@ zh	ff285d74	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:28
 en	8f341bc5	geography/map-projections	serena t0.5 -16LUFS	48	2026-11-20 04:47:27	tts	1166698edf
 zh	75904a29	geography/map-projections	serena t0.5 -16LUFS	48	2026-11-20 05:01:20	tts	cfd67bfcb7
 en	018d7235	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:29	tts	be126a15db
+en	149294d1	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:47:20	tts	e3adb67162
+en	5e7ce3da	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:47:14	tts	f844ec57fe
 en	609f95c6	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:29	tts	f18af8a8a6
 en	7f408e86	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:26	tts	d1ab310289
 en	7fecd075	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:29	tts	c356d04aeb
+en	87c1ef39	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:47:19	tts	0056b0fffb
 en	97a36da1	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:30	tts	06b906bb3b
+en	9f179f8b	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:47:12	tts	d3713daf2f
 zh	661fa373	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:41:53	tts	e4f8a479d9
 zh	81950fc5	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:08	tts	99bca4cdf4
 zh	81981276	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:06	tts	5d5868d1c4
@@ -2179,6 +2188,7 @@ zh	fce59f8b	geography/time-zones	serena t0.5 -16LUFS	48	2026-11-20 05:40:14	tts	
 zh	fd469ba8	geography/time-zones	serena t0.5 -16LUFS	48	2026-11-20 05:40:15	tts	e94146e95d
 zh	fefa0a3f	geography/time-zones	serena t0.5 -16LUFS	48	2026-11-20 05:24:07	tts	65a77b30bb
 zh	ffe96a9b	geography/time-zones	serena t0.5 -16LUFS	48	2026-11-20 05:41:57	tts	c1b08a5d03
+en	027ecfaa	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:47:13	tts	ce70c2300d
 en	2587188a	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:32	tts	7b12492045
 en	3281df89	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:27	tts	3cee8fac7f
 en	3b7de88b	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:33	tts	1aff5c2ec9
@@ -2187,6 +2197,7 @@ en	3dc528a2	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:27
 en	488df1bc	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:27	tts	e6319a5dd9
 en	4906fe58	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:30	tts	c9c8c94266
 en	4aef6b00	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:31	tts	5f684e418e
+en	55e26ad3	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:47:08	tts	4497b23a3e
 en	5df517ef	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:32	tts	b33c2166a4
 en	6ded21dc	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:28	tts	848d2b2971
 en	837fbd36	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:26	tts	4b4c1e4273
@@ -2194,8 +2205,11 @@ en	91e3e070	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:30
 en	924bbb9e	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:27	tts	d6873696f0
 en	9d4c3834	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:31	tts	0ea293f8ee
 en	ad3b0dfd	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:29	tts	f63f79fd15
+en	b037a320	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:47:18	tts	ce9afb0101
 en	bab91b24	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:25:42	copy	e7af915991
 en	c192b473	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:25:42	copy	97a265c4a5
+en	c30e8a8a	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:47:06	tts	0eadf0ed13
+en	e1ad885b	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:47:10	tts	29a83cf567
 en	f38a2dd8	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:32	tts	f89d0064ac
 en	fc4129c2	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:28	tts	f6359339b6
 zh	152b45aa	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:10	tts	fe0a761045
