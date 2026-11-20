@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:59:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 08:01:30. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -58,10 +58,10 @@ Updated 2026-11-20 07:59:45. Labels: finished / in progress / no audio / failed 
 | georgia/ga-20th | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:07 | 2026-11-20 06:35:15 |
 | georgia/ga-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:27 | 2026-11-20 06:44:58 |
 | georgia/ga-civilwar | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:10 | 2026-11-20 06:36:41 |
-| georgia/ga-colony | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:40 |  |
+| georgia/ga-colony | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:40 | 2026-11-20 08:00:59 |
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 | 2026-11-20 06:30:57 |
-| georgia/ga-government | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:45 |  |
-| georgia/ga-modern | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:43 |  |
+| georgia/ga-government | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:45 | 2026-11-20 08:01:15 |
+| georgia/ga-modern | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:43 | 2026-11-20 08:01:01 |
 | georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 | 2026-11-20 06:38:24 |
 | georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 | 2026-11-20 06:35:19 |
 | georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 | 2026-11-20 06:35:18 |
@@ -77,7 +77,7 @@ Updated 2026-11-20 07:59:45. Labels: finished / in progress / no audio / failed 
 | ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 | 2026-11-20 07:49:20 |
 | ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 | 2026-11-20 07:49:17 |
 | ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 | 2026-11-20 07:51:14 |
-| ushistory/us-constitution | no audio | 0 | 11 | 8 | 0 | 0 | 2026-11-19 18:21:38 |  |
+| ushistory/us-constitution | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:30 |  |
 | ushistory/us-expansion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:19 | 2026-11-20 07:45:24 |
 | ushistory/us-industrial | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:41:21 | 2026-11-20 07:42:56 |
 | ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 | 2026-11-20 07:49:19 |
@@ -85,7 +85,7 @@ Updated 2026-11-20 07:59:45. Labels: finished / in progress / no audio / failed 
 | worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 | 2026-11-20 07:45:23 |
 | worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 | 2026-11-20 07:56:03 |
 | worldhistory/wh-first-civilizations | no audio | 0 | 18 | 1 | 0 | 0 | 2026-11-19 18:22:12 |  |
-| worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 |  |
+| worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 | 2026-11-20 08:00:59 |
 | worldhistory/wh-india-persia | no audio | 0 | 24 | 7 | 0 | 0 | 2026-11-19 18:22:26 |  |
 | worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 | 2026-11-20 06:07:12 |
 | worldhistory/wh-renaissance | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:57 | 2026-11-20 06:07:13 |
