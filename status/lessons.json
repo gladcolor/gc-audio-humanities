@@ -1350,21 +1350,21 @@
  },
  "ushistory/us-civilwar": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
-  "fingerprint": "0d3dfa783d77",
-  "label": "old voice",
+  "fingerprint": "7ea5f9366fb3",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-civilwar.html",
   "title": {
    "en": "Civil War & Reconstruction",
    "zh": "南北战争与重建"
   },
-  "updated": "2026-11-19 18:21:48",
+  "updated": "2026-11-20 07:47:57",
   "verified": ""
  },
  "ushistory/us-colonies": {
@@ -1650,6 +1650,6 @@
    "zh": "两次世界大战与大屠杀"
   },
   "updated": "2026-11-20 07:45:32",
-  "verified": ""
+  "verified": "2026-11-20 07:46:42"
  }
 }
