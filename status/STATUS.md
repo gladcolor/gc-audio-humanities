@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 07:01:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:03:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -21,14 +21,14 @@ Updated 2026-11-20 07:01:38. Labels: finished / in progress / no audio / failed 
 | china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 04:20:56 | 2026-11-20 04:22:01 |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 03:38:25 | 2026-11-20 03:40:06 |
 | china/population-resources | finished | 41 | 0 | 0 | 0 | 0 | 2026-11-20 04:15:23 | 2026-11-20 04:17:07 |
-| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 |  |
+| china/prc | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 07:01:38 | 2026-11-20 07:02:53 |
 | china/prc-founding | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 03:58:00 | 2026-11-20 03:59:09 |
 | china/qin-han | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 03:23:42 | 2026-11-20 03:25:01 |
 | china/reform-opening | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 03:57:52 | 2026-11-20 03:59:06 |
 | china/regions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 04:26:58 | 2026-11-20 04:28:46 |
 | china/revolution | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:53:04 | 2026-11-20 03:54:19 |
 | china/seas-islands | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 04:00:58 | 2026-11-20 04:02:14 |
-| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:56:31 | 2026-11-20 03:57:39 |
+| china/silk-road-explorers | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:03:48 |  |
 | china/song-yuan | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:49 | 2026-11-20 03:52:00 |
 | china/spring-warring | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:41:45 | 2026-11-20 03:42:59 |
 | china/strategy-battles | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:22:16 | 2026-11-20 04:23:34 |
