@@ -1521,21 +1521,21 @@
  },
  "worldhistory/wh-first-civilizations": {
   "counts": {
-   "done": 0,
+   "done": 19,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 18,
+   "missing": 0,
+   "old": 0,
    "total": 19
   },
-  "fingerprint": "30e9c884708d",
-  "label": "no audio",
+  "fingerprint": "4fd20da11316",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-first-civilizations.html",
   "title": {
    "en": "First Civilizations: Mesopotamia & Egypt",
    "zh": "最早的文明：美索不达米亚与古埃及"
   },
-  "updated": "2026-11-19 18:22:12",
+  "updated": "2026-11-20 08:02:23",
   "verified": ""
  },
  "worldhistory/wh-greece-rome": {
