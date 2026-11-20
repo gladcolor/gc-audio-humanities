@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 04:01:02. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 04:01:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -35,7 +35,7 @@ Updated 2026-11-20 04:01:02. Labels: finished / in progress / no audio / failed 
 | china/sui-tang | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 03:46:03 | 2026-11-20 03:47:36 |
 | china/taiwan-hkm | no audio | 0 | 9 | 3 | 0 | 0 | 2026-11-19 18:15:46 |  |
 | china/terrain | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:15:07 |  |
-| china/territory | no audio | 0 | 31 | 9 | 0 | 0 | 2026-11-19 18:15:02 |  |
+| china/territory | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 04:01:07 |  |
 | china/three-gorges | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 03:34:53 | 2026-11-20 03:36:23 |
 | china/unity-diplomacy | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 03:49:36 | 2026-11-20 03:51:57 |
 | china/xia-shang-zhou | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 03:27:52 | 2026-11-20 03:29:02 |

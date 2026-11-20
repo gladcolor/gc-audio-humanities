@@ -590,21 +590,21 @@
  },
  "china/territory": {
   "counts": {
-   "done": 0,
+   "done": 40,
    "failed": 0,
    "held": 0,
-   "missing": 9,
-   "old": 31,
+   "missing": 0,
+   "old": 0,
    "total": 40
   },
   "fingerprint": "ce4c82f563f4",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/territory.html",
   "title": {
    "en": "China’s Territory & Administrative Divisions",
    "zh": "中国的疆域与行政区划"
   },
-  "updated": "2026-11-19 18:15:02",
+  "updated": "2026-11-20 04:01:07",
   "verified": ""
  },
  "china/three-gorges": {
