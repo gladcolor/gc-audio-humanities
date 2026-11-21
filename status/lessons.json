@@ -1297,21 +1297,24 @@
  },
  "politics/rights-duties": {
   "counts": {
-   "done": 16,
+   "done": 15,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 16
+   "total": 15
   },
-  "fingerprint": "",
+  "fingerprint": "e9691345d3fb",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rights-duties.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Citizens’ Rights & Duties",
    "zh": "理解权利义务"
   },
-  "updated": "2026-11-20 07:09:08",
+  "updated": "2026-11-21 14:25:12",
   "verified": ""
  },
  "politics/rule-of-law": {
