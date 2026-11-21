@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-21 14:14:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:18:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -46,7 +46,7 @@ Updated 2026-11-21 14:14:14. Labels: finished / in progress / no audio / failed 
 | economics/econ-systems | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:00 |  |
 | economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 |  |
 | geography/africa-asia | in progress | 9 | 4 | 0 | 0 | 0 | 2026-11-21 14:13:49 |  |
-| geography/americas | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:14:14 |  |
+| geography/americas | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:14:14 | 2026-11-21 14:15:52 |
 | geography/climate-regions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:23 |  |
 | geography/europe-oceania | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:28 |  |
 | geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 |  |
@@ -62,7 +62,7 @@ Updated 2026-11-21 14:14:14. Labels: finished / in progress / no audio / failed 
 | georgia/ga-geography | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:29:41 |  |
 | georgia/ga-government | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:45 |  |
 | georgia/ga-modern | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:43 |  |
-| georgia/ga-native | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:07 |  |
+| georgia/ga-native | in progress | 3 | 9 | 0 | 0 | 0 | 2026-11-21 14:18:49 |  |
 | georgia/ga-reconstruction | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:27 |  |
 | georgia/ga-removal | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:15 |  |
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 |  |
