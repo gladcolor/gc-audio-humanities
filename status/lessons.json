@@ -1235,21 +1235,24 @@
  },
  "politics/core-values": {
   "counts": {
-   "done": 24,
+   "done": 2,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 24
+   "total": 2
   },
-  "fingerprint": "",
+  "fingerprint": "e25644084b0e",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/core-values.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Culture & Core Values",
    "zh": "文明与家园：中华文化与核心价值观"
   },
-  "updated": "2026-11-20 07:25:39",
+  "updated": "2026-11-21 14:11:15",
   "verified": ""
  },
  "politics/development": {
