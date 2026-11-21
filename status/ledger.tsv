@@ -1962,6 +1962,7 @@ zh	19d50653	geography/landforms	serena moss8b	48	2026-11-21 14:15:55	tts	9c0f8dc
 zh	1dc56736	geography/landforms	serena moss8b	48	2026-11-21 14:13:44	tts	2deb712388
 zh	2050353c	geography/landforms	serena moss8b	48	2026-11-21 14:15:59	tts	386ad9ce70
 zh	2bbb2292	geography/landforms	serena moss8b	48	2026-11-21 14:16:26	tts	a1f3803b29
+zh	34568c93	geography/landforms	serena moss8b	48	2026-11-21 14:26:09	tts	3846142b54
 zh	52b4f31c	geography/landforms	serena moss8b	48	2026-11-21 14:14:24	tts	5a8cc868a7
 zh	65c9e699	geography/landforms	serena moss8b	48	2026-11-21 14:11:14	tts	8d034aee6e
 zh	a84d7771	geography/landforms	serena moss8b	48	2026-11-21 14:12:32	tts	e3107f4425
@@ -2776,6 +2777,7 @@ en	92dad1ad	georgia/ga-colony	serena t0.5 -16LUFS	48	2026-11-20 05:54:55	tts	83c
 en	e5b7c7da	georgia/ga-colony	serena t0.5 -16LUFS	48	2026-11-20 05:51:32	tts	e27d4e5337
 en	fbc3e0a2	georgia/ga-colony	serena t0.5 -16LUFS	48	2026-11-20 05:51:36	tts	b001ca78e6
 zh	420d3835	georgia/ga-colony	serena moss8b	48	2026-11-21 14:17:37	tts	d7c7f663ca
+zh	5f806266	georgia/ga-colony	serena moss8b	48	2026-11-21 14:26:07	tts	d81c69bcec
 zh	7581f7d2	georgia/ga-colony	serena moss8b	48	2026-11-21 14:24:25	tts	900570bb43
 zh	7b9337ec	georgia/ga-colony	serena moss8b	48	2026-11-21 14:14:33	tts	c8558388f2
 zh	800d716b	georgia/ga-colony	serena moss8b	48	2026-11-21 14:18:16	tts	fed26c0871
@@ -2992,6 +2994,7 @@ zh	61efb365	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:24:24	tts	146da
 zh	6213230f	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:24:25	tts	f238a522ef
 zh	670ec057	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:16:33	tts	696e4c3f85
 zh	6910a521	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:17:39	tts	8c10809c9d
+zh	80a1dff9	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:26:07	tts	6d8afecac3
 zh	9d596827	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:16:34	tts	59671b3d30
 zh	cba3dccf	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:16:34	tts	83655679d8
 zh	cc6e2a41	georgia/ga-revolution	serena moss8b	48	2026-11-21 14:18:07	tts	d28aaecb80
@@ -3026,6 +3029,7 @@ zh	10544593	politics/china-world	serena moss8b	48	2026-11-21 14:16:49	tts	6a2908
 zh	16a20b54	politics/china-world	serena moss8b	48	2026-11-21 14:19:48	tts	bf0e8c1caa
 zh	1b8ac07c	politics/china-world	serena moss8b	48	2026-11-21 14:16:50	tts	0af0331871
 zh	20648c3d	politics/china-world	serena moss8b	48	2026-11-21 14:14:42	tts	a2665ab295
+zh	34568c93	politics/china-world	serena moss8b	48	2026-11-21 14:26:08	tts	3846142b54
 zh	3d70be96	politics/china-world	serena moss8b	48	2026-11-21 14:16:24	tts	8514d625b2
 zh	4f2e728d	politics/china-world	serena moss8b	48	2026-11-21 14:14:43	tts	7cc268502c
 zh	534d6d93	politics/china-world	serena moss8b	48	2026-11-21 14:10:43	tts	2ab815172f
@@ -3047,6 +3051,7 @@ zh	a4db395f	politics/china-world	serena moss8b	48	2026-11-21 14:14:44	tts	a0f2ba
 zh	a95745cf	politics/china-world	serena moss8b	48	2026-11-21 14:11:20	tts	3cf42c1ddd
 zh	b4ce04e9	politics/china-world	serena moss8b	48	2026-11-21 14:10:42	tts	eb3c011842
 zh	b9217870	politics/china-world	serena moss8b	48	2026-11-21 14:10:53	tts	47f430237c
+zh	be69f189	politics/china-world	serena moss8b	48	2026-11-21 14:26:08	tts	76d86ac7ad
 zh	cfef3eb8	politics/china-world	serena moss8b	48	2026-11-21 14:10:57	tts	3b31691c4a
 zh	d0c2dbbf	politics/china-world	serena moss8b	48	2026-11-21 14:11:39	tts	916ce16046
 zh	e4212313	politics/china-world	serena moss8b	48	2026-11-21 14:13:40	tts	8b276e5236
@@ -3109,9 +3114,12 @@ en	f89aafba	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy
 en	fb822591	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:38:20	tts	53c9b4b6af
 zh	0b2b2e15	politics/development	serena moss8b	48	2026-11-21 14:13:58	tts	0de6f58582
 zh	106e9b5c	politics/development	serena moss8b	48	2026-11-21 14:13:42	tts	68a2f87656
+zh	124cb9ca	politics/development	serena moss8b	48	2026-11-21 14:26:08	tts	8dc8af9e81
 zh	1fc7d1b3	politics/development	serena moss8b	48	2026-11-21 14:21:01	tts	156d68f83c
 zh	5cfd2054	politics/development	serena moss8b	48	2026-11-21 14:16:37	tts	ee1f80ec60
 zh	5f3d302a	politics/development	serena moss8b	48	2026-11-21 14:11:37	tts	98cfaf0939
+zh	81b0666a	politics/development	serena moss8b	48	2026-11-21 14:26:08	tts	a94e93a7bd
+zh	8cef66b6	politics/development	serena moss8b	48	2026-11-21 14:26:09	tts	3703d87416
 zh	8db580b0	politics/development	serena moss8b	48	2026-11-21 14:13:12	tts	ce7892576f
 zh	8e08c76f	politics/development	serena moss8b	48	2026-11-21 14:11:03	tts	620d9ca7e6
 zh	adcc2bf7	politics/development	serena moss8b	48	2026-11-21 14:12:40	tts	aebd2d8d35
@@ -3218,6 +3226,7 @@ zh	243038b3	politics/state-system	serena moss8b	48	2026-11-21 14:20:43	tts	de988
 zh	3cd6e021	politics/state-system	serena moss8b	48	2026-11-21 14:20:58	tts	0391640754
 zh	5cfd2054	politics/state-system	serena moss8b	48	2026-11-21 14:16:37	tts	ee1f80ec60
 zh	81b0666a	politics/state-system	serena moss8b	48	2026-11-21 14:21:00	tts	a94e93a7bd
+zh	a6303c07	politics/state-system	serena moss8b	48	2026-11-21 14:26:09	tts	31edbee142
 zh	aa8ed336	politics/state-system	serena moss8b	48	2026-11-21 14:26:02	tts	cfe9c69c7a
 zh	adc7686f	politics/state-system	serena moss8b	48	2026-11-21 14:22:30	tts	6f8a60b071
 zh	cb5ccdd9	politics/state-system	serena moss8b	48	2026-11-21 14:21:54	tts	3c671f95ec
