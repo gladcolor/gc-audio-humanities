@@ -1116,11 +1116,11 @@
  },
  "georgia/ga-government": {
   "counts": {
-   "done": 8,
+   "done": 111,
    "failed": 0,
    "held": 0,
-   "missing": 7,
-   "old": 159,
+   "missing": 0,
+   "old": 63,
    "total": 174
   },
   "fingerprint": "3f84899e60c9",
@@ -1133,7 +1133,7 @@
    "en": "Georgia Government & Citizenship",
    "zh": "佐治亚州政府与公民"
   },
-  "updated": "2026-11-21 14:19:42",
+  "updated": "2026-11-21 14:35:35",
   "verified": ""
  },
  "georgia/ga-modern": {
