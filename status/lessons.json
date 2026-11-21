@@ -236,7 +236,7 @@
    "old": 0,
    "total": 70
   },
-  "fingerprint": "de9dd1a99a39",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/ming-qing.html",
   "record_langs": [
@@ -247,7 +247,7 @@
    "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
   },
   "updated": "2026-11-20 18:54:26",
-  "verified": "2026-11-20 18:56:28"
+  "verified": ""
  },
  "china/modern-china": {
   "counts": {
@@ -878,21 +878,24 @@
  },
  "geography/latitude-longitude": {
   "counts": {
-   "done": 675,
+   "done": 0,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 675
+   "total": 0
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "08f055b42ea2",
+  "label": "old voice",
   "page": "https://shanchuan.org/middle/geography/latitude-longitude.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Latitude & Longitude",
    "zh": "经度与纬度"
   },
-  "updated": "2026-11-20 04:59:13",
+  "updated": "2026-11-21 14:09:18",
   "verified": ""
  },
  "geography/map-projections": {

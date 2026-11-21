@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-20 18:56:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:09:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Updated 2026-11-20 18:56:28. Labels: finished / in progress / no audio / failed 
 | china/great-wall | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:41 |  |
 | china/inventions | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:06 |  |
 | china/megaprojects | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-20 07:17:25 |  |
-| china/ming-qing | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-20 18:54:26 | 2026-11-20 18:56:28 |
+| china/ming-qing | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-20 18:54:26 |  |
 | china/modern-china | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:32 |  |
 | china/natural-wonders | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:10:53 |  |
 | china/new-era | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 07:13:35 |  |
@@ -50,7 +50,7 @@ Updated 2026-11-20 18:56:28. Labels: finished / in progress / no audio / failed 
 | geography/climate-regions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:22 |  |
 | geography/europe-oceania | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 05:54:00 | 2026-11-20 05:56:17 |
 | geography/landforms | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 05:46:30 |  |
-| geography/latitude-longitude | finished | 675 | 0 | 0 | 0 | 0 | 2026-11-20 04:59:13 |  |
+| geography/latitude-longitude | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:18 |  |
 | geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 05:01:20 |  |
 | geography/population | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:54 |  |
 | geography/time-zones | finished | 576 | 0 | 0 | 0 | 0 | 2026-11-20 05:41:57 |  |
