@@ -2757,6 +2757,7 @@ en	f3c938bf	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 06:00:28	tts	4eb4f
 en	f5b218c9	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:59:44	tts	1768089222
 zh	0602b6ee	georgia/ga-20th	serena moss8b	48	2026-11-21 14:28:15	tts	35007ebf56
 zh	0b1506ed	georgia/ga-20th	serena moss8b	48	2026-11-21 14:17:34	tts	1c40ad42f5
+zh	0e3f72fe	georgia/ga-20th	serena moss8b	48	2026-11-21 14:32:58	tts	737165b8d6
 zh	0ffdd3e0	georgia/ga-20th	serena moss8b	48	2026-11-21 14:25:00	tts	7202e07103
 zh	13427e52	georgia/ga-20th	serena moss8b	48	2026-11-21 14:24:58	tts	97b1a640bb
 zh	13f015bd	georgia/ga-20th	serena moss8b	48	2026-11-21 14:17:32	tts	9a9306e8c9
@@ -2765,21 +2766,31 @@ zh	2acd858f	georgia/ga-20th	serena moss8b	48	2026-11-21 14:21:18	tts	9a626a8c86
 zh	2d341c22	georgia/ga-20th	serena moss8b	48	2026-11-21 14:27:15	tts	f6bd7ba9db
 zh	33ae1b4b	georgia/ga-20th	serena moss8b	48	2026-11-21 14:18:17	tts	edc6057cae
 zh	3583b4b8	georgia/ga-20th	serena moss8b	48	2026-11-21 14:18:27	tts	1854ceb247
+zh	3d3b4fe5	georgia/ga-20th	serena moss8b	48	2026-11-21 14:32:58	tts	be1bf13793
 zh	43599706	georgia/ga-20th	serena moss8b	48	2026-11-21 14:18:21	tts	ffe275854b
+zh	45b121d1	georgia/ga-20th	serena moss8b	48	2026-11-21 14:34:19	tts	37dc995dc5
 zh	4b02b63d	georgia/ga-20th	serena moss8b	48	2026-11-21 14:18:20	tts	ccdb012e8a
 zh	4f9861e9	georgia/ga-20th	serena moss8b	48	2026-11-21 14:19:12	tts	cf2115ffc2
 zh	53a1b68d	georgia/ga-20th	serena moss8b	48	2026-11-21 14:26:42	tts	84e2ffc5a3
 zh	59997834	georgia/ga-20th	serena moss8b	48	2026-11-21 14:19:49	tts	88f43185b9
 zh	5c0e2c09	georgia/ga-20th	serena moss8b	48	2026-11-21 14:22:42	tts	10e9a1fda1
+zh	6213230f	georgia/ga-20th	serena moss8b	48	2026-11-21 14:34:19	tts	f238a522ef
+zh	670ec057	georgia/ga-20th	serena moss8b	48	2026-11-21 14:34:17	tts	696e4c3f85
 zh	67975a3c	georgia/ga-20th	serena moss8b	48	2026-11-21 14:28:12	tts	0eda0d2c9d
 zh	6b23be49	georgia/ga-20th	serena moss8b	48	2026-11-21 14:17:56	tts	e506bf4997
 zh	6ca2c8ef	georgia/ga-20th	serena moss8b	48	2026-11-21 14:17:52	tts	925ea1ee75
+zh	741b4452	georgia/ga-20th	serena moss8b	48	2026-11-21 14:34:18	tts	e50ad681eb
+zh	80a1dff9	georgia/ga-20th	serena moss8b	48	2026-11-21 14:32:58	tts	6d8afecac3
 zh	835639e9	georgia/ga-20th	serena moss8b	48	2026-11-21 14:28:11	tts	6d5b41478d
 zh	85bf0738	georgia/ga-20th	serena moss8b	48	2026-11-21 14:18:23	tts	106fa02061
 zh	8903a589	georgia/ga-20th	serena moss8b	48	2026-11-21 14:21:11	tts	aa02394c6d
+zh	8b85b559	georgia/ga-20th	serena moss8b	48	2026-11-21 14:33:01	tts	96b2233d99
 zh	8dfbaf8a	georgia/ga-20th	serena moss8b	48	2026-11-21 14:26:39	tts	51ddacd513
+zh	90558352	georgia/ga-20th	serena moss8b	48	2026-11-21 14:33:00	tts	3593155f24
 zh	9d596827	georgia/ga-20th	serena moss8b	48	2026-11-21 14:28:08	tts	59671b3d30
+zh	9f9b6338	georgia/ga-20th	serena moss8b	48	2026-11-21 14:33:00	tts	ed42455b2a
 zh	b29e0b3e	georgia/ga-20th	serena moss8b	48	2026-11-21 14:27:59	tts	8f43f42849
+zh	b67138c3	georgia/ga-20th	serena moss8b	48	2026-11-21 14:33:01	tts	4850ba02b7
 zh	b9f2f546	georgia/ga-20th	serena moss8b	48	2026-11-21 14:27:15	tts	f48aa51990
 zh	c43e77f7	georgia/ga-20th	serena moss8b	48	2026-11-21 14:22:49	tts	67e69d1625
 zh	cba3dccf	georgia/ga-20th	serena moss8b	48	2026-11-21 14:28:16	tts	83655679d8
@@ -2795,15 +2806,24 @@ en	5f7e67de	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 06:18:00	tt
 en	6108e843	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 06:01:54	tts	a8233cc7f1
 en	d5f408e2	georgia/ga-civilrights	serena t0.5 -16LUFS	48	2026-11-20 05:59:33	tts	27e3a6c41e
 zh	06b566b4	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:25:45	tts	25bccef566
+zh	0e3f72fe	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:33:00	tts	737165b8d6
 zh	305b5175	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:18:03	tts	5dcc54ff5c
 zh	394940b7	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:26:40	tts	99e6077d4d
+zh	61efb365	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:34:20	tts	146daf4075
+zh	6213230f	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:34:20	tts	f238a522ef
+zh	67975a3c	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:34:18	tts	0eda0d2c9d
 zh	741b4452	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:28:17	tts	e50ad681eb
 zh	7eb64783	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:22:45	tts	eeefa5c9db
+zh	80a1dff9	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:33:01	tts	6d8afecac3
 zh	835639e9	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:28:16	tts	6d5b41478d
+zh	86b5b6e9	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:34:16	tts	82102c11c9
 zh	8af131b0	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:24:00	tts	f48b526b77
+zh	90558352	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:32:58	tts	3593155f24
 zh	9389872e	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:21:09	tts	f33394df1c
+zh	9678b39b	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:33:01	tts	25577be773
 zh	a7be944a	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:27:45	tts	c64f5b3992
 zh	aff82824	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:27:07	tts	ea19981e99
+zh	b31558f7	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:32:59	tts	8d071f46f1
 zh	b3fffe56	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:24:02	tts	b5710d8601
 zh	e0efcc20	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:18:00	tts	1cf0385e84
 zh	e382ccc8	georgia/ga-civilrights	serena moss8b	48	2026-11-21 14:26:44	tts	94ae3f1547
@@ -2952,8 +2972,10 @@ en	f21e6901	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:57:19	tts
 en	fb604a30	georgia/ga-government	serena t0.5 -16LUFS	48	2026-11-20 05:54:34	tts	9cc8657872
 zh	02f1cb10	georgia/ga-government	serena moss8b	48	2026-11-21 14:27:04	tts	a7552b504a
 zh	0a9a26f3	georgia/ga-government	serena moss8b	48	2026-11-21 14:27:05	tts	3b91098d77
+zh	2cecdd32	georgia/ga-government	serena moss8b	48	2026-11-21 14:32:57	tts	e723579ce0
 zh	2d264d3a	georgia/ga-government	serena moss8b	48	2026-11-21 14:19:41	tts	95ce5672b6
 zh	2e500869	georgia/ga-government	serena moss8b	48	2026-11-21 14:19:20	tts	fc4e41ef21
+zh	2ef4ca68	georgia/ga-government	serena moss8b	48	2026-11-21 14:34:18	tts	1ab9eed9d3
 zh	2ffa639a	georgia/ga-government	serena moss8b	48	2026-11-21 14:27:09	tts	1fb7db84a0
 zh	39768e0b	georgia/ga-government	serena moss8b	48	2026-11-21 14:19:27	tts	83ebd60714
 zh	504f6f13	georgia/ga-government	serena moss8b	48	2026-11-21 14:19:28	tts	ae9445da40
@@ -2982,18 +3004,23 @@ en	fb8c754b	georgia/ga-modern	serena t0.5 -16LUFS	48	2026-11-20 06:01:59	tts	28e
 zh	0e1870ee	georgia/ga-modern	serena moss8b	48	2026-11-21 14:21:20	tts	b17b97a598
 zh	0ed3d094	georgia/ga-modern	serena moss8b	48	2026-11-21 14:22:04	tts	0c0fcb45d7
 zh	1b7fab4c	georgia/ga-modern	serena moss8b	48	2026-11-21 14:26:58	tts	1a1d63191b
+zh	4e4574d1	georgia/ga-modern	serena moss8b	48	2026-11-21 14:34:17	tts	50134532d1
 zh	58c61bcf	georgia/ga-modern	serena moss8b	48	2026-11-21 14:18:18	tts	2f3999d4f1
+zh	5f806266	georgia/ga-modern	serena moss8b	48	2026-11-21 14:32:59	tts	d81c69bcec
 zh	6ebe2ebe	georgia/ga-modern	serena moss8b	48	2026-11-21 14:23:24	tts	f233c2be2e
 zh	743ad6aa	georgia/ga-modern	serena moss8b	48	2026-11-21 14:21:08	tts	434ee1c387
 zh	93803335	georgia/ga-modern	serena moss8b	48	2026-11-21 14:19:46	tts	2c4d4ab0d8
+zh	aebfc109	georgia/ga-modern	serena moss8b	48	2026-11-21 14:32:57	tts	d475509893
 zh	c98a348f	georgia/ga-modern	serena moss8b	48	2026-11-21 14:18:29	tts	3d0dc954fd
 zh	d7a4d574	georgia/ga-modern	serena moss8b	48	2026-11-21 14:18:30	tts	cad5baf4da
 zh	dd1aed09	georgia/ga-modern	serena moss8b	48	2026-11-21 14:25:59	tts	3cee81fab9
+zh	e5059833	georgia/ga-modern	serena moss8b	48	2026-11-21 14:32:59	tts	555eebca1e
 zh	e768bccb	georgia/ga-modern	serena moss8b	48	2026-11-21 14:25:01	tts	7f3f51fbdc
 zh	ec269acc	georgia/ga-modern	serena moss8b	48	2026-11-21 14:18:19	tts	f9dfbc9095
 zh	f00eb203	georgia/ga-modern	serena moss8b	48	2026-11-21 14:18:28	tts	e786a6df7f
 zh	f886272f	georgia/ga-modern	serena moss8b	48	2026-11-21 14:23:14	tts	1a2dbb23d4
 zh	f8e87acb	georgia/ga-modern	serena moss8b	48	2026-11-21 14:24:05	tts	4faa3cbed5
+zh	fb01a05d	georgia/ga-modern	serena moss8b	48	2026-11-21 14:34:05	tts	65bc84d846
 en	0e896a2e	georgia/ga-native	serena t0.5 -16LUFS	48	2026-11-20 05:54:54	tts	287fdc2db9
 en	2307d14c	georgia/ga-native	serena t0.5 -16LUFS	48	2026-11-20 06:00:27	tts	4d67616d69
 en	281998ae	georgia/ga-native	serena t0.5 -16LUFS	48	2026-11-20 06:01:47	tts	264da21018
@@ -3351,6 +3378,7 @@ en	86c717e6	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:31	tts
 en	8a127937	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:32	tts	a6001a3ff7
 en	c88903aa	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:45:28	tts	9b573c1a9b
 en	fe486c16	ushistory/us-civilwar	serena t0.5 -16LUFS	48	2026-11-20 07:29:35	tts	933a073557
+zh	670ec057	ushistory/us-civilwar	serena moss8b	48	2026-11-21 14:34:20	tts	696e4c3f85
 zh	b9f2f546	ushistory/us-civilwar	serena moss8b	48	2026-11-21 14:28:01	tts	f48aa51990
 en	0ca6aaa4	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:26:51	tts	f3a13711b3
 en	0dc81e82	ushistory/us-colonies	serena t0.5 -16LUFS	48	2026-11-20 07:49:50	tts	43467d92d6
@@ -3388,6 +3416,8 @@ en	a722fb8e	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:34:47
 en	c10c9669	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:38:15	tts	71e9e87462
 en	c6ca049e	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 07:38:22	tts	3304ee1e89
 en	eda67fc2	ushistory/us-constitution	serena t0.5 -16LUFS	48	2026-11-20 08:01:30	tts	8762464e40
+zh	0602b6ee	ushistory/us-constitution	serena moss8b	48	2026-11-21 14:34:20	tts	35007ebf56
+zh	07c1998f	ushistory/us-constitution	serena moss8b	48	2026-11-21 14:34:19	tts	e51a05b209
 zh	5da8b92c	ushistory/us-constitution	serena moss8b	48	2026-11-21 14:28:00	tts	68b024e4d6
 en	63304e87	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:43:19	tts	d5535187eb
 en	65c2b3d8	ushistory/us-expansion	serena t0.5 -16LUFS	48	2026-11-20 07:34:50	tts	428be0d913
