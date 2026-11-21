@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "geography/landforms", "voice": "serena", "en": "546995f8 c2499e2e", "zh": "2050353c 2ea32fd5 4d8ab9d9 8ac8b42a c8067d77 cb754cbd cef28599 e042e192"});
+LabAudioManifest({"lesson": "geography/landforms", "voice": "serena", "en": "546995f8 c2499e2e", "zh": "079776ac 1386ce89 19d50653 1dc56736 2050353c 2bbb2292 2ea32fd5 34568c93 4d8ab9d9 52b4f31c 65c9e699 6af833e3 781aa43c 7d674437 8ac8b42a 92f66353 9f94691b a84d7771 be69f189 c10634b4 c14fff1d c8067d77 cb754cbd cb916a3d ccadc42e cef28599 cf99279f d958e581 e042e192 e4f85555 ee3ee37a f0da696e f831b7ee"});
