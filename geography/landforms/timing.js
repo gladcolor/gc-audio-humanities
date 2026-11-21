@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "geography/landforms", "en": {"546995f8": {"dur": 37.84}, "c2499e2e": {"dur": 34.64}}, "zh": {"2050353c": {"dur": 36.24}, "2ea32fd5": {"dur": 34.48}, "4d8ab9d9": {"dur": 29.04}, "8ac8b42a": {"dur": 29.84}, "c8067d77": {"dur": 32.0}, "cb754cbd": {"dur": 30.72}, "cef28599": {"dur": 36.88}, "e042e192": {"dur": 40.72}}});
+LabAudioTiming({"lesson": "geography/landforms", "en": {"546995f8": {"dur": 37.9}, "c2499e2e": {"dur": 34.7}}, "zh": {"2050353c": {"dur": 36.29}, "2ea32fd5": {"dur": 34.54}, "4d8ab9d9": {"dur": 29.09}, "8ac8b42a": {"dur": 29.9}, "c8067d77": {"dur": 32.06}, "cb754cbd": {"dur": 30.77}, "cef28599": {"dur": 36.94}, "e042e192": {"dur": 40.78}}});

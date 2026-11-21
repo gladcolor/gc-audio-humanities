@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "economics/econ-scarcity", "en": {"351f618d": {"dur": 34.48}, "86f383dc": {"dur": 36.0}, "d87af741": {"dur": 20.8}, "efd1cd7d": {"dur": 26.72}}, "zh": {"543dc268": {"dur": 34.24}, "c6aaadf6": {"dur": 27.04}, "e4747fc1": {"dur": 17.36}, "f83ee7ba": {"dur": 23.2}, "fbcbdcc1": {"dur": 1.12}}});
+LabAudioTiming({"lesson": "economics/econ-scarcity", "en": {"351f618d": {"dur": 34.54}, "86f383dc": {"dur": 36.05}, "d87af741": {"dur": 20.86}, "efd1cd7d": {"dur": 26.78}}, "zh": {"543dc268": {"dur": 34.3}, "c6aaadf6": {"dur": 27.1}, "e4747fc1": {"dur": 17.42}, "f83ee7ba": {"dur": 23.26}, "fbcbdcc1": {"dur": 1.18}}});

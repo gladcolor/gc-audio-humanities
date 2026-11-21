@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "worldhistory/wh-cold-war", "en": {"1c9cdd63": {"dur": 14.24}, "226f5813": {"dur": 20.16}, "2d8e4c66": {"dur": 17.12}, "7191cb10": {"dur": 22.32}}, "zh": {"53b4f775": {"dur": 27.68}, "5f5d691a": {"dur": 17.36}, "aba90812": {"dur": 23.76}, "d42ab1b6": {"dur": 13.36}, "f9e5e9a4": {"dur": 11.84}}});
+LabAudioTiming({"lesson": "worldhistory/wh-cold-war", "en": {"1c9cdd63": {"dur": 14.3}, "226f5813": {"dur": 20.21}, "2d8e4c66": {"dur": 17.18}, "7191cb10": {"dur": 22.37}}, "zh": {"53b4f775": {"dur": 27.74}, "5f5d691a": {"dur": 17.42}, "aba90812": {"dur": 23.81}, "d42ab1b6": {"dur": 13.42}, "f9e5e9a4": {"dur": 11.9}}});
