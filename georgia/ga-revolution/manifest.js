@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "georgia/ga-revolution", "voice": "serena", "en": "1201e324 203b5f87 39d8f683 43773bb3 614c5519 8c141890 a1224153 aaeb3401 b5d0f30f bfd63544 c547dda3", "zh": "0af0bc6b 0da1d991 0fddc255 11dc6ff6 311b8e8b 3d3b4fe5 475b6dc2 4faf4317 dc46fbe6"});
+LabAudioManifest({"lesson": "georgia/ga-revolution", "voice": "serena", "en": "1201e324 203b5f87 39d8f683 43773bb3 614c5519 8c141890 a1224153 aaeb3401 b5d0f30f bfd63544 c547dda3", "zh": "022db794 0456f53a 0602b6ee 0af0bc6b 0da1d991 0fddc255 11dc6ff6 311b8e8b 3d3b4fe5 475b6dc2 4faf4317 5eb00422 61efb365 6213230f 670ec057 6910a521 80a1dff9 90558352 9d596827 b9f2f546 cba3dccf cc6e2a41 d3a026f5 dc46fbe6 e3475894 e85ec986 eb3bfcf9"});
