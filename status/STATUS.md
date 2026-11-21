@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-21 14:35:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:36:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -83,7 +83,7 @@ Updated 2026-11-21 14:35:35. Labels: finished / in progress / no audio / failed 
 | ushistory/us-modern | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:09 |  |
 | ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 |  |
 | worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 |  |
-| worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 |  |
+| worldhistory/wh-exploration | in progress | 2 | 0 | 34 | 0 | 0 | 2026-11-21 14:36:34 |  |
 | worldhistory/wh-first-civilizations | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:32:44 |  |
 | worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 |  |
 | worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 |  |
