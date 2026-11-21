@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "ushistory/us-expansion", "en": {"63304e87": {"dur": 14.69}, "65c2b3d8": {"dur": 20.45}, "bf2898e2": {"dur": 27.1}, "e0d6cd68": {"dur": 16.46}}, "zh": {"2d88215f": {"dur": 33.82}, "57b049c8": {"dur": 32.21}, "5e77dc90": {"dur": 33.1}, "66786550": {"dur": 11.57}, "8bff9d92": {"dur": 20.06}, "8d7cd15b": {"dur": 22.7}, "bdd57f2e": {"dur": 17.26}, "c0cc58f1": {"dur": 11.5}, "c85dcb40": {"dur": 41.42}, "cdbe6d1b": {"dur": 22.3}, "dc1b34b0": {"dur": 22.61}}});
+LabAudioTiming({"lesson": "ushistory/us-expansion", "en": {}, "zh": {"2d88215f": {"dur": 33.82}, "57b049c8": {"dur": 32.21}, "8bff9d92": {"dur": 20.06}, "c85dcb40": {"dur": 41.42}}});
