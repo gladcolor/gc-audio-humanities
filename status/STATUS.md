@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-21 14:11:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:13:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ Updated 2026-11-21 14:11:15. Labels: finished / in progress / no audio / failed 
 | economics/econ-supply-demand | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-20 06:43:09 |  |
 | economics/econ-systems | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:00 |  |
 | economics/econ-trade | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:01 |  |
-| geography/africa-asia | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:41 |  |
+| geography/africa-asia | in progress | 9 | 4 | 0 | 0 | 0 | 2026-11-21 14:13:49 |  |
 | geography/americas | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:50:51 |  |
 | geography/climate-regions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:23 |  |
 | geography/europe-oceania | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:28 |  |
@@ -68,7 +68,7 @@ Updated 2026-11-21 14:11:15. Labels: finished / in progress / no audio / failed 
 | georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:44 |  |
 | politics/china-world | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:34 |  |
 | politics/constitution | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-20 07:40:43 |  |
-| politics/core-values | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:11:15 |  |
+| politics/core-values | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:11:15 | 2026-11-21 14:13:05 |
 | politics/development | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-20 07:15:27 |  |
 | politics/rights-duties | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 07:09:08 |  |
 | politics/rule-of-law | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 07:19:05 |  |

@@ -1814,10 +1814,17 @@ en	aeab932b	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 02:48:38	tts	
 en	bc77cfa9	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 03:27:52	tts	caef772e25
 en	ef422cfd	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 03:01:51	tts	bf42d12f19
 en	f705cc3b	china/xia-shang-zhou	serena t0.5 -16LUFS	48	2026-11-20 02:59:30	tts	15a663d2a9
+zh	0474ba2a	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:13:20	tts	b01980d080
+zh	163b875d	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:12:44	tts	3653a40d30
+zh	5e7a2727	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:11:42	tts	9e8cd4f959
+zh	658d0239	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:12:02	tts	e093a59555
+zh	901210c6	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:13:19	tts	5e50f8973a
 zh	91bc3bad	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:11:05	tts	ba9c37bd92
 zh	ab81f0db	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:10:46	tts	034c29d4e4
+zh	d988149c	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:12:45	tts	93911615c3
 zh	ddd9009c	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:10:51	tts	b232ba73c9
 zh	e7e8669e	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:11:04	tts	fca7a78e14
+zh	f240f82b	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:12:47	tts	cea2395b10
 en	16e7854b	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:35:27	tts	1dedff644c
 en	3650f38e	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	2d017a59a2
 en	3dc528a2	economics/econ-growth	serena t0.5 -16LUFS	48	2026-11-20 06:11:29	copy	63f0643c43
@@ -1880,7 +1887,14 @@ en	d332b0b7	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:23:38	cop
 en	f91ee42d	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:42:55	tts	4778c2f183
 en	fe771375	geography/africa-asia	serena t0.5 -16LUFS	48	2026-11-20 05:48:54	tts	42781926d5
 zh	19ce23c1	geography/africa-asia	serena moss8b	48	2026-11-21 14:10:44	tts	b99e81020d
+zh	25e834da	geography/africa-asia	serena moss8b	48	2026-11-21 14:11:20	tts	cce8c99d3c
 zh	3820cf42	geography/africa-asia	serena moss8b	48	2026-11-21 14:10:40	tts	22b91e503b
+zh	83f8f63c	geography/africa-asia	serena moss8b	48	2026-11-21 14:13:20	tts	793c789198
+zh	9bb0fa56	geography/africa-asia	serena moss8b	48	2026-11-21 14:11:58	tts	0e91e0c80e
+zh	a3c32567	geography/africa-asia	serena moss8b	48	2026-11-21 14:12:41	tts	a4dceee3a1
+zh	aff56b81	geography/africa-asia	serena moss8b	48	2026-11-21 14:13:49	tts	61b76d1ffe
+zh	ddd9009c	geography/africa-asia	serena moss8b	48	2026-11-21 14:13:06	tts	b232ba73c9
+zh	f917cec3	geography/africa-asia	serena moss8b	48	2026-11-21 14:11:40	tts	8435bc80be
 en	592b1548	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:48:57	tts	6dd900b44b
 en	6b121e34	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:49:01	tts	a7e7d72da4
 en	7191cb10	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:47:15	tts	4824536098
@@ -1891,6 +1905,7 @@ en	eab4c1e6	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:49:20	tts	f6
 en	f0d639d1	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:47:10	tts	f3f8cadd58
 en	f942e492	geography/americas	serena t0.5 -16LUFS	48	2026-11-20 05:49:13	tts	4ed2f3f11b
 zh	1990d3ce	geography/americas	serena moss8b	48	2026-11-21 14:10:54	tts	a1a214d7d5
+zh	b0d931e5	geography/americas	serena moss8b	48	2026-11-21 14:12:34	tts	fb5806cc36
 en	1134a569	geography/climate-regions	serena t0.5 -16LUFS	48	2026-11-20 05:42:59	tts	f2c09d7c3f
 en	742574b8	geography/climate-regions	serena t0.5 -16LUFS	48	2026-11-20 05:43:02	tts	7d1f7b0277
 en	a1a51758	geography/climate-regions	serena t0.5 -16LUFS	48	2026-11-20 05:43:05	tts	8af338e15c
@@ -1909,7 +1924,9 @@ en	f67138a2	geography/europe-oceania	serena t0.5 -16LUFS	48	2026-11-20 05:53:07	
 en	fd043278	geography/europe-oceania	serena t0.5 -16LUFS	48	2026-11-20 05:42:57	tts	24dcd176c1
 en	546995f8	geography/landforms	serena t0.5 -16LUFS	48	2026-11-20 05:20:27	tts	503d489ee2
 en	c2499e2e	geography/landforms	serena t0.5 -16LUFS	48	2026-11-20 05:20:28	tts	1cae0801f7
+zh	1dc56736	geography/landforms	serena moss8b	48	2026-11-21 14:13:44	tts	2deb712388
 zh	65c9e699	geography/landforms	serena moss8b	48	2026-11-21 14:11:14	tts	8d034aee6e
+zh	a84d7771	geography/landforms	serena moss8b	48	2026-11-21 14:12:32	tts	e3107f4425
 en	0125cd45	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:32:50	tts	814e112d9c
 en	0138df0f	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:26:43	tts	18c860a949
 en	01599b77	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:37:04	tts	3290ff474e
@@ -2312,6 +2329,7 @@ en	fd7fc04f	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:59
 en	fe1d5796	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:58:19	tts	8dd64fa22e
 en	fe9463ec	geography/latitude-longitude	serena t0.5 -16LUFS	48	2026-11-20 04:59:13	tts	2bfed592c5
 en	8f341bc5	geography/map-projections	serena t0.5 -16LUFS	48	2026-11-20 04:47:27	tts	1166698edf
+zh	85035199	geography/map-projections	serena moss8b	48	2026-11-21 14:13:48	tts	847674e81d
 en	018d7235	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:45:29	tts	be126a15db
 en	149294d1	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:47:20	tts	e3adb67162
 en	33247b93	geography/population	serena t0.5 -16LUFS	48	2026-11-20 05:48:15	tts	0e9d4a3dc4
@@ -2630,7 +2648,13 @@ en	efb6a0a1	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:48:19
 en	f38a2dd8	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:32	tts	f89d0064ac
 en	fc4129c2	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:45:28	tts	f6359339b6
 en	fd531d10	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:48:53	tts	03595afb29
+zh	1d646cc8	geography/world-religions	serena moss8b	48	2026-11-21 14:13:13	tts	a3c160b6ef
+zh	4327fecb	geography/world-religions	serena moss8b	48	2026-11-21 14:13:43	tts	ff3eb8c987
+zh	645a13ab	geography/world-religions	serena moss8b	48	2026-11-21 14:11:38	tts	adfd4c83ed
+zh	c42d6e25	geography/world-religions	serena moss8b	48	2026-11-21 14:12:39	tts	c0300d71e6
 zh	cf6d61d6	geography/world-religions	serena moss8b	48	2026-11-21 14:10:38	tts	68c1c727e7
+zh	cfcddb74	geography/world-religions	serena moss8b	48	2026-11-21 14:12:10	tts	bc7b69f5ca
+zh	e00e57a7	geography/world-religions	serena moss8b	48	2026-11-21 14:11:46	tts	574437d264
 en	1f29a1ff	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:59:42	tts	d6c6922ec6
 en	26e68c58	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 05:54:45	tts	fcf567963a
 en	300e17e5	georgia/ga-20th	serena t0.5 -16LUFS	48	2026-11-20 06:00:28	tts	82c5071836
@@ -2845,13 +2869,20 @@ en	fa66df2e	politics/china-world	serena t0.5 -16LUFS	48	2026-11-20 04:09:35	tts	
 en	fd18d82c	politics/china-world	serena t0.5 -16LUFS	48	2026-11-20 04:09:36	tts	a1467fb0e3
 zh	534d6d93	politics/china-world	serena moss8b	48	2026-11-21 14:10:43	tts	2ab815172f
 zh	58f5165f	politics/china-world	serena moss8b	48	2026-11-21 14:11:14	tts	27882e8294
+zh	5c1eb9b0	politics/china-world	serena moss8b	48	2026-11-21 14:13:15	tts	f2820d1247
+zh	5c9b70e2	politics/china-world	serena moss8b	48	2026-11-21 14:13:14	tts	fceb0b05dc
 zh	62d9b3b0	politics/china-world	serena moss8b	48	2026-11-21 14:10:37	tts	839e005280
+zh	883b8b59	politics/china-world	serena moss8b	48	2026-11-21 14:12:12	tts	702849eb92
+zh	8ba54eb7	politics/china-world	serena moss8b	48	2026-11-21 14:13:17	tts	6d41f1e0c2
 zh	9a8071de	politics/china-world	serena moss8b	48	2026-11-21 14:11:05	tts	8bad81589e
 zh	9ec91743	politics/china-world	serena moss8b	48	2026-11-21 14:10:41	tts	09c924bb3f
 zh	a0008401	politics/china-world	serena moss8b	48	2026-11-21 14:10:58	tts	085c93df8c
+zh	a95745cf	politics/china-world	serena moss8b	48	2026-11-21 14:11:20	tts	3cf42c1ddd
 zh	b4ce04e9	politics/china-world	serena moss8b	48	2026-11-21 14:10:42	tts	eb3c011842
 zh	b9217870	politics/china-world	serena moss8b	48	2026-11-21 14:10:53	tts	47f430237c
 zh	cfef3eb8	politics/china-world	serena moss8b	48	2026-11-21 14:10:57	tts	3b31691c4a
+zh	d0c2dbbf	politics/china-world	serena moss8b	48	2026-11-21 14:11:39	tts	916ce16046
+zh	e4212313	politics/china-world	serena moss8b	48	2026-11-21 14:13:40	tts	8b276e5236
 zh	e5fee9e7	politics/china-world	serena moss8b	48	2026-11-21 14:11:12	tts	87a4e8aed5
 zh	f68d049f	politics/china-world	serena moss8b	48	2026-11-21 14:10:45	tts	2f4804dcb1
 zh	ff80e655	politics/china-world	serena moss8b	48	2026-11-21 14:11:12	tts	d348697bc5
@@ -2892,7 +2923,12 @@ en	c778a342	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	
 en	ca7ee6d5	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy	655e8e04b2
 en	f89aafba	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:30:33	copy	6500d11ec5
 en	fb822591	politics/development	serena t0.5 -16LUFS	48	2026-11-20 03:38:20	tts	53c9b4b6af
+zh	106e9b5c	politics/development	serena moss8b	48	2026-11-21 14:13:42	tts	68a2f87656
+zh	5f3d302a	politics/development	serena moss8b	48	2026-11-21 14:11:37	tts	98cfaf0939
+zh	8db580b0	politics/development	serena moss8b	48	2026-11-21 14:13:12	tts	ce7892576f
 zh	8e08c76f	politics/development	serena moss8b	48	2026-11-21 14:11:03	tts	620d9ca7e6
+zh	adcc2bf7	politics/development	serena moss8b	48	2026-11-21 14:12:40	tts	aebd2d8d35
+zh	bc4de0ef	politics/development	serena moss8b	48	2026-11-21 14:13:22	tts	a1e66d323c
 en	06430a58	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:40:09	tts	1ff1ec7260
 en	3016ee20	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:33:22	tts	103215575c
 en	808aa531	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:32:59	tts	d94bd37626
@@ -2901,9 +2937,13 @@ en	b797505d	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:46:30	tt
 en	c1112208	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:44:06	tts	2945c08bcd
 en	cc04434a	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:53:02	tts	635958263e
 en	e76979f6	politics/rights-duties	serena t0.5 -16LUFS	48	2026-11-20 03:45:20	tts	dc09304529
+zh	29eeb833	politics/rights-duties	serena moss8b	48	2026-11-21 14:13:16	tts	94488da494
 zh	56c9ff4e	politics/rights-duties	serena moss8b	48	2026-11-21 14:10:47	tts	a59881185d
 zh	65f031d7	politics/rights-duties	serena moss8b	48	2026-11-21 14:10:39	tts	5b24194d69
 zh	b40be039	politics/rights-duties	serena moss8b	48	2026-11-21 14:10:42	tts	472ffc7591
+zh	c7ebd102	politics/rights-duties	serena moss8b	48	2026-11-21 14:11:58	tts	0f5ca49663
+zh	ce2167ef	politics/rights-duties	serena moss8b	48	2026-11-21 14:11:56	tts	fa518f9eaf
+zh	e095f2ea	politics/rights-duties	serena moss8b	48	2026-11-21 14:13:21	tts	a88f2805cb
 en	0d2dd93b	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:27:44	tts	302eb738e5
 en	3a92dea1	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:46:32	tts	e3a95a96c8
 en	3c9dc8c2	politics/rule-of-law	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	05d56bc13b
@@ -2925,8 +2965,14 @@ en	b3f17122	politics/state-organs	serena t0.5 -16LUFS	48	2026-11-20 03:46:33	tts
 en	ca7ee6d5	politics/state-organs	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	655e8e04b2
 en	f49be58f	politics/state-organs	serena t0.5 -16LUFS	48	2026-11-20 03:52:17	tts	112e28a2f3
 en	f89aafba	politics/state-organs	serena t0.5 -16LUFS	48	2026-11-20 03:27:49	tts	6500d11ec5
+zh	3f187c73	politics/state-organs	serena moss8b	48	2026-11-21 14:12:33	tts	d417e25c30
+zh	426d94c3	politics/state-organs	serena moss8b	48	2026-11-21 14:11:59	tts	d1d21eb021
+zh	793bd6f9	politics/state-organs	serena moss8b	48	2026-11-21 14:11:36	tts	5d64cf32f6
 zh	b132fcea	politics/state-organs	serena moss8b	48	2026-11-21 14:10:59	tts	bf0d189724
 zh	d1ea6a39	politics/state-organs	serena moss8b	48	2026-11-21 14:11:13	tts	dafb0393b4
+zh	d5eba803	politics/state-organs	serena moss8b	48	2026-11-21 14:12:46	tts	0bca241b24
+zh	e3a7409a	politics/state-organs	serena moss8b	48	2026-11-21 14:12:01	tts	2ed453ad3e
+zh	fa0673d8	politics/state-organs	serena moss8b	48	2026-11-21 14:12:43	tts	741a84079c
 en	3a761c52	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:53:10	tts	8cacd7204c
 en	3c9dc8c2	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:56:25	tts	05d56bc13b
 en	41995188	politics/state-system	serena t0.5 -16LUFS	48	2026-11-20 03:56:29	tts	f565a8442c

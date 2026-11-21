@@ -783,21 +783,24 @@
  },
  "geography/africa-asia": {
   "counts": {
-   "done": 48,
+   "done": 9,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
-   "total": 48
+   "old": 4,
+   "total": 13
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "eed6d24fd3f8",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/africa-asia.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Africa & Asia",
    "zh": "非洲与亚洲"
   },
-  "updated": "2026-11-20 05:57:41",
+  "updated": "2026-11-21 14:13:49",
   "verified": ""
  },
  "geography/americas": {
@@ -1253,7 +1256,7 @@
    "zh": "文明与家园：中华文化与核心价值观"
   },
   "updated": "2026-11-21 14:11:15",
-  "verified": ""
+  "verified": "2026-11-21 14:13:05"
  },
  "politics/development": {
   "counts": {
