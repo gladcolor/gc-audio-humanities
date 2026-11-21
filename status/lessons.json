@@ -786,12 +786,12 @@
  },
  "geography/africa-asia": {
   "counts": {
-   "done": 9,
+   "done": 13,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 4,
-   "total": 13
+   "old": 15,
+   "total": 28
   },
   "fingerprint": "eed6d24fd3f8",
   "label": "in progress",
@@ -803,7 +803,7 @@
    "en": "Africa & Asia",
    "zh": "非洲与亚洲"
   },
-  "updated": "2026-11-21 14:13:49",
+  "updated": "2026-11-21 14:22:38",
   "verified": ""
  },
  "geography/americas": {
