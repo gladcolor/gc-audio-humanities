@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-21 14:28:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:32:44. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -51,7 +51,7 @@ Updated 2026-11-21 14:28:50. Labels: finished / in progress / no audio / failed 
 | geography/europe-oceania | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:28 |  |
 | geography/landforms | in progress | 28 | 5 | 11 | 0 | 0 | 2026-11-21 14:28:05 |  |
 | geography/latitude-longitude | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:18 |  |
-| geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:52 |  |
+| geography/map-projections | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:52 | 2026-11-21 14:32:03 |
 | geography/population | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:26 |  |
 | geography/time-zones | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:21 |  |
 | geography/world-religions | in progress | 38 | 34 | 8 | 0 | 0 | 2026-11-21 14:28:43 |  |
@@ -65,15 +65,15 @@ Updated 2026-11-21 14:28:50. Labels: finished / in progress / no audio / failed 
 | georgia/ga-native | in progress | 3 | 9 | 0 | 0 | 0 | 2026-11-21 14:18:49 |  |
 | georgia/ga-reconstruction | in progress | 16 | 4 | 6 | 0 | 0 | 2026-11-21 14:28:50 |  |
 | georgia/ga-removal | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:22:32 | 2026-11-21 14:24:21 |
-| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 14:28:24 |  |
-| politics/china-world | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-21 14:27:19 |  |
-| politics/constitution | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 14:25:48 |  |
+| georgia/ga-revolution | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 14:28:24 | 2026-11-21 14:32:36 |
+| politics/china-world | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-21 14:27:19 | 2026-11-21 14:32:26 |
+| politics/constitution | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 14:25:48 | 2026-11-21 14:31:35 |
 | politics/core-values | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:11:15 | 2026-11-21 14:13:05 |
-| politics/development | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 14:28:35 |  |
-| politics/rights-duties | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 14:25:12 |  |
-| politics/rule-of-law | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:46 |  |
-| politics/state-organs | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:13 |  |
-| politics/state-system | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:10 |  |
+| politics/development | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 14:28:35 | 2026-11-21 14:32:44 |
+| politics/rights-duties | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 14:25:12 | 2026-11-21 14:31:23 |
+| politics/rule-of-law | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:46 | 2026-11-21 14:32:02 |
+| politics/state-organs | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:13 | 2026-11-21 14:31:56 |
+| politics/state-system | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 14:26:10 | 2026-11-21 14:31:42 |
 | ushistory/us-civilrights | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-20 07:48:13 |  |
 | ushistory/us-civilwar | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 07:47:57 |  |
 | ushistory/us-colonies | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-20 07:49:50 |  |
@@ -84,7 +84,7 @@ Updated 2026-11-21 14:28:50. Labels: finished / in progress / no audio / failed 
 | ushistory/us-worldwars | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:09 |  |
 | worldhistory/wh-cold-war | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:16 |  |
 | worldhistory/wh-exploration | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-20 07:54:51 |  |
-| worldhistory/wh-first-civilizations | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-20 08:02:23 |  |
+| worldhistory/wh-first-civilizations | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:32:44 |  |
 | worldhistory/wh-greece-rome | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:37 |  |
 | worldhistory/wh-india-persia | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:01:48 |  |
 | worldhistory/wh-middle-ages | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:05:42 |  |

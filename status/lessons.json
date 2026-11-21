@@ -936,7 +936,7 @@
    "zh": "地图与投影"
   },
   "updated": "2026-11-21 14:26:52",
-  "verified": ""
+  "verified": "2026-11-21 14:32:03"
  },
  "geography/population": {
   "counts": {
@@ -1238,7 +1238,7 @@
    "zh": "独立战争与早期州政"
   },
   "updated": "2026-11-21 14:28:24",
-  "verified": ""
+  "verified": "2026-11-21 14:32:36"
  },
  "politics/china-world": {
   "counts": {
@@ -1260,7 +1260,7 @@
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
   "updated": "2026-11-21 14:27:19",
-  "verified": ""
+  "verified": "2026-11-21 14:32:26"
  },
  "politics/constitution": {
   "counts": {
@@ -1282,7 +1282,7 @@
    "zh": "坚持宪法至上"
   },
   "updated": "2026-11-21 14:25:48",
-  "verified": ""
+  "verified": "2026-11-21 14:31:35"
  },
  "politics/core-values": {
   "counts": {
@@ -1326,7 +1326,7 @@
    "zh": "富强与创新 · 共同富裕 · 生态文明"
   },
   "updated": "2026-11-21 14:28:35",
-  "verified": ""
+  "verified": "2026-11-21 14:32:44"
  },
  "politics/rights-duties": {
   "counts": {
@@ -1348,7 +1348,7 @@
    "zh": "理解权利义务"
   },
   "updated": "2026-11-21 14:25:12",
-  "verified": ""
+  "verified": "2026-11-21 14:31:23"
  },
  "politics/rule-of-law": {
   "counts": {
@@ -1370,7 +1370,7 @@
    "zh": "走进法治天地 · 建设法治中国"
   },
   "updated": "2026-11-21 14:26:46",
-  "verified": ""
+  "verified": "2026-11-21 14:32:02"
  },
  "politics/state-organs": {
   "counts": {
@@ -1392,7 +1392,7 @@
    "zh": "我国的国家机构"
   },
   "updated": "2026-11-21 14:26:13",
-  "verified": ""
+  "verified": "2026-11-21 14:31:56"
  },
  "politics/state-system": {
   "counts": {
@@ -1414,7 +1414,7 @@
    "zh": "我国的基本制度"
   },
   "updated": "2026-11-21 14:26:10",
-  "verified": ""
+  "verified": "2026-11-21 14:31:42"
  },
  "ushistory/us-civilrights": {
   "counts": {
@@ -1611,21 +1611,24 @@
  },
  "worldhistory/wh-first-civilizations": {
   "counts": {
-   "done": 19,
+   "done": 0,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 19
+   "total": 0
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "4fd20da11316",
+  "label": "old voice",
   "page": "https://shanchuan.org/middle/worldhistory/wh-first-civilizations.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "First Civilizations: Mesopotamia & Egypt",
    "zh": "最早的文明：美索不达米亚与古埃及"
   },
-  "updated": "2026-11-20 08:02:23",
+  "updated": "2026-11-21 14:32:44",
   "verified": ""
  },
  "worldhistory/wh-greece-rome": {
