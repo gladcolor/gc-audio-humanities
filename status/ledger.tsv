@@ -2709,6 +2709,7 @@ en	fd531d10	geography/world-religions	serena t0.5 -16LUFS	48	2026-11-20 05:48:53
 zh	1d646cc8	geography/world-religions	serena moss8b	48	2026-11-21 14:13:13	tts	a3c160b6ef
 zh	1f2d5c82	geography/world-religions	serena moss8b	48	2026-11-21 14:26:18	tts	96dbb96e08
 zh	210b8549	geography/world-religions	serena moss8b	48	2026-11-21 14:14:34	tts	7dd87b56d1
+zh	28a4a387	geography/world-religions	serena moss8b	48	2026-11-21 14:28:39	tts	1629dc3e3b
 zh	2e1e45ad	geography/world-religions	serena moss8b	48	2026-11-21 14:16:29	tts	e08dd76803
 zh	34568c93	geography/world-religions	serena moss8b	48	2026-11-21 14:26:16	tts	3846142b54
 zh	3632ce6f	geography/world-religions	serena moss8b	48	2026-11-21 14:16:28	tts	b161be977c
@@ -2822,8 +2823,11 @@ zh	61efb365	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:24:27	tts	146daf4
 zh	6213230f	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:24:25	tts	f238a522ef
 zh	67975a3c	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:16:35	tts	0eda0d2c9d
 zh	6870d648	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:24:24	tts	060a286423
+zh	80a1dff9	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:28:39	tts	6d8afecac3
 zh	835639e9	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:16:33	tts	6d5b41478d
 zh	90558352	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:28:35	tts	3593155f24
+zh	9678b39b	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:28:40	tts	25577be773
+zh	b31558f7	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:28:39	tts	8d071f46f1
 zh	e1601cbe	georgia/ga-civilwar	serena moss8b	48	2026-11-21 14:15:12	tts	cc2721fdfd
 en	0e423343	georgia/ga-colony	serena t0.5 -16LUFS	48	2026-11-20 05:51:33	tts	d90e30cbd5
 en	3e1a9460	georgia/ga-colony	serena t0.5 -16LUFS	48	2026-11-20 05:51:27	tts	d3341d0627
@@ -3388,6 +3392,7 @@ en	7088aea0	ushistory/us-industrial	serena t0.5 -16LUFS	48	2026-11-20 07:26:45	t
 zh	156fbd48	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:30	tts	4e9171abaa
 zh	5837a2aa	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:28	tts	176783ccc0
 zh	5925ab74	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:31	tts	179e8fc176
+zh	5da8b92c	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:39	tts	68b024e4d6
 zh	bdced95e	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:23	tts	2cd10e248e
 zh	d47e8510	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:29	tts	16f6a3e04a
 zh	fdd73d65	ushistory/us-industrial	serena moss8b	48	2026-11-21 14:28:22	tts	e2b9f3fc31
@@ -3401,6 +3406,7 @@ en	b4f3adcc	ushistory/us-worldwars	serena t0.5 -16LUFS	48	2026-11-20 07:43:09	tt
 en	cea4c584	ushistory/us-worldwars	serena t0.5 -16LUFS	48	2026-11-20 07:35:00	tts	bc67d9baed
 zh	264a025b	ushistory/us-worldwars	serena moss8b	48	2026-11-21 14:28:32	tts	d3730da53e
 zh	7f1d1a3d	ushistory/us-worldwars	serena moss8b	48	2026-11-21 14:28:33	tts	3519fbe9ab
+zh	be69f189	ushistory/us-worldwars	serena moss8b	48	2026-11-21 14:28:38	tts	76d86ac7ad
 zh	cb916a3d	ushistory/us-worldwars	serena moss8b	48	2026-11-21 14:28:34	tts	39ecab4dcc
 en	1c9cdd63	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:43:15	tts	5cc0d48b21
 en	226f5813	worldhistory/wh-cold-war	serena t0.5 -16LUFS	48	2026-11-20 07:43:16	tts	c22b906679

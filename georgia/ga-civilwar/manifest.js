@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "georgia/ga-civilwar", "voice": "serena", "en": "1caa448d 28af0a4d 2d7fc3be 463cefe6 499cff84 5068b606 5603f97e 5836b7dc be14408a f4c6706e", "zh": "1ff94d09 34982a04 5533e4fa 57bdd068 670f252d 91cc4887 99a706f3 b1a916dd d3a466e0 e1601cbe"});
+LabAudioManifest({"lesson": "georgia/ga-civilwar", "voice": "serena", "en": "1caa448d 28af0a4d 2d7fc3be 463cefe6 499cff84 5068b606 5603f97e 5836b7dc be14408a f4c6706e", "zh": "0e3f72fe 153e3f03 1ff94d09 32a699a6 34982a04 5533e4fa 57bdd068 61efb365 6213230f 670f252d 67975a3c 6870d648 80a1dff9 835639e9 90558352 91cc4887 9678b39b 99a706f3 b1a916dd b31558f7 d3a466e0 e1601cbe"});
