@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "spanish/sp-pronouns-ser", "voice": "serena", "en": "", "zh": "01d98aa0 02406973 07a6d700 09a22882 10f5d4d4 11e1ad89 11e728cc 191cc9c1 23aa9a4e 2bd86bd1 339df79c 36a21935 36e51817 38fb389d 3f9d7192 43f6a742 4420f8ba 452eadfb 4dc15703 4e14d0a2 54bd0afd 5980deb0 69536ab1 6a70ccef 6d4516a0 72800b42 78397882 7cb10712 84287585 8782d6af 908f48d1 923ec147 93cc0b64 9b1b4aae b25190ea ce828c33 f65de365 f9251db1"});

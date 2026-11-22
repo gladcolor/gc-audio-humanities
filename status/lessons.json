@@ -1,0 +1,2555 @@
+{
+ "_shared": {
+  "counts": {
+   "done": 1335,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1335
+  },
+  "fingerprint": "d7f4ef7834d6",
+  "label": "finished",
+  "page": "",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "shared clips",
+   "zh": "shared clips"
+  },
+  "updated": "2026-11-22 20:24:07",
+  "verified": ""
+ },
+ "china/ancient-engineering": {
+  "counts": {
+   "done": 129,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 129
+  },
+  "fingerprint": "d4ee60753c5d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/ancient-engineering.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ancient Engineering: Bridges, Canals & Palaces",
+   "zh": "古代工程奇迹：桥、运河与宫殿"
+  },
+  "updated": "2026-11-22 17:45:57",
+  "verified": ""
+ },
+ "china/ancient-science": {
+  "counts": {
+   "done": 117,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 117
+  },
+  "fingerprint": "e43a94d810b9",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/ancient-science.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ancient Chinese Science: Quakes, Stars & Numbers",
+   "zh": "古代科技：地震、星空与数学"
+  },
+  "updated": "2026-11-22 17:44:36",
+  "verified": ""
+ },
+ "china/beijing-capital": {
+  "counts": {
+   "done": 232,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 232
+  },
+  "fingerprint": "b23786c00271",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/beijing-capital.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Beijing: The Capital & Its Central Axis",
+   "zh": "北京：祖国的首都与中轴线"
+  },
+  "updated": "2026-11-22 17:54:36",
+  "verified": "2026-11-22 18:15:26"
+ },
+ "china/china-space": {
+  "counts": {
+   "done": 283,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 283
+  },
+  "fingerprint": "8019a17f96f2",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/china-space.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China in Space: From Dongfanghong to Chang’e",
+   "zh": "中国航天：从东方红到嫦娥"
+  },
+  "updated": "2026-11-22 17:49:30",
+  "verified": "2026-11-22 18:13:59"
+ },
+ "china/chinese-spirit": {
+  "counts": {
+   "done": 184,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 184
+  },
+  "fingerprint": "8bde7118f277",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/chinese-spirit.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Chinese Spirit: Scientists & Builders",
+   "zh": "中国人的精神：科学家与建设者"
+  },
+  "updated": "2026-11-22 17:48:37",
+  "verified": "2026-11-22 18:12:59"
+ },
+ "china/climate-rivers": {
+  "counts": {
+   "done": 96,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 96
+  },
+  "fingerprint": "4d7cc2409c71",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/climate-rivers.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Climate & Rivers",
+   "zh": "中国的气候与河流"
+  },
+  "updated": "2026-11-22 17:48:33",
+  "verified": "2026-11-22 18:12:28"
+ },
+ "china/disasters": {
+  "counts": {
+   "done": 183,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 183
+  },
+  "fingerprint": "af6219168159",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/disasters.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Natural Hazards: Quakes, Typhoons & Sandstorms",
+   "zh": "自然灾害：地震、台风与沙尘暴"
+  },
+  "updated": "2026-11-22 18:01:52",
+  "verified": "2026-11-22 18:16:41"
+ },
+ "china/division-integration": {
+  "counts": {
+   "done": 239,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 239
+  },
+  "fingerprint": "e0588e363e15",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/division-integration.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Three Kingdoms to Northern & Southern Dynasties",
+   "zh": "三国两晋南北朝：政权分立与民族交融"
+  },
+  "updated": "2026-11-22 20:20:34",
+  "verified": ""
+ },
+ "china/dynasties": {
+  "counts": {
+   "done": 236,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 236
+  },
+  "fingerprint": "5d8d0330d755",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/dynasties.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Dynasty Challenge: 4,000 Years on One Map",
+   "zh": "朝代大挑战：一张地图看四千年"
+  },
+  "updated": "2026-11-22 17:44:42",
+  "verified": ""
+ },
+ "china/early-civilization": {
+  "counts": {
+   "done": 213,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 213
+  },
+  "fingerprint": "28ad1ba2304f",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/early-civilization.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Origins of Chinese Civilization",
+   "zh": "史前时期：中华文明的起源"
+  },
+  "updated": "2026-11-22 17:34:09",
+  "verified": ""
+ },
+ "china/economy": {
+  "counts": {
+   "done": 99,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 99
+  },
+  "fingerprint": "a19dbd7e1201",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/economy.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Economy: Transport, Agriculture & Industry",
+   "zh": "中国的经济发展：交通、农业与工业"
+  },
+  "updated": "2026-11-22 17:48:25",
+  "verified": "2026-11-22 18:12:54"
+ },
+ "china/great-wall": {
+  "counts": {
+   "done": 209,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 209
+  },
+  "fingerprint": "7d623668fe05",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/great-wall.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Great Wall: A 2,000-Year Mega-Project",
+   "zh": "长城：两千年的超级工程"
+  },
+  "updated": "2026-11-22 17:50:37",
+  "verified": "2026-11-22 18:14:03"
+ },
+ "china/inventions": {
+  "counts": {
+   "done": 113,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 113
+  },
+  "fingerprint": "f7f256d716e9",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/inventions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ancient Chinese Science & the Four Great Inventions",
+   "zh": "中国古代科技与四大发明"
+  },
+  "updated": "2026-11-22 17:36:16",
+  "verified": ""
+ },
+ "china/megaprojects": {
+  "counts": {
+   "done": 159,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 159
+  },
+  "fingerprint": "e3f87ae6a390",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/megaprojects.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Mega-Projects: Bridges, Railways & Pipelines",
+   "zh": "超级工程：大桥、铁路与管道"
+  },
+  "updated": "2026-11-22 18:02:18",
+  "verified": "2026-11-22 18:16:35"
+ },
+ "china/ming-qing": {
+  "counts": {
+   "done": 111,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 111
+  },
+  "fingerprint": "fa3631db4f54",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/ming-qing.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ming & Qing (to 1840)",
+   "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
+  },
+  "updated": "2026-11-22 17:34:42",
+  "verified": ""
+ },
+ "china/modern-china": {
+  "counts": {
+   "done": 195,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 195
+  },
+  "fingerprint": "00820824b22a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/modern-china.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Modern China 1840–1919: Crisis & Resistance",
+   "zh": "近代中国（1840—1919)：屈辱与抗争"
+  },
+  "updated": "2026-11-22 17:39:20",
+  "verified": ""
+ },
+ "china/natural-wonders": {
+  "counts": {
+   "done": 106,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 106
+  },
+  "fingerprint": "889e940993f3",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/natural-wonders.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Natural Wonders: How Were They Made?",
+   "zh": "中国的自然奇观：它们是怎样形成的"
+  },
+  "updated": "2026-11-22 17:57:44",
+  "verified": "2026-11-22 18:15:46"
+ },
+ "china/new-era": {
+  "counts": {
+   "done": 244,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 244
+  },
+  "fingerprint": "c4e8442c8d4b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/new-era.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The New Era",
+   "zh": "中国特色社会主义新时代"
+  },
+  "updated": "2026-11-22 17:42:46",
+  "verified": ""
+ },
+ "china/population-resources": {
+  "counts": {
+   "done": 242,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 242
+  },
+  "fingerprint": "dd74e6de0e41",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/population-resources.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Population, Ethnic Groups & Resources",
+   "zh": "人口、民族与自然资源"
+  },
+  "updated": "2026-11-22 17:51:44",
+  "verified": "2026-11-22 18:15:12"
+ },
+ "china/prc": {
+  "counts": {
+   "done": 230,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 230
+  },
+  "fingerprint": "26de3aa572b6",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/prc.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The People’s Republic of China",
+   "zh": "中华人民共和国的成立与发展"
+  },
+  "updated": "2026-11-22 17:43:52",
+  "verified": ""
+ },
+ "china/prc-founding": {
+  "counts": {
+   "done": 206,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 206
+  },
+  "fingerprint": "c25c309fe08a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/prc-founding.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "New China: Founding & Socialist Construction (1949–1976)",
+   "zh": "新中国的成立、巩固与社会主义建设的探索"
+  },
+  "updated": "2026-11-22 17:45:07",
+  "verified": ""
+ },
+ "china/qin-han": {
+  "counts": {
+   "done": 210,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 210
+  },
+  "fingerprint": "0a44c497cd43",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/qin-han.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Qin & Han: A Unified Empire",
+   "zh": "秦汉：统一多民族国家的建立和巩固"
+  },
+  "updated": "2026-11-22 17:33:41",
+  "verified": ""
+ },
+ "china/reform-opening": {
+  "counts": {
+   "done": 232,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 232
+  },
+  "fingerprint": "d116a15368de",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/reform-opening.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Reform and Opening Up",
+   "zh": "改革开放与中国特色社会主义"
+  },
+  "updated": "2026-11-22 17:46:04",
+  "verified": ""
+ },
+ "china/regions": {
+  "counts": {
+   "done": 138,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 138
+  },
+  "fingerprint": "b293dcc28080",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/regions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Four Geographic Regions",
+   "zh": "中国的四大地理区域"
+  },
+  "updated": "2026-11-22 17:52:19",
+  "verified": "2026-11-22 18:14:37"
+ },
+ "china/revolution": {
+  "counts": {
+   "done": 218,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 218
+  },
+  "fingerprint": "bc8327987c36",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/revolution.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The New Democratic Revolution 1919–1949",
+   "zh": "新民主主义革命（1919—1949)"
+  },
+  "updated": "2026-11-22 17:39:14",
+  "verified": ""
+ },
+ "china/seas-islands": {
+  "counts": {
+   "done": 114,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 114
+  },
+  "fingerprint": "6d540a71c946",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/seas-islands.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Seas & Islands",
+   "zh": "中国的海洋与岛屿"
+  },
+  "updated": "2026-11-22 18:04:39",
+  "verified": "2026-11-22 18:16:50"
+ },
+ "china/silk-road-explorers": {
+  "counts": {
+   "done": 205,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 205
+  },
+  "fingerprint": "dcddcec40113",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/silk-road-explorers.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Silk Road Explorers & Traders",
+   "zh": "丝路探险家与商队"
+  },
+  "updated": "2026-11-22 17:47:38",
+  "verified": "2026-11-22 18:12:59"
+ },
+ "china/song-yuan": {
+  "counts": {
+   "done": 245,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 245
+  },
+  "fingerprint": "bc30ddb6ba12",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/song-yuan.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Liao, Song, Xia, Jin & Yuan",
+   "zh": "辽宋夏金元：民族关系发展和社会变化"
+  },
+  "updated": "2026-11-22 17:34:34",
+  "verified": ""
+ },
+ "china/spring-warring": {
+  "counts": {
+   "done": 128,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 128
+  },
+  "fingerprint": "0a9e544e57c9",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/spring-warring.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Spring & Autumn and Warring States",
+   "zh": "春秋战国：变革与百家争鸣"
+  },
+  "updated": "2026-11-22 17:31:19",
+  "verified": ""
+ },
+ "china/strategy-battles": {
+  "counts": {
+   "done": 270,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 270
+  },
+  "fingerprint": "9c0921350264",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/strategy-battles.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Strategy & Famous Battles",
+   "zh": "兵法与著名战役"
+  },
+  "updated": "2026-11-22 17:49:53",
+  "verified": "2026-11-22 18:14:20"
+ },
+ "china/sui-tang": {
+  "counts": {
+   "done": 220,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 220
+  },
+  "fingerprint": "26578569731d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/sui-tang.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Sui & Tang: A Prosperous, Open Age",
+   "zh": "隋唐：繁荣与开放的时代"
+  },
+  "updated": "2026-11-22 17:32:21",
+  "verified": ""
+ },
+ "china/taiwan-hkm": {
+  "counts": {
+   "done": 178,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 178
+  },
+  "fingerprint": "fc977943669e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/taiwan-hkm.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Taiwan Province, Hong Kong & Macao",
+   "zh": "台湾省与香港、澳门"
+  },
+  "updated": "2026-11-22 18:03:31",
+  "verified": "2026-11-22 18:16:47"
+ },
+ "china/terrain": {
+  "counts": {
+   "done": 106,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 106
+  },
+  "fingerprint": "fb739fea9481",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/terrain.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Landforms: Three Great Steps",
+   "zh": "中国的地形与地势：三级阶梯"
+  },
+  "updated": "2026-11-22 17:47:44",
+  "verified": "2026-11-22 18:12:30"
+ },
+ "china/territory": {
+  "counts": {
+   "done": 187,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 187
+  },
+  "fingerprint": "28fddc8e32f7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/territory.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Territory & Administrative Divisions",
+   "zh": "中国的疆域与行政区划"
+  },
+  "updated": "2026-11-22 17:55:34",
+  "verified": "2026-11-22 18:15:26"
+ },
+ "china/three-gorges": {
+  "counts": {
+   "done": 144,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 144
+  },
+  "fingerprint": "42c1431461df",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/three-gorges.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Yangtze & the Three Gorges Dam",
+   "zh": "长江与三峡工程"
+  },
+  "updated": "2026-11-22 17:55:44",
+  "verified": "2026-11-22 18:15:26"
+ },
+ "china/unity-diplomacy": {
+  "counts": {
+   "done": 210,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 210
+  },
+  "fingerprint": "4625053982ff",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/unity-diplomacy.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "National Unity, Defense & Diplomacy",
+   "zh": "民族团结、祖国统一与国防外交"
+  },
+  "updated": "2026-11-22 17:49:38",
+  "verified": "2026-11-22 18:13:58"
+ },
+ "china/xia-shang-zhou": {
+  "counts": {
+   "done": 217,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 217
+  },
+  "fingerprint": "84c2d56ba29c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/china/xia-shang-zhou.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Xia, Shang & Zhou: The Bronze Age",
+   "zh": "夏商周：早期国家与青铜文明"
+  },
+  "updated": "2026-11-22 13:42:24",
+  "verified": "2026-11-22 13:46:26"
+ },
+ "economics/econ-growth": {
+  "counts": {
+   "done": 203,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 203
+  },
+  "fingerprint": "d92531fcfda0",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-growth.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "What Makes Economies Grow",
+   "zh": "经济增长的动力"
+  },
+  "updated": "2026-11-22 19:46:19",
+  "verified": "2026-11-22 19:54:33"
+ },
+ "economics/econ-personal-finance": {
+  "counts": {
+   "done": 175,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 175
+  },
+  "fingerprint": "863b534464f7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-personal-finance.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Personal Finance",
+   "zh": "个人理财"
+  },
+  "updated": "2026-11-22 19:40:56",
+  "verified": "2026-11-22 19:53:44"
+ },
+ "economics/econ-scarcity": {
+  "counts": {
+   "done": 165,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 165
+  },
+  "fingerprint": "c12153df7dc3",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-scarcity.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Scarcity & Opportunity Cost",
+   "zh": "稀缺性与机会成本"
+  },
+  "updated": "2026-11-22 19:44:34",
+  "verified": "2026-11-22 19:53:28"
+ },
+ "economics/econ-specialization": {
+  "counts": {
+   "done": 190,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 190
+  },
+  "fingerprint": "45ec5f702e43",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-specialization.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Specialization & Trade: SW Asia, Asia & Africa",
+   "zh": "专业化分工与贸易：西南亚、亚洲与非洲"
+  },
+  "updated": "2026-11-22 19:33:53",
+  "verified": "2026-11-22 19:52:28"
+ },
+ "economics/econ-supply-demand": {
+  "counts": {
+   "done": 190,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 190
+  },
+  "fingerprint": "ff50206712ee",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-supply-demand.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Supply, Demand & Prices",
+   "zh": "供给、需求与价格"
+  },
+  "updated": "2026-11-22 19:30:59",
+  "verified": "2026-11-22 19:52:09"
+ },
+ "economics/econ-systems": {
+  "counts": {
+   "done": 208,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 208
+  },
+  "fingerprint": "e9e3d89190b7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-systems.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Economic Systems",
+   "zh": "经济体制"
+  },
+  "updated": "2026-11-22 19:42:59",
+  "verified": "2026-11-22 19:54:29"
+ },
+ "economics/econ-trade": {
+  "counts": {
+   "done": 188,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 188
+  },
+  "fingerprint": "ca836743cbf9",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/economics/econ-trade.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Trade, Tariffs & Currency",
+   "zh": "贸易、关税与货币"
+  },
+  "updated": "2026-11-22 19:26:49",
+  "verified": "2026-11-22 19:50:17"
+ },
+ "geography/africa-asia": {
+  "counts": {
+   "done": 129,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 129
+  },
+  "fingerprint": "c8ea4d87f8ee",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/africa-asia.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Africa & Asia",
+   "zh": "非洲与亚洲"
+  },
+  "updated": "2026-11-22 18:53:28",
+  "verified": ""
+ },
+ "geography/americas": {
+  "counts": {
+   "done": 125,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 125
+  },
+  "fingerprint": "1d14c332cc0c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/americas.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Latin America & Canada",
+   "zh": "拉丁美洲与加拿大"
+  },
+  "updated": "2026-11-22 18:50:08",
+  "verified": ""
+ },
+ "geography/asia-regional-studies": {
+  "counts": {
+   "done": 262,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 262
+  },
+  "fingerprint": "2c077d3f0120",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/asia-regional-studies.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Asia: Regions & Key Countries",
+   "zh": "亚洲分区与典型国家"
+  },
+  "updated": "2026-11-22 18:57:23",
+  "verified": ""
+ },
+ "geography/climate-regions": {
+  "counts": {
+   "done": 319,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 319
+  },
+  "fingerprint": "d4209efdf369",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/climate-regions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "World Climate Regions",
+   "zh": "世界气候区"
+  },
+  "updated": "2026-11-22 18:53:18",
+  "verified": ""
+ },
+ "geography/continents-oceans": {
+  "counts": {
+   "done": 142,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 142
+  },
+  "fingerprint": "fd9714e29849",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/continents-oceans.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Continents & Oceans",
+   "zh": "大洲与大洋"
+  },
+  "updated": "2026-11-22 18:53:52",
+  "verified": ""
+ },
+ "geography/europe-oceania": {
+  "counts": {
+   "done": 118,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 118
+  },
+  "fingerprint": "a4b407f98e65",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/europe-oceania.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Europe & Australia",
+   "zh": "欧洲与澳大利亚"
+  },
+  "updated": "2026-11-22 18:49:13",
+  "verified": ""
+ },
+ "geography/landforms": {
+  "counts": {
+   "done": 173,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 173
+  },
+  "fingerprint": "da19882eb1ff",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/landforms.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Landforms & Waterways",
+   "zh": "地形与水系"
+  },
+  "updated": "2026-11-22 18:51:07",
+  "verified": ""
+ },
+ "geography/latitude-longitude": {
+  "counts": {
+   "done": 1311,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1311
+  },
+  "fingerprint": "1d6ac8f0de3d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/latitude-longitude.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Latitude & Longitude",
+   "zh": "经度与纬度"
+  },
+  "updated": "2026-11-22 18:50:14",
+  "verified": ""
+ },
+ "geography/map-projections": {
+  "counts": {
+   "done": 107,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 107
+  },
+  "fingerprint": "86e3ef11dade",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/map-projections.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Maps & Projections",
+   "zh": "地图与投影"
+  },
+  "updated": "2026-11-22 18:43:57",
+  "verified": ""
+ },
+ "geography/polar-regions": {
+  "counts": {
+   "done": 234,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 234
+  },
+  "fingerprint": "18bf4606ba0f",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/polar-regions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Polar Regions",
+   "zh": "极地地区"
+  },
+  "updated": "2026-11-22 18:54:12",
+  "verified": ""
+ },
+ "geography/population": {
+  "counts": {
+   "done": 194,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 194
+  },
+  "fingerprint": "fb1062c8442c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/population.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Population & Human Geography",
+   "zh": "人口与人文地理"
+  },
+  "updated": "2026-11-22 18:51:01",
+  "verified": ""
+ },
+ "geography/settlements-development": {
+  "counts": {
+   "done": 242,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 242
+  },
+  "fingerprint": "dc13ae9ba20c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/settlements-development.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Peoples, Settlements & Development",
+   "zh": "居民与聚落、发展与合作"
+  },
+  "updated": "2026-11-22 18:50:47",
+  "verified": ""
+ },
+ "geography/time-zones": {
+  "counts": {
+   "done": 1995,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1995
+  },
+  "fingerprint": "56c679846449",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/time-zones.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Time Zones",
+   "zh": "时区"
+  },
+  "updated": "2026-11-22 18:56:23",
+  "verified": ""
+ },
+ "geography/world-religions": {
+  "counts": {
+   "done": 277,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 277
+  },
+  "fingerprint": "776544ec8c7f",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/geography/world-religions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "World Religions & Ethnic Groups",
+   "zh": "世界宗教与民族"
+  },
+  "updated": "2026-11-22 18:56:50",
+  "verified": ""
+ },
+ "georgia/ga-20th": {
+  "counts": {
+   "done": 202,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 202
+  },
+  "fingerprint": "b92addbc2799",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-20th.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Wars, Depression & the New Deal",
+   "zh": "世界大战、大萧条与新政"
+  },
+  "updated": "2026-11-22 19:16:08",
+  "verified": ""
+ },
+ "georgia/ga-civilrights": {
+  "counts": {
+   "done": 243,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 243
+  },
+  "fingerprint": "177010d696e6",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-civilrights.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Civil Rights Movement in Georgia",
+   "zh": "佐治亚州的民权运动"
+  },
+  "updated": "2026-11-22 19:13:44",
+  "verified": ""
+ },
+ "georgia/ga-civilwar": {
+  "counts": {
+   "done": 230,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 230
+  },
+  "fingerprint": "be24170b587e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-civilwar.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Georgia in the Civil War",
+   "zh": "南北战争中的佐治亚"
+  },
+  "updated": "2026-11-22 19:15:01",
+  "verified": ""
+ },
+ "georgia/ga-colony": {
+  "counts": {
+   "done": 134,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 134
+  },
+  "fingerprint": "217a35c3b654",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-colony.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Founding the Georgia Colony",
+   "zh": "佐治亚殖民地的建立"
+  },
+  "updated": "2026-11-22 19:08:34",
+  "verified": ""
+ },
+ "georgia/ga-geography": {
+  "counts": {
+   "done": 134,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 134
+  },
+  "fingerprint": "198335b7e5ac",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-geography.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Georgia’s Geography & Regions",
+   "zh": "佐治亚州的地理与五大地区"
+  },
+  "updated": "2026-11-22 18:57:42",
+  "verified": ""
+ },
+ "georgia/ga-government": {
+  "counts": {
+   "done": 333,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 333
+  },
+  "fingerprint": "a14046db246c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-government.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Georgia Government & Citizenship",
+   "zh": "佐治亚州政府与公民"
+  },
+  "updated": "2026-11-22 19:18:59",
+  "verified": ""
+ },
+ "georgia/ga-modern": {
+  "counts": {
+   "done": 120,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 120
+  },
+  "fingerprint": "2986b46dd331",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-modern.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Modern Georgia",
+   "zh": "现代佐治亚州"
+  },
+  "updated": "2026-11-22 19:06:11",
+  "verified": ""
+ },
+ "georgia/ga-native": {
+  "counts": {
+   "done": 134,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 134
+  },
+  "fingerprint": "16fd2c0033a1",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-native.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Native Americans of Georgia",
+   "zh": "佐治亚州的美洲原住民"
+  },
+  "updated": "2026-11-22 18:57:49",
+  "verified": ""
+ },
+ "georgia/ga-reconstruction": {
+  "counts": {
+   "done": 148,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 148
+  },
+  "fingerprint": "0613c97c11a1",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-reconstruction.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Reconstruction & the New South",
+   "zh": "重建时期与“新南方”"
+  },
+  "updated": "2026-11-22 19:11:09",
+  "verified": ""
+ },
+ "georgia/ga-removal": {
+  "counts": {
+   "done": 258,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 258
+  },
+  "fingerprint": "2ac34e132363",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-removal.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Land, Gold & Cherokee Removal",
+   "zh": "土地、黄金与切罗基人迁移"
+  },
+  "updated": "2026-11-22 19:13:34",
+  "verified": ""
+ },
+ "georgia/ga-revolution": {
+  "counts": {
+   "done": 258,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 258
+  },
+  "fingerprint": "31e3d6eb8ae5",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/georgia/ga-revolution.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Revolution & Early Statehood",
+   "zh": "独立战争与早期州政"
+  },
+  "updated": "2026-11-22 19:13:10",
+  "verified": ""
+ },
+ "politics/china-world": {
+  "counts": {
+   "done": 170,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 170
+  },
+  "fingerprint": "7ed950e6579a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/china-world.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China and the World",
+   "zh": "我们共同的世界 · 世界舞台上的中国"
+  },
+  "updated": "2026-11-22 18:23:40",
+  "verified": "2026-11-22 18:39:39"
+ },
+ "politics/constitution": {
+  "counts": {
+   "done": 122,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 122
+  },
+  "fingerprint": "19374274277e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/constitution.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Constitution: The Fundamental Law",
+   "zh": "坚持宪法至上"
+  },
+  "updated": "2026-11-22 18:07:11",
+  "verified": "2026-11-22 18:17:18"
+ },
+ "politics/core-values": {
+  "counts": {
+   "done": 96,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 96
+  },
+  "fingerprint": "3c8fc998bccf",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/core-values.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Culture & Core Values",
+   "zh": "文明与家园：中华文化与核心价值观"
+  },
+  "updated": "2026-11-22 18:01:47",
+  "verified": "2026-11-22 18:15:52"
+ },
+ "politics/development": {
+  "counts": {
+   "done": 128,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 128
+  },
+  "fingerprint": "7142adcf82fa",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/development.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Innovation, Shared Prosperity & Green Development",
+   "zh": "富强与创新 · 共同富裕 · 生态文明"
+  },
+  "updated": "2026-11-22 18:19:15",
+  "verified": "2026-11-22 18:39:39"
+ },
+ "politics/online-life": {
+  "counts": {
+   "done": 245,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 245
+  },
+  "fingerprint": "93f72cea823f",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/online-life.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Life Online: Digital Citizenship",
+   "zh": "网络生活新空间"
+  },
+  "updated": "2026-11-22 18:45:33",
+  "verified": ""
+ },
+ "politics/rights-duties": {
+  "counts": {
+   "done": 194,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 194
+  },
+  "fingerprint": "e710b8f012cd",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/rights-duties.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Citizens’ Rights & Duties",
+   "zh": "理解权利义务"
+  },
+  "updated": "2026-11-22 18:00:17",
+  "verified": "2026-11-22 18:16:16"
+ },
+ "politics/rule-of-law": {
+  "counts": {
+   "done": 98,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 98
+  },
+  "fingerprint": "b8a0e67d5812",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/rule-of-law.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Rule of Law",
+   "zh": "走进法治天地 · 建设法治中国"
+  },
+  "updated": "2026-11-22 18:01:24",
+  "verified": "2026-11-22 18:15:46"
+ },
+ "politics/state-organs": {
+  "counts": {
+   "done": 220,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 220
+  },
+  "fingerprint": "177bddecc584",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/state-organs.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "State Organs of China",
+   "zh": "我国的国家机构"
+  },
+  "updated": "2026-11-22 18:15:19",
+  "verified": "2026-11-22 18:39:39"
+ },
+ "politics/state-system": {
+  "counts": {
+   "done": 113,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 113
+  },
+  "fingerprint": "47481afe4830",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/state-system.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "China’s Basic Systems",
+   "zh": "我国的基本制度"
+  },
+  "updated": "2026-11-22 18:11:48",
+  "verified": "2026-11-22 18:17:18"
+ },
+ "politics/youth-emotions": {
+  "counts": {
+   "done": 252,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 252
+  },
+  "fingerprint": "df770ad30bcf",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/politics/youth-emotions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Growing Up: Adolescence & Emotions",
+   "zh": "青春时光与情绪"
+  },
+  "updated": "2026-11-22 18:27:51",
+  "verified": "2026-11-22 18:48:12"
+ },
+ "spanish/sp-adjectives": {
+  "counts": {
+   "done": 54,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 54
+  },
+  "fingerprint": "4175a85a053d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-adjectives.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Describing People",
+   "zh": "描述人的形容词"
+  },
+  "updated": "2026-11-22 20:15:06",
+  "verified": "2026-11-22 20:20:30"
+ },
+ "spanish/sp-alphabet": {
+  "counts": {
+   "done": 111,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 111
+  },
+  "fingerprint": "3167ce27b691",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-alphabet.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Spanish Alphabet & Sounds",
+   "zh": "西班牙语字母与发音"
+  },
+  "updated": "2026-11-22 20:23:19",
+  "verified": ""
+ },
+ "spanish/sp-family": {
+  "counts": {
+   "done": 60,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 60
+  },
+  "fingerprint": "ee8f4c609007",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-family.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "La familia",
+   "zh": "家庭成员"
+  },
+  "updated": "2026-11-22 20:06:21",
+  "verified": "2026-11-22 20:10:02"
+ },
+ "spanish/sp-greetings": {
+  "counts": {
+   "done": 78,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 78
+  },
+  "fingerprint": "5ab1c6292a6c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-greetings.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Greetings, Numbers & the Calendar",
+   "zh": "问候、数字与日历"
+  },
+  "updated": "2026-11-22 20:14:07",
+  "verified": "2026-11-22 20:19:53"
+ },
+ "spanish/sp-gustar": {
+  "counts": {
+   "done": 50,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 50
+  },
+  "fingerprint": "adf2beeb11fb",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-gustar.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Likes & Dislikes with gustar",
+   "zh": "用 gustar 表达喜好"
+  },
+  "updated": "2026-11-22 20:24:50",
+  "verified": ""
+ },
+ "spanish/sp-hispanic-world": {
+  "counts": {
+   "done": 138,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 138
+  },
+  "fingerprint": "3dbb56c426ef",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-hispanic-world.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Spanish-Speaking World",
+   "zh": "西班牙语世界"
+  },
+  "updated": "2026-11-22 20:25:06",
+  "verified": ""
+ },
+ "spanish/sp-nouns-articles": {
+  "counts": {
+   "done": 84,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 84
+  },
+  "fingerprint": "749fc565834b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-nouns-articles.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Nouns, Gender & Articles",
+   "zh": "名词的阴阳性与冠词"
+  },
+  "updated": "2026-11-22 20:14:43",
+  "verified": "2026-11-22 20:20:30"
+ },
+ "spanish/sp-pronouns-ser": {
+  "counts": {
+   "done": 38,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 38
+  },
+  "fingerprint": "e61eed4433d7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-pronouns-ser.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Subject Pronouns & ser",
+   "zh": "主语代词与动词 ser"
+  },
+  "updated": "2026-11-22 20:25:02",
+  "verified": ""
+ },
+ "spanish/sp-questions": {
+  "counts": {
+   "done": 57,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 57
+  },
+  "fingerprint": "c088d35f079b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-questions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Asking Questions",
+   "zh": "怎样用西班牙语提问"
+  },
+  "updated": "2026-11-22 20:14:36",
+  "verified": "2026-11-22 20:19:53"
+ },
+ "spanish/sp-tener-venir": {
+  "counts": {
+   "done": 66,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 66
+  },
+  "fingerprint": "4b5223da6828",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/spanish/sp-tener-venir.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Verbs tener & venir",
+   "zh": "动词 tener 与 venir"
+  },
+  "updated": "2026-11-22 20:25:09",
+  "verified": ""
+ },
+ "ushistory/us-civilrights": {
+  "counts": {
+   "done": 199,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 199
+  },
+  "fingerprint": "d12bbe4c5915",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-civilrights.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Civil Rights Movement",
+   "zh": "民权运动"
+  },
+  "updated": "2026-11-22 19:28:37",
+  "verified": "2026-11-22 19:50:24"
+ },
+ "ushistory/us-civilwar": {
+  "counts": {
+   "done": 220,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 220
+  },
+  "fingerprint": "c9825277023e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-civilwar.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Civil War & Reconstruction",
+   "zh": "南北战争与重建"
+  },
+  "updated": "2026-11-22 19:26:12",
+  "verified": "2026-11-22 19:50:41"
+ },
+ "ushistory/us-colonies": {
+  "counts": {
+   "done": 272,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 272
+  },
+  "fingerprint": "97b3d9899ebc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-colonies.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Colonies & the American Revolution",
+   "zh": "殖民地与美国独立战争"
+  },
+  "updated": "2026-11-22 19:12:25",
+  "verified": ""
+ },
+ "ushistory/us-constitution": {
+  "counts": {
+   "done": 245,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 245
+  },
+  "fingerprint": "88d0e759299d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-constitution.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Constitution & Bill of Rights",
+   "zh": "美国宪法与《权利法案》"
+  },
+  "updated": "2026-11-22 19:23:23",
+  "verified": ""
+ },
+ "ushistory/us-expansion": {
+  "counts": {
+   "done": 206,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 206
+  },
+  "fingerprint": "8d5cddb26478",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-expansion.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Westward Expansion",
+   "zh": "西进运动"
+  },
+  "updated": "2026-11-22 19:14:47",
+  "verified": ""
+ },
+ "ushistory/us-industrial": {
+  "counts": {
+   "done": 103,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 103
+  },
+  "fingerprint": "5c7c2312222a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-industrial.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Inventions, Industry & Immigration",
+   "zh": "发明、工业与移民"
+  },
+  "updated": "2026-11-22 19:21:02",
+  "verified": ""
+ },
+ "ushistory/us-modern": {
+  "counts": {
+   "done": 186,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 186
+  },
+  "fingerprint": "3c637752195e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-modern.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "From the Cold War to Today",
+   "zh": "从冷战到今天"
+  },
+  "updated": "2026-11-22 19:28:58",
+  "verified": "2026-11-22 19:51:14"
+ },
+ "ushistory/us-worldwars": {
+  "counts": {
+   "done": 256,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 256
+  },
+  "fingerprint": "50e0b2a77edc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/ushistory/us-worldwars.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "World Wars & the Great Depression",
+   "zh": "两次世界大战与大萧条"
+  },
+  "updated": "2026-11-22 19:20:40",
+  "verified": ""
+ },
+ "worldhistory/africa-americas-before-1500": {
+  "counts": {
+   "done": 204,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 204
+  },
+  "fingerprint": "59ad8ed317fc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/africa-americas-before-1500.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Africa and the Americas Before 1500",
+   "zh": "古代非洲与美洲文明"
+  },
+  "updated": "2026-11-22 19:39:16",
+  "verified": "2026-11-22 19:53:25"
+ },
+ "worldhistory/industrialization-reform": {
+  "counts": {
+   "done": 246,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 246
+  },
+  "fingerprint": "ebae400496dc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/industrialization-reform.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Industrial Revolutions, Labour & Reform",
+   "zh": "工业革命、工人运动与近代改革"
+  },
+  "updated": "2026-11-22 19:38:28",
+  "verified": "2026-11-22 19:53:42"
+ },
+ "worldhistory/russian-revolution-ussr": {
+  "counts": {
+   "done": 245,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 245
+  },
+  "fingerprint": "717fa1fff73b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/russian-revolution-ussr.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Russian Revolution & the Soviet Union",
+   "zh": "俄国十月革命与苏联的建设"
+  },
+  "updated": "2026-11-22 19:30:19",
+  "verified": "2026-11-22 19:51:43"
+ },
+ "worldhistory/wh-cold-war": {
+  "counts": {
+   "done": 132,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 132
+  },
+  "fingerprint": "2f23b700fe9d",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-cold-war.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Cold War & Independence Movements",
+   "zh": "冷战与民族独立运动"
+  },
+  "updated": "2026-11-22 19:30:52",
+  "verified": "2026-11-22 19:51:44"
+ },
+ "worldhistory/wh-exploration": {
+  "counts": {
+   "done": 115,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 115
+  },
+  "fingerprint": "f3520af4624a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-exploration.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Age of Exploration",
+   "zh": "大航海时代"
+  },
+  "updated": "2026-11-22 19:18:06",
+  "verified": ""
+ },
+ "worldhistory/wh-first-civilizations": {
+  "counts": {
+   "done": 117,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 117
+  },
+  "fingerprint": "d05bdc808c4c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-first-civilizations.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "First Civilizations: Mesopotamia & Egypt",
+   "zh": "最早的文明：美索不达米亚与古埃及"
+  },
+  "updated": "2026-11-22 19:30:32",
+  "verified": "2026-11-22 19:51:14"
+ },
+ "worldhistory/wh-greece-rome": {
+  "counts": {
+   "done": 233,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 233
+  },
+  "fingerprint": "70d7d80f0a1c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-greece-rome.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ancient Greece & Rome",
+   "zh": "古希腊与古罗马"
+  },
+  "updated": "2026-11-22 19:29:34",
+  "verified": "2026-11-22 19:51:28"
+ },
+ "worldhistory/wh-india-persia": {
+  "counts": {
+   "done": 284,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 284
+  },
+  "fingerprint": "b062ee9b037b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-india-persia.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ancient India & Persia",
+   "zh": "古印度与古波斯"
+  },
+  "updated": "2026-11-22 19:32:07",
+  "verified": "2026-11-22 19:52:55"
+ },
+ "worldhistory/wh-middle-ages": {
+  "counts": {
+   "done": 188,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 188
+  },
+  "fingerprint": "d380dbc6439b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-middle-ages.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Middle Ages & the Islamic Golden Age",
+   "zh": "中世纪与伊斯兰黄金时代"
+  },
+  "updated": "2026-11-22 19:22:33",
+  "verified": ""
+ },
+ "worldhistory/wh-renaissance": {
+  "counts": {
+   "done": 143,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 143
+  },
+  "fingerprint": "baa035d4da76",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-renaissance.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Renaissance & Reformation",
+   "zh": "文艺复兴与宗教改革"
+  },
+  "updated": "2026-11-22 19:34:00",
+  "verified": "2026-11-22 19:52:24"
+ },
+ "worldhistory/wh-revolutions": {
+  "counts": {
+   "done": 120,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 120
+  },
+  "fingerprint": "48a6435720fd",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-revolutions.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Revolutions: Science, Politics & Industry",
+   "zh": "革命：科学、政治与工业"
+  },
+  "updated": "2026-11-22 19:19:42",
+  "verified": ""
+ },
+ "worldhistory/wh-today": {
+  "counts": {
+   "done": 158,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 158
+  },
+  "fingerprint": "bc5f44622007",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-today.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Our Connected World",
+   "zh": "相互联系的世界"
+  },
+  "updated": "2026-11-22 19:26:38",
+  "verified": "2026-11-22 19:50:07"
+ },
+ "worldhistory/wh-world-wars": {
+  "counts": {
+   "done": 129,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 129
+  },
+  "fingerprint": "5e6b525d6120",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/worldhistory/wh-world-wars.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The World Wars & the Holocaust",
+   "zh": "两次世界大战与大屠杀"
+  },
+  "updated": "2026-11-22 19:36:01",
+  "verified": "2026-11-22 19:52:46"
+ }
+}
