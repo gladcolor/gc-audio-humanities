@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-22 22:56:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:57:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Updated 2026-11-22 22:56:52. Labels: finished / in progress / no audio / failed 
 | china/revolution | finished | 218 | 0 | 0 | 0 | 0 | 2026-11-22 17:39:14 |  |
 | china/seas-islands | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 18:04:39 | 2026-11-22 18:16:50 |
 | china/silk-road-explorers | finished | 205 | 0 | 0 | 0 | 0 | 2026-11-22 17:47:38 | 2026-11-22 18:12:59 |
-| china/song-yuan | in progress | 403 | 0 | 13 | 0 | 0 | 2026-11-22 22:55:31 |  |
+| china/song-yuan | in progress | 411 | 0 | 5 | 0 | 0 | 2026-11-22 22:57:06 |  |
 | china/spring-warring | in progress | 224 | 0 | 30 | 0 | 0 | 2026-11-22 22:52:23 |  |
 | china/strategy-battles | finished | 270 | 0 | 0 | 0 | 0 | 2026-11-22 17:49:53 | 2026-11-22 18:14:20 |
 | china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:51 |  |
