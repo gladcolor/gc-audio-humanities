@@ -709,11 +709,11 @@
  },
  "china/strategy-battles": {
   "counts": {
-   "done": 384,
+   "done": 436,
    "failed": 0,
    "held": 0,
-   "missing": 84,
-   "old": 8,
+   "missing": 33,
+   "old": 7,
    "total": 476
   },
   "fingerprint": "9c0921350264",
@@ -728,7 +728,7 @@
    "en": "Strategy & Famous Battles",
    "zh": "兵法与著名战役"
   },
-  "updated": "2026-11-22 23:05:20",
+  "updated": "2026-11-22 23:05:46",
   "verified": ""
  },
  "china/sui-tang": {
