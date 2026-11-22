@@ -513,15 +513,15 @@
  },
  "china/qin-han": {
   "counts": {
-   "done": 335,
+   "done": 343,
    "failed": 0,
    "held": 0,
-   "missing": 8,
+   "missing": 0,
    "old": 0,
    "total": 343
   },
   "fingerprint": "0a44c497cd43",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/qin-han.html",
   "record_demand": true,
   "record_langs": [
@@ -532,7 +532,7 @@
    "en": "Qin & Han: A Unified Empire",
    "zh": "秦汉：统一多民族国家的建立和巩固"
   },
-  "updated": "2026-11-22 22:53:11",
+  "updated": "2026-11-22 22:59:14",
   "verified": ""
  },
  "china/reform-opening": {
