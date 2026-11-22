@@ -584,25 +584,26 @@
  },
  "china/revolution": {
   "counts": {
-   "done": 218,
+   "done": 418,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 218
+   "total": 418
   },
-  "fingerprint": "",
+  "fingerprint": "bc8327987c36",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/revolution.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "The New Democratic Revolution 1919–1949",
    "zh": "新民主主义革命（1919—1949)"
   },
-  "updated": "2026-11-22 17:39:14",
+  "updated": "2026-11-22 22:59:59",
   "verified": ""
  },
  "china/seas-islands": {
