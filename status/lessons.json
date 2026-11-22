@@ -24,11 +24,11 @@
  },
  "china/ancient-engineering": {
   "counts": {
-   "done": 250,
+   "done": 312,
    "failed": 0,
    "held": 0,
-   "missing": 77,
-   "old": 4,
+   "missing": 18,
+   "old": 1,
    "total": 331
   },
   "fingerprint": "d4ee60753c5d",
@@ -43,7 +43,7 @@
    "en": "Ancient Engineering: Bridges, Canals & Palaces",
    "zh": "古代工程奇迹：桥、运河与宫殿"
   },
-  "updated": "2026-11-22 23:04:11",
+  "updated": "2026-11-22 23:04:34",
   "verified": ""
  },
  "china/ancient-science": {
