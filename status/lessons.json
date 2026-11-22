@@ -372,10 +372,10 @@
  },
  "china/modern-china": {
   "counts": {
-   "done": 290,
+   "done": 320,
    "failed": 0,
    "held": 0,
-   "missing": 92,
+   "missing": 62,
    "old": 1,
    "total": 383
   },
@@ -391,7 +391,7 @@
    "en": "Modern China 1840–1919: Crisis & Resistance",
    "zh": "近代中国（1840—1919)：屈辱与抗争"
   },
-  "updated": "2026-11-22 22:56:16",
+  "updated": "2026-11-22 22:56:44",
   "verified": ""
  },
  "china/natural-wonders": {
