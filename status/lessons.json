@@ -983,10 +983,10 @@
  },
  "economics/econ-specialization": {
   "counts": {
-   "done": 203,
+   "done": 281,
    "failed": 0,
    "held": 0,
-   "missing": 194,
+   "missing": 116,
    "old": 0,
    "total": 397
   },
@@ -1002,7 +1002,7 @@
    "en": "Specialization & Trade: SW Asia, Asia & Africa",
    "zh": "专业化分工与贸易：西南亚、亚洲与非洲"
   },
-  "updated": "2026-11-23 02:53:59",
+  "updated": "2026-11-23 02:55:26",
   "verified": ""
  },
  "economics/econ-supply-demand": {
