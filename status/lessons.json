@@ -2484,25 +2484,26 @@
  },
  "worldhistory/wh-greece-rome": {
   "counts": {
-   "done": 233,
+   "done": 450,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 233
+   "total": 450
   },
-  "fingerprint": "",
+  "fingerprint": "70d7d80f0a1c",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-greece-rome.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Ancient Greece & Rome",
    "zh": "古希腊与古罗马"
   },
-  "updated": "2026-11-22 19:29:34",
+  "updated": "2026-11-23 02:58:45",
   "verified": ""
  },
  "worldhistory/wh-india-persia": {
