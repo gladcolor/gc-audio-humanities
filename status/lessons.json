@@ -1153,15 +1153,15 @@
  },
  "geography/climate-regions": {
   "counts": {
-   "done": 416,
+   "done": 413,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 3,
    "total": 416
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "d4209efdf369",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/climate-regions.html",
   "record_demand": true,
   "record_langs": [
@@ -1172,7 +1172,7 @@
    "en": "World Climate Regions",
    "zh": "世界气候区"
   },
-  "updated": "2026-11-23 02:15:45",
+  "updated": "2026-11-23 04:40:31",
   "verified": ""
  },
  "geography/continents-oceans": {
