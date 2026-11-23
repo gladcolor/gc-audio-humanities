@@ -2165,11 +2165,11 @@
  },
  "ushistory/us-civilwar": {
   "counts": {
-   "done": 286,
+   "done": 341,
    "failed": 0,
    "held": 0,
-   "missing": 144,
-   "old": 3,
+   "missing": 90,
+   "old": 2,
    "total": 433
   },
   "fingerprint": "c9825277023e",
@@ -2184,7 +2184,7 @@
    "en": "Civil War & Reconstruction",
    "zh": "南北战争与重建"
   },
-  "updated": "2026-11-23 02:37:19",
+  "updated": "2026-11-23 02:37:59",
   "verified": ""
  },
  "ushistory/us-colonies": {
