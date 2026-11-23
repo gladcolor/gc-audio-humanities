@@ -668,7 +668,7 @@
    "zh": "丝路探险家与商队"
   },
   "updated": "2026-11-23 01:39:19",
-  "verified": ""
+  "verified": "2026-11-23 02:22:10"
  },
  "china/song-yuan": {
   "counts": {
@@ -1571,25 +1571,26 @@
  },
  "georgia/ga-native": {
   "counts": {
-   "done": 134,
+   "done": 203,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 134
+   "missing": 54,
+   "old": 6,
+   "total": 263
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "16fd2c0033a1",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-native.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Native Americans of Georgia",
    "zh": "佐治亚州的美洲原住民"
   },
-  "updated": "2026-11-22 18:57:49",
+  "updated": "2026-11-23 02:22:26",
   "verified": ""
  },
  "georgia/ga-reconstruction": {

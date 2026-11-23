@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:21:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:22:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Updated 2026-11-23 02:21:33. Labels: finished / in progress / no audio / failed 
 | china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 | 2026-11-23 01:59:41 |
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:15 |  |
 | china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 | 2026-11-23 02:12:11 |
-| china/silk-road-explorers | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:39:19 |  |
+| china/silk-road-explorers | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:39:19 | 2026-11-23 02:22:10 |
 | china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:47 |  |
 | china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 | 2026-11-23 02:18:14 |
 | china/strategy-battles | finished | 476 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:36 | 2026-11-23 02:12:10 |
@@ -70,7 +70,7 @@ Updated 2026-11-23 02:21:33. Labels: finished / in progress / no audio / failed 
 | georgia/ga-geography | in progress | 202 | 7 | 53 | 0 | 0 | 2026-11-23 02:21:33 |  |
 | georgia/ga-government | finished | 333 | 0 | 0 | 0 | 0 | 2026-11-22 19:18:59 |  |
 | georgia/ga-modern | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 19:06:11 |  |
-| georgia/ga-native | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:49 |  |
+| georgia/ga-native | in progress | 203 | 6 | 54 | 0 | 0 | 2026-11-23 02:22:26 |  |
 | georgia/ga-reconstruction | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:11:09 |  |
 | georgia/ga-removal | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:34 |  |
 | georgia/ga-revolution | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:10 |  |
