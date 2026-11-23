@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:16:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:16:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ Updated 2026-11-23 02:16:00. Labels: finished / in progress / no audio / failed 
 | china/terrain | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:43 | 2026-11-23 01:59:41 |
 | china/territory | finished | 314 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:22 |  |
 | china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 | 2026-11-23 01:59:41 |
-| china/unity-diplomacy | finished | 384 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:07 |  |
+| china/unity-diplomacy | finished | 384 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:07 | 2026-11-23 02:16:04 |
 | china/xia-shang-zhou | finished | 429 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:16 |  |
 | economics/econ-growth | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 19:46:19 |  |
 | economics/econ-personal-finance | finished | 175 | 0 | 0 | 0 | 0 | 2026-11-22 19:40:56 |  |
@@ -62,7 +62,7 @@ Updated 2026-11-23 02:16:00. Labels: finished / in progress / no audio / failed 
 | geography/population | in progress | 289 | 4 | 93 | 0 | 0 | 2026-11-23 02:07:08 |  |
 | geography/settlements-development | in progress | 389 | 0 | 75 | 0 | 0 | 2026-11-23 02:13:44 |  |
 | geography/time-zones | in progress | 3917 | 0 | 62 | 0 | 0 | 2026-11-23 02:14:55 |  |
-| geography/world-religions | in progress | 580 | 0 | 2 | 0 | 0 | 2026-11-23 02:16:00 |  |
+| geography/world-religions | finished | 582 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:05 |  |
 | georgia/ga-20th | finished | 202 | 0 | 0 | 0 | 0 | 2026-11-22 19:16:08 |  |
 | georgia/ga-civilrights | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:44 |  |
 | georgia/ga-civilwar | finished | 230 | 0 | 0 | 0 | 0 | 2026-11-22 19:15:01 |  |
