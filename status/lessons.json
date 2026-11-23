@@ -1478,25 +1478,26 @@
  },
  "georgia/ga-colony": {
   "counts": {
-   "done": 134,
+   "done": 225,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 35,
    "old": 0,
-   "total": 134
+   "total": 260
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "217a35c3b654",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-colony.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Founding the Georgia Colony",
    "zh": "佐治亚殖民地的建立"
   },
-  "updated": "2026-11-22 19:08:34",
+  "updated": "2026-11-23 02:23:54",
   "verified": ""
  },
  "georgia/ga-geography": {
@@ -1853,7 +1854,7 @@
    "zh": "我国的国家机构"
   },
   "updated": "2026-11-23 01:43:09",
-  "verified": ""
+  "verified": "2026-11-23 02:23:33"
  },
  "politics/state-system": {
   "counts": {

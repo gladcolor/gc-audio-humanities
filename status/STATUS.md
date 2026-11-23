@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:23:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:23:55. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -66,7 +66,7 @@ Updated 2026-11-23 02:23:09. Labels: finished / in progress / no audio / failed 
 | georgia/ga-20th | finished | 202 | 0 | 0 | 0 | 0 | 2026-11-22 19:16:08 |  |
 | georgia/ga-civilrights | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:44 |  |
 | georgia/ga-civilwar | finished | 230 | 0 | 0 | 0 | 0 | 2026-11-22 19:15:01 |  |
-| georgia/ga-colony | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 19:08:34 |  |
+| georgia/ga-colony | in progress | 225 | 0 | 35 | 0 | 0 | 2026-11-23 02:23:54 |  |
 | georgia/ga-geography | in progress | 202 | 7 | 53 | 0 | 0 | 2026-11-23 02:21:33 |  |
 | georgia/ga-government | finished | 333 | 0 | 0 | 0 | 0 | 2026-11-22 19:18:59 |  |
 | georgia/ga-modern | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 19:06:11 |  |
@@ -81,7 +81,7 @@ Updated 2026-11-23 02:23:09. Labels: finished / in progress / no audio / failed 
 | politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 | 2026-11-23 02:12:11 |
 | politics/rights-duties | finished | 379 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:43 | 2026-11-23 02:12:11 |
 | politics/rule-of-law | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:02 | 2026-11-23 02:12:11 |
-| politics/state-organs | finished | 440 | 0 | 0 | 0 | 0 | 2026-11-23 01:43:09 |  |
+| politics/state-organs | finished | 440 | 0 | 0 | 0 | 0 | 2026-11-23 01:43:09 | 2026-11-23 02:23:33 |
 | politics/state-system | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:51 | 2026-11-23 02:12:11 |
 | politics/youth-emotions | finished | 498 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:56 | 2026-11-23 02:14:23 |
 | spanish/sp-adjectives | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:06 | 2026-11-22 20:20:30 |
