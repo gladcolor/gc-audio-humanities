@@ -331,11 +331,11 @@
  },
  "china/megaprojects": {
   "counts": {
-   "done": 195,
+   "done": 232,
    "failed": 0,
    "held": 0,
-   "missing": 151,
-   "old": 10,
+   "missing": 115,
+   "old": 9,
    "total": 356
   },
   "fingerprint": "e3f87ae6a390",
@@ -350,7 +350,7 @@
    "en": "Mega-Projects: Bridges, Railways & Pipelines",
    "zh": "超级工程：大桥、铁路与管道"
   },
-  "updated": "2026-11-23 01:05:40",
+  "updated": "2026-11-23 01:07:18",
   "verified": ""
  },
  "china/ming-qing": {

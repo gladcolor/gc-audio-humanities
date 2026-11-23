@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 01:06:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:07:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Updated 2026-11-23 01:06:27. Labels: finished / in progress / no audio / failed 
 | china/economy | finished | 99 | 0 | 0 | 0 | 0 | 2026-11-22 17:48:25 |  |
 | china/great-wall | in progress | 316 | 1 | 100 | 0 | 0 | 2026-11-22 23:03:07 |  |
 | china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-22 23:01:30 |  |
-| china/megaprojects | in progress | 195 | 10 | 151 | 0 | 0 | 2026-11-23 01:05:40 |  |
+| china/megaprojects | in progress | 232 | 9 | 115 | 0 | 0 | 2026-11-23 01:07:18 |  |
 | china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-22 23:03:22 |  |
 | china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-22 23:05:28 |  |
 | china/natural-wonders | finished | 106 | 0 | 0 | 0 | 0 | 2026-11-22 17:57:44 |  |
