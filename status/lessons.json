@@ -95,25 +95,26 @@
  },
  "china/china-space": {
   "counts": {
-   "done": 283,
+   "done": 426,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 283
+   "total": 426
   },
-  "fingerprint": "",
+  "fingerprint": "8019a17f96f2",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/china-space.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "China in Space: From Dongfanghong to Chang’e",
    "zh": "中国航天：从东方红到嫦娥"
   },
-  "updated": "2026-11-22 17:49:30",
+  "updated": "2026-11-23 01:15:35",
   "verified": ""
  },
  "china/chinese-spirit": {
