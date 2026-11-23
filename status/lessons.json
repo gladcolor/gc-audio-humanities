@@ -958,15 +958,15 @@
  },
  "economics/econ-scarcity": {
   "counts": {
-   "done": 320,
+   "done": 325,
    "failed": 0,
    "held": 0,
-   "missing": 4,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 325
   },
   "fingerprint": "c12153df7dc3",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-scarcity.html",
   "record_demand": true,
   "record_langs": [
@@ -977,7 +977,7 @@
    "en": "Scarcity & Opportunity Cost",
    "zh": "稀缺性与机会成本"
   },
-  "updated": "2026-11-23 02:51:20",
+  "updated": "2026-11-23 02:54:24",
   "verified": ""
  },
  "economics/econ-specialization": {
