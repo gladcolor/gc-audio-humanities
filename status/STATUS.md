@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:47:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:47:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -104,7 +104,7 @@ Updated 2026-11-23 02:47:08. Labels: finished / in progress / no audio / failed 
 | ushistory/us-worldwars | in progress | 451 | 0 | 23 | 0 | 0 | 2026-11-23 02:45:56 |  |
 | worldhistory/africa-americas-before-1500 | finished | 204 | 0 | 0 | 0 | 0 | 2026-11-22 19:39:16 |  |
 | worldhistory/industrialization-reform | finished | 246 | 0 | 0 | 0 | 0 | 2026-11-22 19:38:28 |  |
-| worldhistory/russian-revolution-ussr | finished | 245 | 0 | 0 | 0 | 0 | 2026-11-22 19:30:19 |  |
+| worldhistory/russian-revolution-ussr | in progress | 252 | 2 | 228 | 0 | 0 | 2026-11-23 02:47:19 |  |
 | worldhistory/wh-cold-war | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 19:30:52 |  |
 | worldhistory/wh-exploration | in progress | 125 | 2 | 117 | 0 | 0 | 2026-11-23 02:47:08 |  |
 | worldhistory/wh-first-civilizations | finished | 117 | 0 | 0 | 0 | 0 | 2026-11-22 19:30:32 |  |
