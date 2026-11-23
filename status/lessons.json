@@ -958,10 +958,10 @@
  },
  "economics/econ-scarcity": {
   "counts": {
-   "done": 261,
+   "done": 293,
    "failed": 0,
    "held": 0,
-   "missing": 62,
+   "missing": 30,
    "old": 2,
    "total": 325
   },
@@ -977,7 +977,7 @@
    "en": "Scarcity & Opportunity Cost",
    "zh": "稀缺性与机会成本"
   },
-  "updated": "2026-11-23 02:51:06",
+  "updated": "2026-11-23 02:51:16",
   "verified": ""
  },
  "economics/econ-specialization": {
