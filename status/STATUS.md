@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 03:31:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:44:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -86,14 +86,14 @@ Updated 2026-11-23 03:31:25. Labels: finished / in progress / no audio / failed 
 | politics/youth-emotions | finished | 498 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:56 | 2026-11-23 02:14:23 |
 | spanish/sp-adjectives | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:06 | 2026-11-22 20:20:30 |
 | spanish/sp-alphabet | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:19 |  |
-| spanish/sp-family | finished | 107 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:17 |  |
+| spanish/sp-family | finished | 107 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:17 | 2026-11-23 03:40:31 |
 | spanish/sp-greetings | in progress | 157 | 0 | 19 | 0 | 0 | 2026-11-23 03:30:29 |  |
-| spanish/sp-gustar | finished | 50 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:50 |  |
+| spanish/sp-gustar | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:17 |  |
 | spanish/sp-hispanic-world | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:06 |  |
 | spanish/sp-nouns-articles | finished | 84 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:43 | 2026-11-22 20:20:30 |
 | spanish/sp-pronouns-ser | in progress | 66 | 0 | 3 | 0 | 0 | 2026-11-23 03:30:36 |  |
 | spanish/sp-questions | finished | 57 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:36 | 2026-11-22 20:19:53 |
-| spanish/sp-tener-venir | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:25 |  |
+| spanish/sp-tener-venir | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:25 | 2026-11-23 03:41:06 |
 | ushistory/us-civilrights | finished | 401 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:16 | 2026-11-23 03:29:10 |
 | ushistory/us-civilwar | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:27 | 2026-11-23 03:13:22 |
 | ushistory/us-colonies | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:08 | 2026-11-23 03:18:09 |
