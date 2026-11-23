@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 01:24:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:24:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -78,7 +78,7 @@ Updated 2026-11-23 01:24:17. Labels: finished / in progress / no audio / failed 
 | politics/constitution | in progress | 166 | 1 | 71 | 0 | 0 | 2026-11-23 01:18:00 |  |
 | politics/core-values | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-22 18:01:47 |  |
 | politics/development | finished | 250 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:03 |  |
-| politics/online-life | in progress | 465 | 0 | 24 | 0 | 0 | 2026-11-23 01:24:16 |  |
+| politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 |  |
 | politics/rights-duties | finished | 379 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:43 |  |
 | politics/rule-of-law | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:02 |  |
 | politics/state-organs | in progress | 349 | 3 | 88 | 0 | 0 | 2026-11-23 01:18:19 |  |
