@@ -2188,11 +2188,11 @@
  },
  "ushistory/us-colonies": {
   "counts": {
-   "done": 294,
+   "done": 335,
    "failed": 0,
    "held": 0,
-   "missing": 122,
-   "old": 17,
+   "missing": 85,
+   "old": 13,
    "total": 433
   },
   "fingerprint": "97b3d9899ebc",
@@ -2207,7 +2207,7 @@
    "en": "Colonies & the American Revolution",
    "zh": "殖民地与美国独立战争"
   },
-  "updated": "2026-11-23 02:33:43",
+  "updated": "2026-11-23 02:34:29",
   "verified": ""
  },
  "ushistory/us-constitution": {
