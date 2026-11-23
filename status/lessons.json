@@ -1945,25 +1945,26 @@
  },
  "spanish/sp-alphabet": {
   "counts": {
-   "done": 111,
+   "done": 205,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 111
+   "total": 205
   },
   "fingerprint": "3167ce27b691",
   "label": "finished",
   "page": "https://shanchuan.org/middle/spanish/sp-alphabet.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "The Spanish Alphabet & Sounds",
    "zh": "西班牙语字母与发音"
   },
-  "updated": "2026-11-22 20:23:19",
+  "updated": "2026-11-23 03:58:34",
   "verified": ""
  },
  "spanish/sp-family": {
