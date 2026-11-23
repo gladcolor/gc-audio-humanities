@@ -1028,11 +1028,11 @@
  },
  "economics/econ-systems": {
   "counts": {
-   "done": 231,
+   "done": 262,
    "failed": 0,
    "held": 0,
-   "missing": 174,
-   "old": 10,
+   "missing": 144,
+   "old": 9,
    "total": 415
   },
   "fingerprint": "e9e3d89190b7",
@@ -1047,7 +1047,7 @@
    "en": "Economic Systems",
    "zh": "经济体制"
   },
-  "updated": "2026-11-23 02:50:48",
+  "updated": "2026-11-23 02:50:56",
   "verified": ""
  },
  "economics/econ-trade": {
