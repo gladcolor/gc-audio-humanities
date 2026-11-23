@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:49:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:50:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Updated 2026-11-23 02:49:46. Labels: finished / in progress / no audio / failed 
 | ushistory/us-constitution | in progress | 264 | 1 | 44 | 0 | 0 | 2026-11-23 02:35:18 |  |
 | ushistory/us-expansion | finished | 407 | 0 | 0 | 0 | 0 | 2026-11-23 02:46:26 |  |
 | ushistory/us-industrial | in progress | 175 | 0 | 24 | 0 | 0 | 2026-11-23 02:44:43 |  |
-| ushistory/us-modern | in progress | 195 | 9 | 164 | 0 | 0 | 2026-11-23 02:43:26 |  |
+| ushistory/us-modern | in progress | 340 | 1 | 27 | 0 | 0 | 2026-11-23 02:50:00 |  |
 | ushistory/us-worldwars | in progress | 465 | 0 | 9 | 0 | 0 | 2026-11-23 02:48:58 |  |
 | worldhistory/africa-americas-before-1500 | in progress | 311 | 0 | 84 | 0 | 0 | 2026-11-23 02:49:03 |  |
 | worldhistory/industrialization-reform | in progress | 408 | 0 | 81 | 0 | 0 | 2026-11-23 02:49:27 |  |

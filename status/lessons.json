@@ -2285,11 +2285,11 @@
  },
  "ushistory/us-modern": {
   "counts": {
-   "done": 195,
+   "done": 340,
    "failed": 0,
    "held": 0,
-   "missing": 164,
-   "old": 9,
+   "missing": 27,
+   "old": 1,
    "total": 368
   },
   "fingerprint": "3c637752195e",
@@ -2304,7 +2304,7 @@
    "en": "From the Cold War to Today",
    "zh": "从冷战到今天"
   },
-  "updated": "2026-11-23 02:43:26",
+  "updated": "2026-11-23 02:50:00",
   "verified": ""
  },
  "ushistory/us-worldwars": {
