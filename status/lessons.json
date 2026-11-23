@@ -404,7 +404,7 @@
    "zh": "近代中国（1840—1919)：屈辱与抗争"
   },
   "updated": "2026-11-23 01:12:26",
-  "verified": ""
+  "verified": "2026-11-23 02:17:14"
  },
  "china/natural-wonders": {
   "counts": {
@@ -452,7 +452,7 @@
    "zh": "中国特色社会主义新时代"
   },
   "updated": "2026-11-23 01:12:43",
-  "verified": ""
+  "verified": "2026-11-23 02:18:14"
  },
  "china/population-resources": {
   "counts": {
@@ -716,7 +716,7 @@
    "zh": "春秋战国：变革与百家争鸣"
   },
   "updated": "2026-11-23 01:12:54",
-  "verified": ""
+  "verified": "2026-11-23 02:18:14"
  },
  "china/strategy-battles": {
   "counts": {
@@ -1073,15 +1073,15 @@
  },
  "geography/africa-asia": {
   "counts": {
-   "done": 248,
+   "done": 257,
    "failed": 0,
    "held": 0,
-   "missing": 9,
+   "missing": 0,
    "old": 0,
    "total": 257
   },
   "fingerprint": "c8ea4d87f8ee",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/geography/africa-asia.html",
   "record_demand": true,
   "record_langs": [
@@ -1092,7 +1092,7 @@
    "en": "Africa & Asia",
    "zh": "非洲与亚洲"
   },
-  "updated": "2026-11-23 02:14:13",
+  "updated": "2026-11-23 02:19:15",
   "verified": ""
  },
  "geography/americas": {

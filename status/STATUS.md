@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:17:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:19:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,9 +20,9 @@ Updated 2026-11-23 02:17:11. Labels: finished / in progress / no audio / failed 
 | china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 | 2026-11-23 02:12:09 |
 | china/megaprojects | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:36 | 2026-11-23 01:59:40 |
 | china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:19 | 2026-11-23 02:12:09 |
-| china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:26 |  |
+| china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:26 | 2026-11-23 02:17:14 |
 | china/natural-wonders | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:38 | 2026-11-23 01:59:40 |
-| china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 |  |
+| china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 | 2026-11-23 02:18:14 |
 | china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 |  |
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 | 2026-11-23 02:12:09 |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 |  |
@@ -33,7 +33,7 @@ Updated 2026-11-23 02:17:11. Labels: finished / in progress / no audio / failed 
 | china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 | 2026-11-23 02:12:11 |
 | china/silk-road-explorers | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:39:19 |  |
 | china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:47 |  |
-| china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 |  |
+| china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 | 2026-11-23 02:18:14 |
 | china/strategy-battles | finished | 476 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:36 | 2026-11-23 02:12:10 |
 | china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:17 | 2026-11-23 01:59:39 |
 | china/taiwan-hkm | finished | 406 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:02 | 2026-11-23 02:12:10 |
@@ -49,7 +49,7 @@ Updated 2026-11-23 02:17:11. Labels: finished / in progress / no audio / failed 
 | economics/econ-supply-demand | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 19:30:59 |  |
 | economics/econ-systems | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 19:42:59 |  |
 | economics/econ-trade | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:49 |  |
-| geography/africa-asia | in progress | 248 | 0 | 9 | 0 | 0 | 2026-11-23 02:14:13 |  |
+| geography/africa-asia | finished | 257 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:15 |  |
 | geography/americas | finished | 241 | 0 | 0 | 0 | 0 | 2026-11-23 02:17:10 |  |
 | geography/asia-regional-studies | in progress | 469 | 0 | 39 | 0 | 0 | 2026-11-23 02:14:07 |  |
 | geography/climate-regions | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:45 |  |
