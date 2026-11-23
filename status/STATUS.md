@@ -1,45 +1,45 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 01:57:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:59:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | finished | 1335 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:07 |  |
 | china/ancient-engineering | finished | 331 | 0 | 0 | 0 | 0 | 2026-11-23 01:41:20 |  |
-| china/ancient-science | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:30 |  |
+| china/ancient-science | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:30 | 2026-11-23 01:59:40 |
 | china/beijing-capital | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:29 |  |
 | china/china-space | finished | 426 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:35 |  |
 | china/chinese-spirit | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:35 |  |
-| china/climate-rivers | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:04 |  |
-| china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 |  |
+| china/climate-rivers | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:04 | 2026-11-23 01:59:39 |
+| china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 | 2026-11-23 01:59:41 |
 | china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 |  |
 | china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 |  |
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 |  |
-| china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 |  |
+| china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
 | china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 |  |
 | china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 |  |
-| china/megaprojects | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:36 |  |
+| china/megaprojects | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:36 | 2026-11-23 01:59:40 |
 | china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:19 |  |
 | china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:26 |  |
-| china/natural-wonders | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:38 |  |
+| china/natural-wonders | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:38 | 2026-11-23 01:59:40 |
 | china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 |  |
 | china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 |  |
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 |  |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 |  |
-| china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 |  |
+| china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 | 2026-11-23 01:59:41 |
 | china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 |  |
-| china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 |  |
+| china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 | 2026-11-23 01:59:41 |
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:15 |  |
 | china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 |  |
 | china/silk-road-explorers | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:39:19 |  |
 | china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:47 |  |
 | china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 |  |
 | china/strategy-battles | finished | 476 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:36 |  |
-| china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:17 |  |
+| china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:17 | 2026-11-23 01:59:39 |
 | china/taiwan-hkm | finished | 406 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:02 |  |
-| china/terrain | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:43 |  |
+| china/terrain | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:43 | 2026-11-23 01:59:41 |
 | china/territory | finished | 314 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:22 |  |
-| china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 |  |
+| china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 | 2026-11-23 01:59:41 |
 | china/unity-diplomacy | finished | 384 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:07 |  |
 | china/xia-shang-zhou | finished | 429 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:16 |  |
 | economics/econ-growth | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 19:46:19 |  |
@@ -61,7 +61,7 @@ Updated 2026-11-23 01:57:13. Labels: finished / in progress / no audio / failed 
 | geography/polar-regions | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-22 18:54:12 |  |
 | geography/population | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 18:51:01 |  |
 | geography/settlements-development | finished | 242 | 0 | 0 | 0 | 0 | 2026-11-22 18:50:47 |  |
-| geography/time-zones | in progress | 2929 | 77 | 973 | 0 | 0 | 2026-11-23 01:57:13 |  |
+| geography/time-zones | in progress | 2999 | 72 | 908 | 0 | 0 | 2026-11-23 01:59:51 |  |
 | geography/world-religions | finished | 277 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:50 |  |
 | georgia/ga-20th | finished | 202 | 0 | 0 | 0 | 0 | 2026-11-22 19:16:08 |  |
 | georgia/ga-civilrights | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:44 |  |

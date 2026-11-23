@@ -68,7 +68,7 @@
    "zh": "古代科技：地震、星空与数学"
   },
   "updated": "2026-11-23 01:21:30",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "china/beijing-capital": {
   "counts": {
@@ -164,7 +164,7 @@
    "zh": "中国的气候与河流"
   },
   "updated": "2026-11-23 01:21:04",
-  "verified": ""
+  "verified": "2026-11-23 01:59:39"
  },
  "china/disasters": {
   "counts": {
@@ -188,7 +188,7 @@
    "zh": "自然灾害：地震、台风与沙尘暴"
   },
   "updated": "2026-11-23 01:22:06",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "china/division-integration": {
   "counts": {
@@ -284,7 +284,7 @@
    "zh": "中国的经济发展：交通、农业与工业"
   },
   "updated": "2026-11-23 01:21:59",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "china/great-wall": {
   "counts": {
@@ -356,7 +356,7 @@
    "zh": "超级工程：大桥、铁路与管道"
   },
   "updated": "2026-11-23 01:21:36",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "china/ming-qing": {
   "counts": {
@@ -428,7 +428,7 @@
    "zh": "中国的自然奇观：它们是怎样形成的"
   },
   "updated": "2026-11-23 01:21:38",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "china/new-era": {
   "counts": {
@@ -548,7 +548,7 @@
    "zh": "秦汉：统一多民族国家的建立和巩固"
   },
   "updated": "2026-11-23 01:22:22",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "china/reform-opening": {
   "counts": {
@@ -596,7 +596,7 @@
    "zh": "中国的四大地理区域"
   },
   "updated": "2026-11-23 01:22:10",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "china/revolution": {
   "counts": {
@@ -764,7 +764,7 @@
    "zh": "隋唐：繁荣与开放的时代"
   },
   "updated": "2026-11-23 01:21:17",
-  "verified": ""
+  "verified": "2026-11-23 01:59:39"
  },
  "china/taiwan-hkm": {
   "counts": {
@@ -812,7 +812,7 @@
    "zh": "中国的地形与地势：三级阶梯"
   },
   "updated": "2026-11-23 01:22:43",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "china/territory": {
   "counts": {
@@ -860,7 +860,7 @@
    "zh": "长江与三峡工程"
   },
   "updated": "2026-11-23 01:22:13",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "china/unity-diplomacy": {
   "counts": {
@@ -1351,11 +1351,11 @@
  },
  "geography/time-zones": {
   "counts": {
-   "done": 2929,
+   "done": 2999,
    "failed": 0,
    "held": 0,
-   "missing": 973,
-   "old": 77,
+   "missing": 908,
+   "old": 72,
    "total": 3979
   },
   "fingerprint": "56c679846449",
@@ -1370,7 +1370,7 @@
    "en": "Time Zones",
    "zh": "时区"
   },
-  "updated": "2026-11-23 01:57:13",
+  "updated": "2026-11-23 01:59:51",
   "verified": ""
  },
  "geography/world-religions": {
