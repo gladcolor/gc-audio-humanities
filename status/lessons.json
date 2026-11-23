@@ -839,15 +839,15 @@
  },
  "china/three-gorges": {
   "counts": {
-   "done": 252,
+   "done": 275,
    "failed": 0,
    "held": 0,
-   "missing": 23,
+   "missing": 0,
    "old": 0,
    "total": 275
   },
   "fingerprint": "42c1431461df",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/three-gorges.html",
   "record_demand": true,
   "record_langs": [
@@ -858,7 +858,7 @@
    "en": "The Yangtze & the Three Gorges Dam",
    "zh": "长江与三峡工程"
   },
-  "updated": "2026-11-23 01:15:40",
+  "updated": "2026-11-23 01:22:13",
   "verified": ""
  },
  "china/unity-diplomacy": {
