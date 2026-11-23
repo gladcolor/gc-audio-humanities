@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:44:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:44:41. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -102,7 +102,7 @@ Updated 2026-11-23 04:44:38. Labels: finished / in progress / no audio / failed 
 | ushistory/us-industrial | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:19 |  |
 | ushistory/us-modern | finished | 368 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:26 |  |
 | ushistory/us-worldwars | finished | 474 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:05 |  |
-| worldhistory/africa-americas-before-1500 | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:53 |  |
+| worldhistory/africa-americas-before-1500 | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:41 |  |
 | worldhistory/industrialization-reform | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:21 | 2026-11-23 03:12:33 |
 | worldhistory/russian-revolution-ussr | finished | 482 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:55 |  |
 | worldhistory/wh-cold-war | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:48 |  |
