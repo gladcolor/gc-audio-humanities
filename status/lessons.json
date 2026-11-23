@@ -1369,15 +1369,15 @@
  },
  "geography/time-zones": {
   "counts": {
-   "done": 3979,
+   "done": 3958,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 21,
    "total": 3979
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "56c679846449",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/time-zones.html",
   "record_demand": true,
   "record_langs": [
@@ -1388,7 +1388,7 @@
    "en": "Time Zones",
    "zh": "时区"
   },
-  "updated": "2026-11-23 02:33:23",
+  "updated": "2026-11-23 04:46:23",
   "verified": ""
  },
  "geography/world-religions": {
