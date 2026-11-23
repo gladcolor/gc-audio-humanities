@@ -264,25 +264,26 @@
  },
  "china/economy": {
   "counts": {
-   "done": 99,
+   "done": 190,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 99
+   "total": 190
   },
-  "fingerprint": "",
+  "fingerprint": "a19dbd7e1201",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/economy.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "China’s Economy: Transport, Agriculture & Industry",
    "zh": "中国的经济发展：交通、农业与工业"
   },
-  "updated": "2026-11-22 17:48:25",
+  "updated": "2026-11-23 01:21:59",
   "verified": ""
  },
  "china/great-wall": {
