@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:39:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:39:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -60,7 +60,7 @@ Updated 2026-11-23 04:39:28. Labels: finished / in progress / no audio / failed 
 | geography/map-projections | finished | 196 | 0 | 0 | 0 | 0 | 2026-11-23 02:09:21 |  |
 | geography/polar-regions | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:54 |  |
 | geography/population | finished | 386 | 0 | 0 | 0 | 0 | 2026-11-23 02:22:37 |  |
-| geography/settlements-development | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:31 |  |
+| geography/settlements-development | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:31 | 2026-11-23 04:39:34 |
 | geography/time-zones | finished | 3979 | 0 | 0 | 0 | 0 | 2026-11-23 02:33:23 |  |
 | geography/world-religions | finished | 582 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:05 |  |
 | georgia/ga-20th | finished | 388 | 0 | 0 | 0 | 0 | 2026-11-23 02:59:48 |  |
@@ -75,7 +75,7 @@ Updated 2026-11-23 04:39:28. Labels: finished / in progress / no audio / failed 
 | georgia/ga-removal | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:52 |  |
 | georgia/ga-revolution | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:57 |  |
 | politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 |  |
-| politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 |  |
+| politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:44 |  |
 | politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 |  |
 | politics/development | finished | 250 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:03 |  |
 | politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 |  |
