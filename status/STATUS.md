@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:33:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:33:43. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -96,7 +96,7 @@ Updated 2026-11-23 02:33:23. Labels: finished / in progress / no audio / failed 
 | spanish/sp-tener-venir | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:09 |  |
 | ushistory/us-civilrights | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-22 19:28:37 |  |
 | ushistory/us-civilwar | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:12 |  |
-| ushistory/us-colonies | finished | 272 | 0 | 0 | 0 | 0 | 2026-11-22 19:12:25 |  |
+| ushistory/us-colonies | in progress | 294 | 17 | 122 | 0 | 0 | 2026-11-23 02:33:43 |  |
 | ushistory/us-constitution | finished | 245 | 0 | 0 | 0 | 0 | 2026-11-22 19:23:23 |  |
 | ushistory/us-expansion | finished | 206 | 0 | 0 | 0 | 0 | 2026-11-22 19:14:47 |  |
 | ushistory/us-industrial | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-22 19:21:02 |  |
