@@ -879,11 +879,11 @@
  },
  "china/xia-shang-zhou": {
   "counts": {
-   "done": 388,
+   "done": 413,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 41,
+   "old": 16,
    "total": 429
   },
   "fingerprint": "84c2d56ba29c",
@@ -898,7 +898,7 @@
    "en": "Xia, Shang & Zhou: The Bronze Age",
    "zh": "夏商周：早期国家与青铜文明"
   },
-  "updated": "2026-11-23 00:59:58",
+  "updated": "2026-11-23 01:08:48",
   "verified": ""
  },
  "economics/econ-growth": {
