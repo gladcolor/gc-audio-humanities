@@ -2496,11 +2496,11 @@
  },
  "worldhistory/wh-india-persia": {
   "counts": {
-   "done": 302,
+   "done": 356,
    "failed": 0,
    "held": 0,
-   "missing": 223,
-   "old": 13,
+   "missing": 173,
+   "old": 9,
    "total": 538
   },
   "fingerprint": "b062ee9b037b",
@@ -2515,7 +2515,7 @@
    "en": "Ancient India & Persia",
    "zh": "古印度与古波斯"
   },
-  "updated": "2026-11-23 02:46:59",
+  "updated": "2026-11-23 02:48:02",
   "verified": ""
  },
  "worldhistory/wh-middle-ages": {
