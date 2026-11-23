@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:53:30. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:53:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -107,7 +107,7 @@ Updated 2026-11-23 02:53:30. Labels: finished / in progress / no audio / failed 
 | worldhistory/russian-revolution-ussr | finished | 482 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:13 |  |
 | worldhistory/wh-cold-war | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 19:30:52 |  |
 | worldhistory/wh-exploration | in progress | 168 | 1 | 75 | 0 | 0 | 2026-11-23 02:48:37 |  |
-| worldhistory/wh-first-civilizations | in progress | 195 | 0 | 38 | 0 | 0 | 2026-11-23 02:49:33 |  |
+| worldhistory/wh-first-civilizations | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:37 |  |
 | worldhistory/wh-greece-rome | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-22 19:29:34 |  |
 | worldhistory/wh-india-persia | in progress | 487 | 2 | 49 | 0 | 0 | 2026-11-23 02:49:46 |  |
 | worldhistory/wh-middle-ages | in progress | 355 | 0 | 9 | 0 | 0 | 2026-11-23 02:52:08 |  |
