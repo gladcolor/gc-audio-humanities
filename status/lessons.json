@@ -623,15 +623,15 @@
  },
  "china/seas-islands": {
   "counts": {
-   "done": 213,
+   "done": 231,
    "failed": 0,
    "held": 0,
-   "missing": 18,
+   "missing": 0,
    "old": 0,
    "total": 231
   },
   "fingerprint": "6d540a71c946",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/seas-islands.html",
   "record_demand": true,
   "record_langs": [
@@ -642,7 +642,7 @@
    "en": "China’s Seas & Islands",
    "zh": "中国的海洋与岛屿"
   },
-  "updated": "2026-11-23 01:18:57",
+  "updated": "2026-11-23 01:23:54",
   "verified": ""
  },
  "china/silk-road-explorers": {
