@@ -2329,15 +2329,15 @@
  },
  "ushistory/us-worldwars": {
   "counts": {
-   "done": 473,
+   "done": 474,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 1,
+   "old": 0,
    "total": 474
   },
   "fingerprint": "50e0b2a77edc",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-worldwars.html",
   "record_demand": true,
   "record_langs": [
@@ -2348,7 +2348,7 @@
    "en": "World Wars & the Great Depression",
    "zh": "两次世界大战与大萧条"
   },
-  "updated": "2026-11-23 04:41:37",
+  "updated": "2026-11-23 04:43:05",
   "verified": ""
  },
  "worldhistory/africa-americas-before-1500": {
