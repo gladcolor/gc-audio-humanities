@@ -1121,10 +1121,10 @@
  },
  "geography/asia-regional-studies": {
   "counts": {
-   "done": 269,
+   "done": 309,
    "failed": 0,
    "held": 0,
-   "missing": 239,
+   "missing": 199,
    "old": 0,
    "total": 508
   },
@@ -1140,7 +1140,7 @@
    "en": "Asia: Regions & Key Countries",
    "zh": "亚洲分区与典型国家"
   },
-  "updated": "2026-11-23 02:12:22",
+  "updated": "2026-11-23 02:13:01",
   "verified": ""
  },
  "geography/climate-regions": {
