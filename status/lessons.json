@@ -912,25 +912,26 @@
  },
  "economics/econ-growth": {
   "counts": {
-   "done": 203,
+   "done": 347,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 203
+   "missing": 63,
+   "old": 5,
+   "total": 415
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "d92531fcfda0",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/economics/econ-growth.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "What Makes Economies Grow",
    "zh": "经济增长的动力"
   },
-  "updated": "2026-11-22 19:46:19",
+  "updated": "2026-11-23 02:54:46",
   "verified": ""
  },
  "economics/econ-personal-finance": {
