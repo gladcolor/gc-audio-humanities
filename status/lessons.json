@@ -932,7 +932,7 @@
    "zh": "经济增长的动力"
   },
   "updated": "2026-11-23 03:00:21",
-  "verified": ""
+  "verified": "2026-11-23 03:26:28"
  },
  "economics/econ-personal-finance": {
   "counts": {
@@ -956,7 +956,7 @@
    "zh": "个人理财"
   },
   "updated": "2026-11-23 03:00:38",
-  "verified": ""
+  "verified": "2026-11-23 03:26:28"
  },
  "economics/econ-scarcity": {
   "counts": {
@@ -980,7 +980,7 @@
    "zh": "稀缺性与机会成本"
   },
   "updated": "2026-11-23 02:54:24",
-  "verified": ""
+  "verified": "2026-11-23 03:18:40"
  },
  "economics/econ-specialization": {
   "counts": {
@@ -1004,7 +1004,7 @@
    "zh": "专业化分工与贸易：西南亚、亚洲与非洲"
   },
   "updated": "2026-11-23 03:02:35",
-  "verified": ""
+  "verified": "2026-11-23 03:29:11"
  },
  "economics/econ-supply-demand": {
   "counts": {
@@ -1028,7 +1028,7 @@
    "zh": "供给、需求与价格"
   },
   "updated": "2026-11-23 02:55:08",
-  "verified": ""
+  "verified": "2026-11-23 03:19:31"
  },
  "economics/econ-systems": {
   "counts": {
@@ -1052,7 +1052,7 @@
    "zh": "经济体制"
   },
   "updated": "2026-11-23 02:57:00",
-  "verified": ""
+  "verified": "2026-11-23 03:23:13"
  },
  "economics/econ-trade": {
   "counts": {
@@ -1076,7 +1076,7 @@
    "zh": "贸易、关税与货币"
   },
   "updated": "2026-11-23 03:01:20",
-  "verified": ""
+  "verified": "2026-11-23 03:29:10"
  },
  "geography/africa-asia": {
   "counts": {
@@ -1436,7 +1436,7 @@
    "zh": "世界大战、大萧条与新政"
   },
   "updated": "2026-11-23 02:59:48",
-  "verified": ""
+  "verified": "2026-11-23 03:26:28"
  },
  "georgia/ga-civilrights": {
   "counts": {
@@ -1460,7 +1460,7 @@
    "zh": "佐治亚州的民权运动"
   },
   "updated": "2026-11-23 02:59:56",
-  "verified": ""
+  "verified": "2026-11-23 03:26:28"
  },
  "georgia/ga-civilwar": {
   "counts": {
@@ -1484,7 +1484,7 @@
    "zh": "南北战争中的佐治亚"
   },
   "updated": "2026-11-23 02:49:15",
-  "verified": ""
+  "verified": "2026-11-23 03:12:25"
  },
  "georgia/ga-colony": {
   "counts": {
@@ -1508,7 +1508,7 @@
    "zh": "佐治亚殖民地的建立"
   },
   "updated": "2026-11-23 02:56:15",
-  "verified": ""
+  "verified": "2026-11-23 03:21:41"
  },
  "georgia/ga-geography": {
   "counts": {
@@ -1532,7 +1532,7 @@
    "zh": "佐治亚州的地理与五大地区"
   },
   "updated": "2026-11-23 02:55:54",
-  "verified": ""
+  "verified": "2026-11-23 03:21:41"
  },
  "georgia/ga-government": {
   "counts": {
@@ -1556,7 +1556,7 @@
    "zh": "佐治亚州政府与公民"
   },
   "updated": "2026-11-23 02:56:32",
-  "verified": ""
+  "verified": "2026-11-23 03:23:59"
  },
  "georgia/ga-modern": {
   "counts": {
@@ -1580,7 +1580,7 @@
    "zh": "现代佐治亚州"
   },
   "updated": "2026-11-23 02:52:15",
-  "verified": ""
+  "verified": "2026-11-23 03:14:20"
  },
  "georgia/ga-native": {
   "counts": {
@@ -1604,7 +1604,7 @@
    "zh": "佐治亚州的美洲原住民"
   },
   "updated": "2026-11-23 02:56:23",
-  "verified": ""
+  "verified": "2026-11-23 03:21:42"
  },
  "georgia/ga-reconstruction": {
   "counts": {
@@ -1628,7 +1628,7 @@
    "zh": "重建时期与“新南方”"
   },
   "updated": "2026-11-23 02:57:43",
-  "verified": ""
+  "verified": "2026-11-23 03:23:13"
  },
  "georgia/ga-removal": {
   "counts": {
@@ -1652,7 +1652,7 @@
    "zh": "土地、黄金与切罗基人迁移"
   },
   "updated": "2026-11-23 02:52:52",
-  "verified": ""
+  "verified": "2026-11-23 03:15:48"
  },
  "georgia/ga-revolution": {
   "counts": {
@@ -1676,7 +1676,7 @@
    "zh": "独立战争与早期州政"
   },
   "updated": "2026-11-23 02:51:57",
-  "verified": ""
+  "verified": "2026-11-23 03:14:33"
  },
  "politics/china-world": {
   "counts": {
@@ -1989,26 +1989,27 @@
  },
  "spanish/sp-greetings": {
   "counts": {
-   "done": 78,
+   "done": 116,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 60,
    "old": 0,
-   "total": 78
+   "total": 176
   },
   "fingerprint": "5ab1c6292a6c",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/spanish/sp-greetings.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Greetings, Numbers & the Calendar",
    "zh": "问候、数字与日历"
   },
-  "updated": "2026-11-22 20:14:07",
-  "verified": "2026-11-22 20:19:53"
+  "updated": "2026-11-23 03:29:57",
+  "verified": ""
  },
  "spanish/sp-gustar": {
   "counts": {
@@ -2170,7 +2171,7 @@
    "zh": "民权运动"
   },
   "updated": "2026-11-23 03:02:16",
-  "verified": ""
+  "verified": "2026-11-23 03:29:10"
  },
  "ushistory/us-civilwar": {
   "counts": {
@@ -2194,7 +2195,7 @@
    "zh": "南北战争与重建"
   },
   "updated": "2026-11-23 02:51:27",
-  "verified": ""
+  "verified": "2026-11-23 03:13:22"
  },
  "ushistory/us-colonies": {
   "counts": {
@@ -2218,7 +2219,7 @@
    "zh": "殖民地与美国独立战争"
   },
   "updated": "2026-11-23 02:54:08",
-  "verified": ""
+  "verified": "2026-11-23 03:18:09"
  },
  "ushistory/us-constitution": {
   "counts": {
@@ -2242,7 +2243,7 @@
    "zh": "美国宪法与《权利法案》"
   },
   "updated": "2026-11-23 02:58:53",
-  "verified": ""
+  "verified": "2026-11-23 03:24:31"
  },
  "ushistory/us-expansion": {
   "counts": {
@@ -2266,7 +2267,7 @@
    "zh": "西进运动"
   },
   "updated": "2026-11-23 02:46:26",
-  "verified": ""
+  "verified": "2026-11-23 03:12:24"
  },
  "ushistory/us-industrial": {
   "counts": {
@@ -2290,7 +2291,7 @@
    "zh": "发明、工业与移民"
   },
   "updated": "2026-11-23 02:55:19",
-  "verified": ""
+  "verified": "2026-11-23 03:19:31"
  },
  "ushistory/us-modern": {
   "counts": {
@@ -2314,7 +2315,7 @@
    "zh": "从冷战到今天"
   },
   "updated": "2026-11-23 02:53:44",
-  "verified": ""
+  "verified": "2026-11-23 03:16:24"
  },
  "ushistory/us-worldwars": {
   "counts": {
@@ -2338,7 +2339,7 @@
    "zh": "两次世界大战与大萧条"
   },
   "updated": "2026-11-23 02:55:15",
-  "verified": ""
+  "verified": "2026-11-23 03:20:19"
  },
  "worldhistory/africa-americas-before-1500": {
   "counts": {
@@ -2362,7 +2363,7 @@
    "zh": "古代非洲与美洲文明"
   },
   "updated": "2026-11-23 02:53:53",
-  "verified": ""
+  "verified": "2026-11-23 03:17:49"
  },
  "worldhistory/industrialization-reform": {
   "counts": {
@@ -2386,7 +2387,7 @@
    "zh": "工业革命、工人运动与近代改革"
   },
   "updated": "2026-11-23 02:50:21",
-  "verified": ""
+  "verified": "2026-11-23 03:12:33"
  },
  "worldhistory/russian-revolution-ussr": {
   "counts": {
@@ -2410,7 +2411,7 @@
    "zh": "俄国十月革命与苏联的建设"
   },
   "updated": "2026-11-23 02:53:13",
-  "verified": ""
+  "verified": "2026-11-23 03:15:59"
  },
  "worldhistory/wh-cold-war": {
   "counts": {
@@ -2434,7 +2435,7 @@
    "zh": "冷战与民族独立运动"
   },
   "updated": "2026-11-23 02:56:48",
-  "verified": ""
+  "verified": "2026-11-23 03:22:58"
  },
  "worldhistory/wh-exploration": {
   "counts": {
@@ -2458,7 +2459,7 @@
    "zh": "大航海时代"
   },
   "updated": "2026-11-23 02:54:03",
-  "verified": ""
+  "verified": "2026-11-23 03:17:49"
  },
  "worldhistory/wh-first-civilizations": {
   "counts": {
@@ -2482,7 +2483,7 @@
    "zh": "最早的文明：美索不达米亚与古埃及"
   },
   "updated": "2026-11-23 02:53:37",
-  "verified": ""
+  "verified": "2026-11-23 03:15:12"
  },
  "worldhistory/wh-greece-rome": {
   "counts": {
@@ -2506,7 +2507,7 @@
    "zh": "古希腊与古罗马"
   },
   "updated": "2026-11-23 02:58:45",
-  "verified": ""
+  "verified": "2026-11-23 03:24:16"
  },
  "worldhistory/wh-india-persia": {
   "counts": {
@@ -2530,7 +2531,7 @@
    "zh": "古印度与古波斯"
   },
   "updated": "2026-11-23 02:55:32",
-  "verified": ""
+  "verified": "2026-11-23 03:21:41"
  },
  "worldhistory/wh-middle-ages": {
   "counts": {
@@ -2554,7 +2555,7 @@
    "zh": "中世纪与伊斯兰黄金时代"
   },
   "updated": "2026-11-23 02:54:12",
-  "verified": ""
+  "verified": "2026-11-23 03:18:09"
  },
  "worldhistory/wh-renaissance": {
   "counts": {
@@ -2578,7 +2579,7 @@
    "zh": "文艺复兴与宗教改革"
   },
   "updated": "2026-11-23 02:54:20",
-  "verified": ""
+  "verified": "2026-11-23 03:18:37"
  },
  "worldhistory/wh-revolutions": {
   "counts": {
@@ -2602,7 +2603,7 @@
    "zh": "革命：科学、政治与工业"
   },
   "updated": "2026-11-23 03:05:19",
-  "verified": ""
+  "verified": "2026-11-23 03:29:11"
  },
  "worldhistory/wh-today": {
   "counts": {
@@ -2626,7 +2627,7 @@
    "zh": "相互联系的世界"
   },
   "updated": "2026-11-23 02:52:35",
-  "verified": ""
+  "verified": "2026-11-23 03:14:20"
  },
  "worldhistory/wh-world-wars": {
   "counts": {
@@ -2650,6 +2651,6 @@
    "zh": "两次世界大战与大屠杀"
   },
   "updated": "2026-11-23 02:50:17",
-  "verified": ""
+  "verified": "2026-11-23 03:11:24"
  }
 }

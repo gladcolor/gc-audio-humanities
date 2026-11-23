@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 03:05:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:29:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -42,13 +42,13 @@ Updated 2026-11-23 03:05:19. Labels: finished / in progress / no audio / failed 
 | china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 | 2026-11-23 01:59:41 |
 | china/unity-diplomacy | finished | 384 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:07 | 2026-11-23 02:16:04 |
 | china/xia-shang-zhou | finished | 429 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:16 | 2026-11-23 02:20:25 |
-| economics/econ-growth | finished | 415 | 0 | 0 | 0 | 0 | 2026-11-23 03:00:21 |  |
-| economics/econ-personal-finance | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 03:00:38 |  |
-| economics/econ-scarcity | finished | 325 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:24 |  |
-| economics/econ-specialization | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:35 |  |
-| economics/econ-supply-demand | finished | 301 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:08 |  |
-| economics/econ-systems | finished | 415 | 0 | 0 | 0 | 0 | 2026-11-23 02:57:00 |  |
-| economics/econ-trade | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 03:01:20 |  |
+| economics/econ-growth | finished | 415 | 0 | 0 | 0 | 0 | 2026-11-23 03:00:21 | 2026-11-23 03:26:28 |
+| economics/econ-personal-finance | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 03:00:38 | 2026-11-23 03:26:28 |
+| economics/econ-scarcity | finished | 325 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:24 | 2026-11-23 03:18:40 |
+| economics/econ-specialization | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:35 | 2026-11-23 03:29:11 |
+| economics/econ-supply-demand | finished | 301 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:08 | 2026-11-23 03:19:31 |
+| economics/econ-systems | finished | 415 | 0 | 0 | 0 | 0 | 2026-11-23 02:57:00 | 2026-11-23 03:23:13 |
+| economics/econ-trade | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 03:01:20 | 2026-11-23 03:29:10 |
 | geography/africa-asia | finished | 257 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:15 |  |
 | geography/americas | finished | 241 | 0 | 0 | 0 | 0 | 2026-11-23 02:17:10 |  |
 | geography/asia-regional-studies | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:44 |  |
@@ -63,17 +63,17 @@ Updated 2026-11-23 03:05:19. Labels: finished / in progress / no audio / failed 
 | geography/settlements-development | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:31 |  |
 | geography/time-zones | finished | 3979 | 0 | 0 | 0 | 0 | 2026-11-23 02:33:23 |  |
 | geography/world-religions | finished | 582 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:05 |  |
-| georgia/ga-20th | finished | 388 | 0 | 0 | 0 | 0 | 2026-11-23 02:59:48 |  |
-| georgia/ga-civilrights | finished | 473 | 0 | 0 | 0 | 0 | 2026-11-23 02:59:56 |  |
-| georgia/ga-civilwar | finished | 446 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:15 |  |
-| georgia/ga-colony | finished | 260 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:15 |  |
-| georgia/ga-geography | finished | 262 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:54 |  |
-| georgia/ga-government | finished | 660 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:32 |  |
-| georgia/ga-modern | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:15 |  |
-| georgia/ga-native | finished | 263 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:23 |  |
-| georgia/ga-reconstruction | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 02:57:43 |  |
-| georgia/ga-removal | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:52 |  |
-| georgia/ga-revolution | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:57 |  |
+| georgia/ga-20th | finished | 388 | 0 | 0 | 0 | 0 | 2026-11-23 02:59:48 | 2026-11-23 03:26:28 |
+| georgia/ga-civilrights | finished | 473 | 0 | 0 | 0 | 0 | 2026-11-23 02:59:56 | 2026-11-23 03:26:28 |
+| georgia/ga-civilwar | finished | 446 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:15 | 2026-11-23 03:12:25 |
+| georgia/ga-colony | finished | 260 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:15 | 2026-11-23 03:21:41 |
+| georgia/ga-geography | finished | 262 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:54 | 2026-11-23 03:21:41 |
+| georgia/ga-government | finished | 660 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:32 | 2026-11-23 03:23:59 |
+| georgia/ga-modern | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:15 | 2026-11-23 03:14:20 |
+| georgia/ga-native | finished | 263 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:23 | 2026-11-23 03:21:42 |
+| georgia/ga-reconstruction | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 02:57:43 | 2026-11-23 03:23:13 |
+| georgia/ga-removal | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:52 | 2026-11-23 03:15:48 |
+| georgia/ga-revolution | finished | 515 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:57 | 2026-11-23 03:14:33 |
 | politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 | 2026-11-23 02:12:11 |
 | politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 | 2026-11-23 02:12:12 |
 | politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 | 2026-11-23 02:15:24 |
@@ -87,31 +87,31 @@ Updated 2026-11-23 03:05:19. Labels: finished / in progress / no audio / failed 
 | spanish/sp-adjectives | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:06 | 2026-11-22 20:20:30 |
 | spanish/sp-alphabet | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:19 |  |
 | spanish/sp-family | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 20:06:21 | 2026-11-22 20:10:02 |
-| spanish/sp-greetings | finished | 78 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:07 | 2026-11-22 20:19:53 |
+| spanish/sp-greetings | in progress | 116 | 0 | 60 | 0 | 0 | 2026-11-23 03:29:57 |  |
 | spanish/sp-gustar | finished | 50 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:50 |  |
 | spanish/sp-hispanic-world | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:06 |  |
 | spanish/sp-nouns-articles | finished | 84 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:43 | 2026-11-22 20:20:30 |
 | spanish/sp-pronouns-ser | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:02 |  |
 | spanish/sp-questions | finished | 57 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:36 | 2026-11-22 20:19:53 |
 | spanish/sp-tener-venir | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:09 |  |
-| ushistory/us-civilrights | finished | 401 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:16 |  |
-| ushistory/us-civilwar | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:27 |  |
-| ushistory/us-colonies | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:08 |  |
-| ushistory/us-constitution | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-23 02:58:53 |  |
-| ushistory/us-expansion | finished | 407 | 0 | 0 | 0 | 0 | 2026-11-23 02:46:26 |  |
-| ushistory/us-industrial | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:19 |  |
-| ushistory/us-modern | finished | 368 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:44 |  |
-| ushistory/us-worldwars | finished | 474 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:15 |  |
-| worldhistory/africa-americas-before-1500 | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:53 |  |
-| worldhistory/industrialization-reform | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:21 |  |
-| worldhistory/russian-revolution-ussr | finished | 482 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:13 |  |
-| worldhistory/wh-cold-war | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:48 |  |
-| worldhistory/wh-exploration | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:03 |  |
-| worldhistory/wh-first-civilizations | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:37 |  |
-| worldhistory/wh-greece-rome | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 02:58:45 |  |
-| worldhistory/wh-india-persia | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:32 |  |
-| worldhistory/wh-middle-ages | finished | 364 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:12 |  |
-| worldhistory/wh-renaissance | finished | 340 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:20 |  |
-| worldhistory/wh-revolutions | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 03:05:19 |  |
-| worldhistory/wh-today | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:35 |  |
-| worldhistory/wh-world-wars | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:17 |  |
+| ushistory/us-civilrights | finished | 401 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:16 | 2026-11-23 03:29:10 |
+| ushistory/us-civilwar | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:27 | 2026-11-23 03:13:22 |
+| ushistory/us-colonies | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:08 | 2026-11-23 03:18:09 |
+| ushistory/us-constitution | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-23 02:58:53 | 2026-11-23 03:24:31 |
+| ushistory/us-expansion | finished | 407 | 0 | 0 | 0 | 0 | 2026-11-23 02:46:26 | 2026-11-23 03:12:24 |
+| ushistory/us-industrial | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:19 | 2026-11-23 03:19:31 |
+| ushistory/us-modern | finished | 368 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:44 | 2026-11-23 03:16:24 |
+| ushistory/us-worldwars | finished | 474 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:15 | 2026-11-23 03:20:19 |
+| worldhistory/africa-americas-before-1500 | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:53 | 2026-11-23 03:17:49 |
+| worldhistory/industrialization-reform | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:21 | 2026-11-23 03:12:33 |
+| worldhistory/russian-revolution-ussr | finished | 482 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:13 | 2026-11-23 03:15:59 |
+| worldhistory/wh-cold-war | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:48 | 2026-11-23 03:22:58 |
+| worldhistory/wh-exploration | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:03 | 2026-11-23 03:17:49 |
+| worldhistory/wh-first-civilizations | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:37 | 2026-11-23 03:15:12 |
+| worldhistory/wh-greece-rome | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 02:58:45 | 2026-11-23 03:24:16 |
+| worldhistory/wh-india-persia | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:55:32 | 2026-11-23 03:21:41 |
+| worldhistory/wh-middle-ages | finished | 364 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:12 | 2026-11-23 03:18:09 |
+| worldhistory/wh-renaissance | finished | 340 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:20 | 2026-11-23 03:18:37 |
+| worldhistory/wh-revolutions | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 03:05:19 | 2026-11-23 03:29:11 |
+| worldhistory/wh-today | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 02:52:35 | 2026-11-23 03:14:20 |
+| worldhistory/wh-world-wars | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:17 | 2026-11-23 03:11:24 |
