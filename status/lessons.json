@@ -1759,11 +1759,11 @@
  },
  "politics/rights-duties": {
   "counts": {
-   "done": 221,
+   "done": 241,
    "failed": 0,
    "held": 0,
-   "missing": 149,
-   "old": 9,
+   "missing": 130,
+   "old": 8,
    "total": 379
   },
   "fingerprint": "e710b8f012cd",
@@ -1778,7 +1778,7 @@
    "en": "Citizens’ Rights & Duties",
    "zh": "理解权利义务"
   },
-  "updated": "2026-11-23 01:17:06",
+  "updated": "2026-11-23 01:17:15",
   "verified": ""
  },
  "politics/rule-of-law": {
