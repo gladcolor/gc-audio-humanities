@@ -1860,26 +1860,27 @@
  },
  "politics/youth-emotions": {
   "counts": {
-   "done": 252,
+   "done": 430,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 68,
    "old": 0,
-   "total": 252
+   "total": 498
   },
   "fingerprint": "df770ad30bcf",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/politics/youth-emotions.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Growing Up: Adolescence & Emotions",
    "zh": "青春时光与情绪"
   },
-  "updated": "2026-11-22 18:27:51",
-  "verified": "2026-11-22 18:48:12"
+  "updated": "2026-11-23 01:21:49",
+  "verified": ""
  },
  "spanish/sp-adjectives": {
   "counts": {
