@@ -1782,25 +1782,26 @@
  },
  "politics/rule-of-law": {
   "counts": {
-   "done": 98,
+   "done": 99,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 98
+   "missing": 97,
+   "old": 3,
+   "total": 199
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "b8a0e67d5812",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/politics/rule-of-law.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Rule of Law",
    "zh": "走进法治天地 · 建设法治中国"
   },
-  "updated": "2026-11-22 18:01:24",
+  "updated": "2026-11-23 01:16:43",
   "verified": ""
  },
  "politics/state-organs": {
