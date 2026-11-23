@@ -1455,11 +1455,11 @@
  },
  "georgia/ga-civilwar": {
   "counts": {
-   "done": 326,
+   "done": 386,
    "failed": 0,
    "held": 0,
-   "missing": 116,
-   "old": 4,
+   "missing": 57,
+   "old": 3,
    "total": 446
   },
   "fingerprint": "be24170b587e",
@@ -1474,7 +1474,7 @@
    "en": "Georgia in the Civil War",
    "zh": "南北战争中的佐治亚"
   },
-  "updated": "2026-11-23 02:27:23",
+  "updated": "2026-11-23 02:27:50",
   "verified": ""
  },
  "georgia/ga-colony": {
