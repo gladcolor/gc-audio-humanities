@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:47:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:47:30. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Updated 2026-11-23 04:47:14. Labels: finished / in progress / no audio / failed 
 | geography/latitude-longitude | finished | 2616 | 0 | 0 | 0 | 0 | 2026-11-23 01:55:55 |  |
 | geography/map-projections | finished | 196 | 0 | 0 | 0 | 0 | 2026-11-23 04:40:02 |  |
 | geography/polar-regions | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:52 |  |
-| geography/population | finished | 386 | 0 | 0 | 0 | 0 | 2026-11-23 02:22:37 |  |
+| geography/population | finished | 386 | 0 | 0 | 0 | 0 | 2026-11-23 04:47:30 |  |
 | geography/settlements-development | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:31 | 2026-11-23 04:39:34 |
 | geography/time-zones | in progress | 3958 | 21 | 0 | 0 | 0 | 2026-11-23 04:46:23 |  |
 | geography/world-religions | finished | 582 | 0 | 0 | 0 | 0 | 2026-11-23 04:42:55 |  |

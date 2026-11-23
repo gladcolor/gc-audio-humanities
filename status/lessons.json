@@ -1328,7 +1328,7 @@
    "old": 0,
    "total": 386
   },
-  "fingerprint": "",
+  "fingerprint": "fb1062c8442c",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/population.html",
   "record_demand": true,
@@ -1340,7 +1340,7 @@
    "en": "Population & Human Geography",
    "zh": "人口与人文地理"
   },
-  "updated": "2026-11-23 02:22:37",
+  "updated": "2026-11-23 04:47:30",
   "verified": ""
  },
  "geography/settlements-development": {
