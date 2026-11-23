@@ -72,11 +72,11 @@
  },
  "china/beijing-capital": {
   "counts": {
-   "done": 335,
+   "done": 349,
    "failed": 0,
    "held": 0,
-   "missing": 33,
-   "old": 5,
+   "missing": 22,
+   "old": 2,
    "total": 373
   },
   "fingerprint": "b23786c00271",
@@ -91,7 +91,7 @@
    "en": "Beijing: The Capital & Its Central Axis",
    "zh": "北京：祖国的首都与中轴线"
   },
-  "updated": "2026-11-23 01:18:32",
+  "updated": "2026-11-23 01:18:36",
   "verified": ""
  },
  "china/china-space": {
