@@ -2552,15 +2552,15 @@
  },
  "worldhistory/wh-renaissance": {
   "counts": {
-   "done": 320,
+   "done": 340,
    "failed": 0,
    "held": 0,
-   "missing": 20,
+   "missing": 0,
    "old": 0,
    "total": 340
   },
   "fingerprint": "baa035d4da76",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-renaissance.html",
   "record_demand": true,
   "record_langs": [
@@ -2571,7 +2571,7 @@
    "en": "Renaissance & Reformation",
    "zh": "文艺复兴与宗教改革"
   },
-  "updated": "2026-11-23 02:49:39",
+  "updated": "2026-11-23 02:54:20",
   "verified": ""
  },
  "worldhistory/wh-revolutions": {
