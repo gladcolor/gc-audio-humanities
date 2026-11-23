@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:50:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:50:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -114,4 +114,4 @@ Updated 2026-11-23 02:50:11. Labels: finished / in progress / no audio / failed 
 | worldhistory/wh-renaissance | in progress | 320 | 0 | 20 | 0 | 0 | 2026-11-23 02:49:39 |  |
 | worldhistory/wh-revolutions | in progress | 224 | 0 | 14 | 0 | 0 | 2026-11-23 02:50:05 |  |
 | worldhistory/wh-today | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:38 |  |
-| worldhistory/wh-world-wars | in progress | 134 | 1 | 102 | 0 | 0 | 2026-11-23 02:46:38 |  |
+| worldhistory/wh-world-wars | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:17 |  |
