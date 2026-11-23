@@ -2064,26 +2064,27 @@
  },
  "spanish/sp-nouns-articles": {
   "counts": {
-   "done": 84,
+   "done": 183,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 84
+   "total": 183
   },
   "fingerprint": "749fc565834b",
   "label": "finished",
   "page": "https://shanchuan.org/middle/spanish/sp-nouns-articles.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Nouns, Gender & Articles",
    "zh": "名词的阴阳性与冠词"
   },
-  "updated": "2026-11-22 20:14:43",
-  "verified": "2026-11-22 20:20:30"
+  "updated": "2026-11-23 03:57:46",
+  "verified": ""
  },
  "spanish/sp-pronouns-ser": {
   "counts": {

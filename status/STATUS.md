@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 03:57:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:57:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -90,7 +90,7 @@ Updated 2026-11-23 03:57:38. Labels: finished / in progress / no audio / failed 
 | spanish/sp-greetings | finished | 176 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:38 |  |
 | spanish/sp-gustar | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:17 |  |
 | spanish/sp-hispanic-world | finished | 242 | 0 | 0 | 0 | 0 | 2026-11-23 03:47:03 |  |
-| spanish/sp-nouns-articles | finished | 84 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:43 | 2026-11-22 20:20:30 |
+| spanish/sp-nouns-articles | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:46 |  |
 | spanish/sp-pronouns-ser | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:27 |  |
 | spanish/sp-questions | finished | 102 | 0 | 0 | 0 | 0 | 2026-11-23 03:48:38 |  |
 | spanish/sp-tener-venir | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:25 | 2026-11-23 03:41:06 |
