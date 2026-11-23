@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:14:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:14:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Updated 2026-11-23 02:14:19. Labels: finished / in progress / no audio / failed 
 | china/chinese-spirit | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:35 | 2026-11-23 02:12:10 |
 | china/climate-rivers | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:04 | 2026-11-23 01:59:39 |
 | china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 | 2026-11-23 01:59:41 |
-| china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 |  |
+| china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 | 2026-11-23 02:14:23 |
 | china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 |  |
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 |  |
 | china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
@@ -27,7 +27,7 @@ Updated 2026-11-23 02:14:19. Labels: finished / in progress / no audio / failed 
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 | 2026-11-23 02:12:09 |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 |  |
 | china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 | 2026-11-23 01:59:41 |
-| china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 |  |
+| china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 | 2026-11-23 02:14:23 |
 | china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 | 2026-11-23 01:59:41 |
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:15 |  |
 | china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 | 2026-11-23 02:12:11 |
@@ -55,7 +55,7 @@ Updated 2026-11-23 02:14:19. Labels: finished / in progress / no audio / failed 
 | geography/climate-regions | finished | 319 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:18 |  |
 | geography/continents-oceans | finished | 142 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:52 |  |
 | geography/europe-oceania | in progress | 129 | 1 | 99 | 0 | 0 | 2026-11-23 02:00:41 |  |
-| geography/landforms | in progress | 303 | 0 | 18 | 0 | 0 | 2026-11-23 02:09:53 |  |
+| geography/landforms | finished | 321 | 0 | 0 | 0 | 0 | 2026-11-23 02:14:45 |  |
 | geography/latitude-longitude | finished | 2616 | 0 | 0 | 0 | 0 | 2026-11-23 01:55:55 |  |
 | geography/map-projections | finished | 196 | 0 | 0 | 0 | 0 | 2026-11-23 02:09:21 |  |
 | geography/polar-regions | in progress | 439 | 0 | 9 | 0 | 0 | 2026-11-23 02:14:19 |  |
@@ -83,7 +83,7 @@ Updated 2026-11-23 02:14:19. Labels: finished / in progress / no audio / failed 
 | politics/rule-of-law | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:02 | 2026-11-23 02:12:11 |
 | politics/state-organs | finished | 440 | 0 | 0 | 0 | 0 | 2026-11-23 01:43:09 |  |
 | politics/state-system | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:51 | 2026-11-23 02:12:11 |
-| politics/youth-emotions | finished | 498 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:56 |  |
+| politics/youth-emotions | finished | 498 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:56 | 2026-11-23 02:14:23 |
 | spanish/sp-adjectives | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:06 | 2026-11-22 20:20:30 |
 | spanish/sp-alphabet | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:19 |  |
 | spanish/sp-family | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 20:06:21 | 2026-11-22 20:10:02 |
