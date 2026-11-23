@@ -1597,25 +1597,26 @@
  },
  "georgia/ga-reconstruction": {
   "counts": {
-   "done": 148,
+   "done": 149,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 148
+   "missing": 143,
+   "old": 3,
+   "total": 295
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "0613c97c11a1",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-reconstruction.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Reconstruction & the New South",
    "zh": "重建时期与“新南方”"
   },
-  "updated": "2026-11-22 19:11:09",
+  "updated": "2026-11-23 02:26:44",
   "verified": ""
  },
  "georgia/ga-removal": {
