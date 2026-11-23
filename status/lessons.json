@@ -2547,11 +2547,11 @@
  },
  "worldhistory/wh-renaissance": {
   "counts": {
-   "done": 236,
+   "done": 320,
    "failed": 0,
    "held": 0,
-   "missing": 103,
-   "old": 1,
+   "missing": 20,
+   "old": 0,
    "total": 340
   },
   "fingerprint": "baa035d4da76",
@@ -2566,7 +2566,7 @@
    "en": "Renaissance & Reformation",
    "zh": "文艺复兴与宗教改革"
   },
-  "updated": "2026-11-23 02:48:48",
+  "updated": "2026-11-23 02:49:39",
   "verified": ""
  },
  "worldhistory/wh-revolutions": {
