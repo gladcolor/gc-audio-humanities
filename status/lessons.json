@@ -1552,11 +1552,11 @@
  },
  "georgia/ga-modern": {
   "counts": {
-   "done": 187,
+   "done": 244,
    "failed": 0,
    "held": 0,
-   "missing": 96,
-   "old": 7,
+   "missing": 41,
+   "old": 5,
    "total": 290
   },
   "fingerprint": "2986b46dd331",
@@ -1571,7 +1571,7 @@
    "en": "Modern Georgia",
    "zh": "现代佐治亚州"
   },
-  "updated": "2026-11-23 02:31:44",
+  "updated": "2026-11-23 02:32:10",
   "verified": ""
  },
  "georgia/ga-native": {
