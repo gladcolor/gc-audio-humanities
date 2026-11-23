@@ -1213,11 +1213,11 @@
  },
  "geography/landforms": {
   "counts": {
-   "done": 281,
+   "done": 303,
    "failed": 0,
    "held": 0,
-   "missing": 39,
-   "old": 1,
+   "missing": 18,
+   "old": 0,
    "total": 321
   },
   "fingerprint": "da19882eb1ff",
@@ -1232,7 +1232,7 @@
    "en": "Landforms & Waterways",
    "zh": "地形与水系"
   },
-  "updated": "2026-11-23 02:09:01",
+  "updated": "2026-11-23 02:09:53",
   "verified": ""
  },
  "geography/latitude-longitude": {
