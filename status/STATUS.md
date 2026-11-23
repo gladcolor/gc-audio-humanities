@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:13:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:13:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -51,7 +51,7 @@ Updated 2026-11-23 02:13:01. Labels: finished / in progress / no audio / failed 
 | economics/econ-trade | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:49 |  |
 | geography/africa-asia | in progress | 172 | 1 | 84 | 0 | 0 | 2026-11-23 02:07:59 |  |
 | geography/americas | in progress | 218 | 1 | 22 | 0 | 0 | 2026-11-23 02:10:33 |  |
-| geography/asia-regional-studies | in progress | 309 | 0 | 199 | 0 | 0 | 2026-11-23 02:13:01 |  |
+| geography/asia-regional-studies | in progress | 342 | 0 | 166 | 0 | 0 | 2026-11-23 02:13:18 |  |
 | geography/climate-regions | finished | 319 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:18 |  |
 | geography/continents-oceans | finished | 142 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:52 |  |
 | geography/europe-oceania | in progress | 129 | 1 | 99 | 0 | 0 | 2026-11-23 02:00:41 |  |
