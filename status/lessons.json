@@ -31,7 +31,7 @@
    "old": 1,
    "total": 331
   },
-  "fingerprint": "d4ee60753c5d",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/ancient-engineering.html",
   "record_demand": true,
@@ -55,7 +55,7 @@
    "old": 1,
    "total": 234
   },
-  "fingerprint": "e43a94d810b9",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/ancient-science.html",
   "record_demand": true,
@@ -102,7 +102,7 @@
    "old": 0,
    "total": 283
   },
-  "fingerprint": "8019a17f96f2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/china-space.html",
   "record_demand": true,
@@ -114,7 +114,7 @@
    "zh": "中国航天：从东方红到嫦娥"
   },
   "updated": "2026-11-22 17:49:30",
-  "verified": "2026-11-22 18:13:59"
+  "verified": ""
  },
  "china/chinese-spirit": {
   "counts": {
@@ -125,7 +125,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "8bde7118f277",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/chinese-spirit.html",
   "record_demand": true,
@@ -149,7 +149,7 @@
    "old": 0,
    "total": 96
   },
-  "fingerprint": "4d7cc2409c71",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/climate-rivers.html",
   "record_demand": true,
@@ -161,7 +161,7 @@
    "zh": "中国的气候与河流"
   },
   "updated": "2026-11-22 17:48:33",
-  "verified": "2026-11-22 18:12:28"
+  "verified": ""
  },
  "china/disasters": {
   "counts": {
@@ -172,7 +172,7 @@
    "old": 0,
    "total": 183
   },
-  "fingerprint": "af6219168159",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/disasters.html",
   "record_demand": true,
@@ -184,7 +184,7 @@
    "zh": "自然灾害：地震、台风与沙尘暴"
   },
   "updated": "2026-11-22 18:01:52",
-  "verified": "2026-11-22 18:16:41"
+  "verified": ""
  },
  "china/division-integration": {
   "counts": {
@@ -195,7 +195,7 @@
    "old": 0,
    "total": 463
   },
-  "fingerprint": "e0588e363e15",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/division-integration.html",
   "record_demand": true,
@@ -219,7 +219,7 @@
    "old": 0,
    "total": 450
   },
-  "fingerprint": "5d8d0330d755",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/dynasties.html",
   "record_demand": true,
@@ -243,7 +243,7 @@
    "old": 0,
    "total": 413
   },
-  "fingerprint": "28ad1ba2304f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/early-civilization.html",
   "record_demand": true,
@@ -267,7 +267,7 @@
    "old": 0,
    "total": 99
   },
-  "fingerprint": "a19dbd7e1201",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/economy.html",
   "record_demand": true,
@@ -279,7 +279,7 @@
    "zh": "中国的经济发展：交通、农业与工业"
   },
   "updated": "2026-11-22 17:48:25",
-  "verified": "2026-11-22 18:12:54"
+  "verified": ""
  },
  "china/great-wall": {
   "counts": {
@@ -290,7 +290,7 @@
    "old": 1,
    "total": 417
   },
-  "fingerprint": "7d623668fe05",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/great-wall.html",
   "record_demand": true,
@@ -314,7 +314,7 @@
    "old": 0,
    "total": 229
   },
-  "fingerprint": "f7f256d716e9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/inventions.html",
   "record_demand": true,
@@ -338,7 +338,7 @@
    "old": 0,
    "total": 159
   },
-  "fingerprint": "e3f87ae6a390",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/megaprojects.html",
   "record_demand": true,
@@ -350,7 +350,7 @@
    "zh": "超级工程：大桥、铁路与管道"
   },
   "updated": "2026-11-22 18:02:18",
-  "verified": "2026-11-22 18:16:35"
+  "verified": ""
  },
  "china/ming-qing": {
   "counts": {
@@ -361,7 +361,7 @@
    "old": 0,
    "total": 287
   },
-  "fingerprint": "fa3631db4f54",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/ming-qing.html",
   "record_demand": true,
@@ -385,7 +385,7 @@
    "old": 0,
    "total": 383
   },
-  "fingerprint": "00820824b22a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/modern-china.html",
   "record_demand": true,
@@ -432,7 +432,7 @@
    "old": 0,
    "total": 454
   },
-  "fingerprint": "c4e8442c8d4b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/new-era.html",
   "record_demand": true,
@@ -456,7 +456,7 @@
    "old": 0,
    "total": 242
   },
-  "fingerprint": "dd74e6de0e41",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/population-resources.html",
   "record_demand": true,
@@ -468,7 +468,7 @@
    "zh": "人口、民族与自然资源"
   },
   "updated": "2026-11-22 17:51:44",
-  "verified": "2026-11-22 18:15:12"
+  "verified": ""
  },
  "china/prc": {
   "counts": {
@@ -479,7 +479,7 @@
    "old": 0,
    "total": 447
   },
-  "fingerprint": "26de3aa572b6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/prc.html",
   "record_demand": true,
@@ -503,7 +503,7 @@
    "old": 0,
    "total": 400
   },
-  "fingerprint": "c25c309fe08a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/prc-founding.html",
   "record_demand": true,
@@ -527,7 +527,7 @@
    "old": 0,
    "total": 343
   },
-  "fingerprint": "0a44c497cd43",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/qin-han.html",
   "record_demand": true,
@@ -551,7 +551,7 @@
    "old": 0,
    "total": 454
   },
-  "fingerprint": "d116a15368de",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/reform-opening.html",
   "record_demand": true,
@@ -575,7 +575,7 @@
    "old": 0,
    "total": 138
   },
-  "fingerprint": "b293dcc28080",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/regions.html",
   "record_demand": true,
@@ -587,7 +587,7 @@
    "zh": "中国的四大地理区域"
   },
   "updated": "2026-11-22 17:52:19",
-  "verified": "2026-11-22 18:14:37"
+  "verified": ""
  },
  "china/revolution": {
   "counts": {
@@ -598,7 +598,7 @@
    "old": 0,
    "total": 418
   },
-  "fingerprint": "bc8327987c36",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/revolution.html",
   "record_demand": true,
@@ -622,7 +622,7 @@
    "old": 0,
    "total": 114
   },
-  "fingerprint": "6d540a71c946",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/seas-islands.html",
   "record_demand": true,
@@ -634,7 +634,7 @@
    "zh": "中国的海洋与岛屿"
   },
   "updated": "2026-11-22 18:04:39",
-  "verified": "2026-11-22 18:16:50"
+  "verified": ""
  },
  "china/silk-road-explorers": {
   "counts": {
@@ -645,7 +645,7 @@
    "old": 2,
    "total": 375
   },
-  "fingerprint": "dcddcec40113",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/silk-road-explorers.html",
   "record_demand": true,
@@ -669,7 +669,7 @@
    "old": 0,
    "total": 416
   },
-  "fingerprint": "bc30ddb6ba12",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/song-yuan.html",
   "record_demand": true,
@@ -693,7 +693,7 @@
    "old": 0,
    "total": 254
   },
-  "fingerprint": "0a9e544e57c9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/spring-warring.html",
   "record_demand": true,
@@ -717,7 +717,7 @@
    "old": 1,
    "total": 476
   },
-  "fingerprint": "9c0921350264",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/strategy-battles.html",
   "record_demand": true,
@@ -741,7 +741,7 @@
    "old": 0,
    "total": 421
   },
-  "fingerprint": "26578569731d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/sui-tang.html",
   "record_demand": true,
@@ -765,7 +765,7 @@
    "old": 0,
    "total": 178
   },
-  "fingerprint": "fc977943669e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/taiwan-hkm.html",
   "record_demand": true,
@@ -777,7 +777,7 @@
    "zh": "台湾省与香港、澳门"
   },
   "updated": "2026-11-22 18:03:31",
-  "verified": "2026-11-22 18:16:47"
+  "verified": ""
  },
  "china/terrain": {
   "counts": {
@@ -788,7 +788,7 @@
    "old": 1,
    "total": 215
   },
-  "fingerprint": "fb739fea9481",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/terrain.html",
   "record_demand": true,
@@ -812,7 +812,7 @@
    "old": 0,
    "total": 314
   },
-  "fingerprint": "28fddc8e32f7",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/china/territory.html",
   "record_demand": true,
@@ -836,7 +836,7 @@
    "old": 0,
    "total": 144
   },
-  "fingerprint": "42c1431461df",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/three-gorges.html",
   "record_demand": true,
@@ -848,7 +848,7 @@
    "zh": "长江与三峡工程"
   },
   "updated": "2026-11-22 17:55:44",
-  "verified": "2026-11-22 18:15:26"
+  "verified": ""
  },
  "china/unity-diplomacy": {
   "counts": {
@@ -859,7 +859,7 @@
    "old": 0,
    "total": 384
   },
-  "fingerprint": "4625053982ff",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/china/unity-diplomacy.html",
   "record_demand": true,
@@ -876,15 +876,15 @@
  },
  "china/xia-shang-zhou": {
   "counts": {
-   "done": 429,
+   "done": 388,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 41,
    "total": 429
   },
   "fingerprint": "84c2d56ba29c",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/china/xia-shang-zhou.html",
   "record_demand": true,
   "record_langs": [
@@ -895,7 +895,7 @@
    "en": "Xia, Shang & Zhou: The Bronze Age",
    "zh": "夏商周：早期国家与青铜文明"
   },
-  "updated": "2026-11-22 22:56:05",
+  "updated": "2026-11-23 00:59:58",
   "verified": ""
  },
  "economics/econ-growth": {
@@ -907,7 +907,7 @@
    "old": 0,
    "total": 203
   },
-  "fingerprint": "d92531fcfda0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-growth.html",
   "record_demand": true,
@@ -919,7 +919,7 @@
    "zh": "经济增长的动力"
   },
   "updated": "2026-11-22 19:46:19",
-  "verified": "2026-11-22 19:54:33"
+  "verified": ""
  },
  "economics/econ-personal-finance": {
   "counts": {
@@ -930,7 +930,7 @@
    "old": 0,
    "total": 175
   },
-  "fingerprint": "863b534464f7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-personal-finance.html",
   "record_demand": true,
@@ -942,7 +942,7 @@
    "zh": "个人理财"
   },
   "updated": "2026-11-22 19:40:56",
-  "verified": "2026-11-22 19:53:44"
+  "verified": ""
  },
  "economics/econ-scarcity": {
   "counts": {
@@ -953,7 +953,7 @@
    "old": 0,
    "total": 165
   },
-  "fingerprint": "c12153df7dc3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-scarcity.html",
   "record_demand": true,
@@ -965,7 +965,7 @@
    "zh": "稀缺性与机会成本"
   },
   "updated": "2026-11-22 19:44:34",
-  "verified": "2026-11-22 19:53:28"
+  "verified": ""
  },
  "economics/econ-specialization": {
   "counts": {
@@ -999,7 +999,7 @@
    "old": 0,
    "total": 190
   },
-  "fingerprint": "ff50206712ee",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-supply-demand.html",
   "record_demand": true,
@@ -1011,7 +1011,7 @@
    "zh": "供给、需求与价格"
   },
   "updated": "2026-11-22 19:30:59",
-  "verified": "2026-11-22 19:52:09"
+  "verified": ""
  },
  "economics/econ-systems": {
   "counts": {
@@ -1022,7 +1022,7 @@
    "old": 0,
    "total": 208
   },
-  "fingerprint": "e9e3d89190b7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-systems.html",
   "record_demand": true,
@@ -1034,7 +1034,7 @@
    "zh": "经济体制"
   },
   "updated": "2026-11-22 19:42:59",
-  "verified": "2026-11-22 19:54:29"
+  "verified": ""
  },
  "economics/econ-trade": {
   "counts": {
@@ -1045,7 +1045,7 @@
    "old": 0,
    "total": 188
   },
-  "fingerprint": "ca836743cbf9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/economics/econ-trade.html",
   "record_demand": true,
@@ -1057,7 +1057,7 @@
    "zh": "贸易、关税与货币"
   },
   "updated": "2026-11-22 19:26:49",
-  "verified": "2026-11-22 19:50:17"
+  "verified": ""
  },
  "geography/africa-asia": {
   "counts": {
@@ -1068,7 +1068,7 @@
    "old": 0,
    "total": 129
   },
-  "fingerprint": "c8ea4d87f8ee",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/africa-asia.html",
   "record_demand": true,
@@ -1137,7 +1137,7 @@
    "old": 0,
    "total": 319
   },
-  "fingerprint": "d4209efdf369",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/climate-regions.html",
   "record_demand": true,
@@ -1206,7 +1206,7 @@
    "old": 0,
    "total": 173
   },
-  "fingerprint": "da19882eb1ff",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/landforms.html",
   "record_demand": true,
@@ -1229,7 +1229,7 @@
    "old": 0,
    "total": 1311
   },
-  "fingerprint": "1d6ac8f0de3d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/latitude-longitude.html",
   "record_demand": true,
@@ -1252,7 +1252,7 @@
    "old": 0,
    "total": 107
   },
-  "fingerprint": "86e3ef11dade",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/map-projections.html",
   "record_demand": true,
@@ -1275,7 +1275,7 @@
    "old": 0,
    "total": 234
   },
-  "fingerprint": "18bf4606ba0f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/polar-regions.html",
   "record_demand": true,
@@ -1298,7 +1298,7 @@
    "old": 0,
    "total": 194
   },
-  "fingerprint": "fb1062c8442c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/population.html",
   "record_demand": true,
@@ -1344,7 +1344,7 @@
    "old": 0,
    "total": 1995
   },
-  "fingerprint": "56c679846449",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/time-zones.html",
   "record_demand": true,
@@ -1367,7 +1367,7 @@
    "old": 0,
    "total": 277
   },
-  "fingerprint": "776544ec8c7f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/geography/world-religions.html",
   "record_demand": true,
@@ -1390,7 +1390,7 @@
    "old": 0,
    "total": 202
   },
-  "fingerprint": "b92addbc2799",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-20th.html",
   "record_demand": true,
@@ -1413,7 +1413,7 @@
    "old": 0,
    "total": 243
   },
-  "fingerprint": "177010d696e6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-civilrights.html",
   "record_demand": true,
@@ -1436,7 +1436,7 @@
    "old": 0,
    "total": 230
   },
-  "fingerprint": "be24170b587e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-civilwar.html",
   "record_demand": true,
@@ -1459,7 +1459,7 @@
    "old": 0,
    "total": 134
   },
-  "fingerprint": "217a35c3b654",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-colony.html",
   "record_demand": true,
@@ -1482,7 +1482,7 @@
    "old": 0,
    "total": 134
   },
-  "fingerprint": "198335b7e5ac",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-geography.html",
   "record_demand": true,
@@ -1505,7 +1505,7 @@
    "old": 0,
    "total": 333
   },
-  "fingerprint": "a14046db246c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-government.html",
   "record_demand": true,
@@ -1528,7 +1528,7 @@
    "old": 0,
    "total": 120
   },
-  "fingerprint": "2986b46dd331",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-modern.html",
   "record_demand": true,
@@ -1551,7 +1551,7 @@
    "old": 0,
    "total": 134
   },
-  "fingerprint": "16fd2c0033a1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-native.html",
   "record_demand": true,
@@ -1574,7 +1574,7 @@
    "old": 0,
    "total": 148
   },
-  "fingerprint": "0613c97c11a1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-reconstruction.html",
   "record_demand": true,
@@ -1597,7 +1597,7 @@
    "old": 0,
    "total": 258
   },
-  "fingerprint": "2ac34e132363",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-removal.html",
   "record_demand": true,
@@ -1620,7 +1620,7 @@
    "old": 0,
    "total": 258
   },
-  "fingerprint": "31e3d6eb8ae5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/georgia/ga-revolution.html",
   "record_demand": true,
@@ -1643,7 +1643,7 @@
    "old": 0,
    "total": 170
   },
-  "fingerprint": "7ed950e6579a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/china-world.html",
   "record_demand": true,
@@ -1655,7 +1655,7 @@
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
   "updated": "2026-11-22 18:23:40",
-  "verified": "2026-11-22 18:39:39"
+  "verified": ""
  },
  "politics/constitution": {
   "counts": {
@@ -1666,7 +1666,7 @@
    "old": 0,
    "total": 122
   },
-  "fingerprint": "19374274277e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/constitution.html",
   "record_demand": true,
@@ -1678,7 +1678,7 @@
    "zh": "坚持宪法至上"
   },
   "updated": "2026-11-22 18:07:11",
-  "verified": "2026-11-22 18:17:18"
+  "verified": ""
  },
  "politics/core-values": {
   "counts": {
@@ -1689,7 +1689,7 @@
    "old": 0,
    "total": 96
   },
-  "fingerprint": "3c8fc998bccf",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/core-values.html",
   "record_demand": true,
@@ -1701,7 +1701,7 @@
    "zh": "文明与家园：中华文化与核心价值观"
   },
   "updated": "2026-11-22 18:01:47",
-  "verified": "2026-11-22 18:15:52"
+  "verified": ""
  },
  "politics/development": {
   "counts": {
@@ -1712,7 +1712,7 @@
    "old": 0,
    "total": 128
   },
-  "fingerprint": "7142adcf82fa",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/development.html",
   "record_demand": true,
@@ -1724,7 +1724,7 @@
    "zh": "富强与创新 · 共同富裕 · 生态文明"
   },
   "updated": "2026-11-22 18:19:15",
-  "verified": "2026-11-22 18:39:39"
+  "verified": ""
  },
  "politics/online-life": {
   "counts": {
@@ -1735,7 +1735,7 @@
    "old": 0,
    "total": 245
   },
-  "fingerprint": "93f72cea823f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/online-life.html",
   "record_demand": true,
@@ -1758,7 +1758,7 @@
    "old": 0,
    "total": 194
   },
-  "fingerprint": "e710b8f012cd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rights-duties.html",
   "record_demand": true,
@@ -1770,7 +1770,7 @@
    "zh": "理解权利义务"
   },
   "updated": "2026-11-22 18:00:17",
-  "verified": "2026-11-22 18:16:16"
+  "verified": ""
  },
  "politics/rule-of-law": {
   "counts": {
@@ -1781,7 +1781,7 @@
    "old": 0,
    "total": 98
   },
-  "fingerprint": "b8a0e67d5812",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/rule-of-law.html",
   "record_demand": true,
@@ -1793,7 +1793,7 @@
    "zh": "走进法治天地 · 建设法治中国"
   },
   "updated": "2026-11-22 18:01:24",
-  "verified": "2026-11-22 18:15:46"
+  "verified": ""
  },
  "politics/state-organs": {
   "counts": {
@@ -1804,7 +1804,7 @@
    "old": 0,
    "total": 220
   },
-  "fingerprint": "177bddecc584",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/state-organs.html",
   "record_demand": true,
@@ -1816,7 +1816,7 @@
    "zh": "我国的国家机构"
   },
   "updated": "2026-11-22 18:15:19",
-  "verified": "2026-11-22 18:39:39"
+  "verified": ""
  },
  "politics/state-system": {
   "counts": {
@@ -1827,7 +1827,7 @@
    "old": 0,
    "total": 113
   },
-  "fingerprint": "47481afe4830",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/politics/state-system.html",
   "record_demand": true,
@@ -1839,7 +1839,7 @@
    "zh": "我国的基本制度"
   },
   "updated": "2026-11-22 18:11:48",
-  "verified": "2026-11-22 18:17:18"
+  "verified": ""
  },
  "politics/youth-emotions": {
   "counts": {
@@ -2103,7 +2103,7 @@
    "old": 0,
    "total": 199
   },
-  "fingerprint": "d12bbe4c5915",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-civilrights.html",
   "record_demand": true,
@@ -2115,7 +2115,7 @@
    "zh": "民权运动"
   },
   "updated": "2026-11-22 19:28:37",
-  "verified": "2026-11-22 19:50:24"
+  "verified": ""
  },
  "ushistory/us-civilwar": {
   "counts": {
@@ -2126,7 +2126,7 @@
    "old": 0,
    "total": 220
   },
-  "fingerprint": "c9825277023e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-civilwar.html",
   "record_demand": true,
@@ -2138,7 +2138,7 @@
    "zh": "南北战争与重建"
   },
   "updated": "2026-11-22 19:26:12",
-  "verified": "2026-11-22 19:50:41"
+  "verified": ""
  },
  "ushistory/us-colonies": {
   "counts": {
@@ -2149,7 +2149,7 @@
    "old": 0,
    "total": 272
   },
-  "fingerprint": "97b3d9899ebc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-colonies.html",
   "record_demand": true,
@@ -2172,7 +2172,7 @@
    "old": 0,
    "total": 245
   },
-  "fingerprint": "88d0e759299d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-constitution.html",
   "record_demand": true,
@@ -2195,7 +2195,7 @@
    "old": 0,
    "total": 206
   },
-  "fingerprint": "8d5cddb26478",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-expansion.html",
   "record_demand": true,
@@ -2218,7 +2218,7 @@
    "old": 0,
    "total": 103
   },
-  "fingerprint": "5c7c2312222a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-industrial.html",
   "record_demand": true,
@@ -2264,7 +2264,7 @@
    "old": 0,
    "total": 256
   },
-  "fingerprint": "50e0b2a77edc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-worldwars.html",
   "record_demand": true,
@@ -2287,7 +2287,7 @@
    "old": 0,
    "total": 204
   },
-  "fingerprint": "59ad8ed317fc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/africa-americas-before-1500.html",
   "record_demand": true,
@@ -2299,7 +2299,7 @@
    "zh": "古代非洲与美洲文明"
   },
   "updated": "2026-11-22 19:39:16",
-  "verified": "2026-11-22 19:53:25"
+  "verified": ""
  },
  "worldhistory/industrialization-reform": {
   "counts": {
@@ -2310,7 +2310,7 @@
    "old": 0,
    "total": 246
   },
-  "fingerprint": "ebae400496dc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/industrialization-reform.html",
   "record_demand": true,
@@ -2322,7 +2322,7 @@
    "zh": "工业革命、工人运动与近代改革"
   },
   "updated": "2026-11-22 19:38:28",
-  "verified": "2026-11-22 19:53:42"
+  "verified": ""
  },
  "worldhistory/russian-revolution-ussr": {
   "counts": {
@@ -2333,7 +2333,7 @@
    "old": 0,
    "total": 245
   },
-  "fingerprint": "717fa1fff73b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/russian-revolution-ussr.html",
   "record_demand": true,
@@ -2345,7 +2345,7 @@
    "zh": "俄国十月革命与苏联的建设"
   },
   "updated": "2026-11-22 19:30:19",
-  "verified": "2026-11-22 19:51:43"
+  "verified": ""
  },
  "worldhistory/wh-cold-war": {
   "counts": {
@@ -2356,7 +2356,7 @@
    "old": 0,
    "total": 132
   },
-  "fingerprint": "2f23b700fe9d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-cold-war.html",
   "record_demand": true,
@@ -2368,7 +2368,7 @@
    "zh": "冷战与民族独立运动"
   },
   "updated": "2026-11-22 19:30:52",
-  "verified": "2026-11-22 19:51:44"
+  "verified": ""
  },
  "worldhistory/wh-exploration": {
   "counts": {
@@ -2379,7 +2379,7 @@
    "old": 0,
    "total": 115
   },
-  "fingerprint": "f3520af4624a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-exploration.html",
   "record_demand": true,
@@ -2402,7 +2402,7 @@
    "old": 0,
    "total": 117
   },
-  "fingerprint": "d05bdc808c4c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-first-civilizations.html",
   "record_demand": true,
@@ -2414,7 +2414,7 @@
    "zh": "最早的文明：美索不达米亚与古埃及"
   },
   "updated": "2026-11-22 19:30:32",
-  "verified": "2026-11-22 19:51:14"
+  "verified": ""
  },
  "worldhistory/wh-greece-rome": {
   "counts": {
@@ -2425,7 +2425,7 @@
    "old": 0,
    "total": 233
   },
-  "fingerprint": "70d7d80f0a1c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-greece-rome.html",
   "record_demand": true,
@@ -2437,7 +2437,7 @@
    "zh": "古希腊与古罗马"
   },
   "updated": "2026-11-22 19:29:34",
-  "verified": "2026-11-22 19:51:28"
+  "verified": ""
  },
  "worldhistory/wh-india-persia": {
   "counts": {
@@ -2448,7 +2448,7 @@
    "old": 0,
    "total": 284
   },
-  "fingerprint": "b062ee9b037b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-india-persia.html",
   "record_demand": true,
@@ -2460,7 +2460,7 @@
    "zh": "古印度与古波斯"
   },
   "updated": "2026-11-22 19:32:07",
-  "verified": "2026-11-22 19:52:55"
+  "verified": ""
  },
  "worldhistory/wh-middle-ages": {
   "counts": {
@@ -2471,7 +2471,7 @@
    "old": 0,
    "total": 188
   },
-  "fingerprint": "d380dbc6439b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-middle-ages.html",
   "record_demand": true,
@@ -2494,7 +2494,7 @@
    "old": 0,
    "total": 143
   },
-  "fingerprint": "baa035d4da76",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-renaissance.html",
   "record_demand": true,
@@ -2506,7 +2506,7 @@
    "zh": "文艺复兴与宗教改革"
   },
   "updated": "2026-11-22 19:34:00",
-  "verified": "2026-11-22 19:52:24"
+  "verified": ""
  },
  "worldhistory/wh-revolutions": {
   "counts": {
@@ -2517,7 +2517,7 @@
    "old": 0,
    "total": 120
   },
-  "fingerprint": "48a6435720fd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-revolutions.html",
   "record_demand": true,
@@ -2563,7 +2563,7 @@
    "old": 0,
    "total": 129
   },
-  "fingerprint": "5e6b525d6120",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-world-wars.html",
   "record_demand": true,
@@ -2575,6 +2575,6 @@
    "zh": "两次世界大战与大屠杀"
   },
   "updated": "2026-11-22 19:36:01",
-  "verified": "2026-11-22 19:52:46"
+  "verified": ""
  }
 }
