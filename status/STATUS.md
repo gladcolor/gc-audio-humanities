@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:45:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:45:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Updated 2026-11-23 04:45:18. Labels: finished / in progress / no audio / failed 
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 04:41:03 |  |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 | 2026-11-23 02:19:41 |
 | china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 04:40:26 |  |
-| china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 |  |
+| china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 04:45:22 |  |
 | china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 04:41:34 |  |
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:41 |  |
 | china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 | 2026-11-23 02:12:11 |
