@@ -2268,15 +2268,15 @@
  },
  "ushistory/us-industrial": {
   "counts": {
-   "done": 175,
+   "done": 199,
    "failed": 0,
    "held": 0,
-   "missing": 24,
+   "missing": 0,
    "old": 0,
    "total": 199
   },
   "fingerprint": "5c7c2312222a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-industrial.html",
   "record_demand": true,
   "record_langs": [
@@ -2287,7 +2287,7 @@
    "en": "Inventions, Industry & Immigration",
    "zh": "发明、工业与移民"
   },
-  "updated": "2026-11-23 02:44:43",
+  "updated": "2026-11-23 02:55:19",
   "verified": ""
  },
  "ushistory/us-modern": {
