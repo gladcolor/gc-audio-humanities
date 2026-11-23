@@ -2237,15 +2237,15 @@
  },
  "ushistory/us-expansion": {
   "counts": {
-   "done": 256,
+   "done": 407,
    "failed": 0,
    "held": 0,
-   "missing": 150,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 407
   },
   "fingerprint": "8d5cddb26478",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ushistory/us-expansion.html",
   "record_demand": true,
   "record_langs": [
@@ -2256,7 +2256,7 @@
    "en": "Westward Expansion",
    "zh": "西进运动"
   },
-  "updated": "2026-11-23 02:36:13",
+  "updated": "2026-11-23 02:46:26",
   "verified": ""
  },
  "ushistory/us-industrial": {
