@@ -2380,10 +2380,10 @@
  },
  "worldhistory/russian-revolution-ussr": {
   "counts": {
-   "done": 252,
+   "done": 287,
    "failed": 0,
    "held": 0,
-   "missing": 228,
+   "missing": 193,
    "old": 2,
    "total": 482
   },
@@ -2399,7 +2399,7 @@
    "en": "The Russian Revolution & the Soviet Union",
    "zh": "俄国十月革命与苏联的建设"
   },
-  "updated": "2026-11-23 02:47:19",
+  "updated": "2026-11-23 02:49:11",
   "verified": ""
  },
  "worldhistory/wh-cold-war": {
