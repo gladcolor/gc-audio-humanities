@@ -48,15 +48,15 @@
  },
  "china/ancient-science": {
   "counts": {
-   "done": 199,
+   "done": 234,
    "failed": 0,
    "held": 0,
-   "missing": 34,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 234
   },
-  "fingerprint": "",
-  "label": "in progress",
+  "fingerprint": "e43a94d810b9",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/ancient-science.html",
   "record_demand": true,
   "record_langs": [
@@ -67,7 +67,7 @@
    "en": "Ancient Chinese Science: Quakes, Stars & Numbers",
    "zh": "古代科技：地震、星空与数学"
   },
-  "updated": "2026-11-22 23:04:56",
+  "updated": "2026-11-23 01:21:30",
   "verified": ""
  },
  "china/beijing-capital": {
