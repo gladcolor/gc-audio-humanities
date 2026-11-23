@@ -832,11 +832,11 @@
  },
  "china/three-gorges": {
   "counts": {
-   "done": 175,
+   "done": 217,
    "failed": 0,
    "held": 0,
-   "missing": 92,
-   "old": 8,
+   "missing": 53,
+   "old": 5,
    "total": 275
   },
   "fingerprint": "42c1431461df",
@@ -851,7 +851,7 @@
    "en": "The Yangtze & the Three Gorges Dam",
    "zh": "长江与三峡工程"
   },
-  "updated": "2026-11-23 01:06:27",
+  "updated": "2026-11-23 01:11:20",
   "verified": ""
  },
  "china/unity-diplomacy": {
