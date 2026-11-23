@@ -1642,11 +1642,11 @@
  },
  "georgia/ga-revolution": {
   "counts": {
-   "done": 292,
+   "done": 384,
    "failed": 0,
    "held": 0,
-   "missing": 214,
-   "old": 9,
+   "missing": 126,
+   "old": 5,
    "total": 515
   },
   "fingerprint": "31e3d6eb8ae5",
@@ -1661,7 +1661,7 @@
    "en": "Revolution & Early Statehood",
    "zh": "独立战争与早期州政"
   },
-  "updated": "2026-11-23 02:23:09",
+  "updated": "2026-11-23 02:24:23",
   "verified": ""
  },
  "politics/china-world": {
