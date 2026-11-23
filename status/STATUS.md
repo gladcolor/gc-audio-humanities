@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 01:04:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:04:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -13,7 +13,7 @@ Updated 2026-11-23 01:04:04. Labels: finished / in progress / no audio / failed 
 | china/climate-rivers | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-22 17:48:33 |  |
 | china/disasters | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 18:01:52 |  |
 | china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-22 23:03:54 |  |
-| china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-22 23:04:46 |  |
+| china/dynasties | in progress | 446 | 4 | 0 | 0 | 0 | 2026-11-23 01:04:59 |  |
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-22 22:55:20 |  |
 | china/economy | finished | 99 | 0 | 0 | 0 | 0 | 2026-11-22 17:48:25 |  |
 | china/great-wall | in progress | 316 | 1 | 100 | 0 | 0 | 2026-11-22 23:03:07 |  |
