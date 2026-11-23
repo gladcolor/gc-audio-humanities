@@ -1716,15 +1716,15 @@
  },
  "politics/development": {
   "counts": {
-   "done": 173,
+   "done": 250,
    "failed": 0,
    "held": 0,
-   "missing": 72,
-   "old": 5,
+   "missing": 0,
+   "old": 0,
    "total": 250
   },
   "fingerprint": "7142adcf82fa",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/politics/development.html",
   "record_demand": true,
   "record_langs": [
@@ -1735,7 +1735,7 @@
    "en": "Innovation, Shared Prosperity & Green Development",
    "zh": "富强与创新 · 共同富裕 · 生态文明"
   },
-  "updated": "2026-11-23 01:17:36",
+  "updated": "2026-11-23 01:19:03",
   "verified": ""
  },
  "politics/online-life": {
