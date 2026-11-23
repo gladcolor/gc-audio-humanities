@@ -2567,10 +2567,10 @@
  },
  "worldhistory/wh-revolutions": {
   "counts": {
-   "done": 144,
+   "done": 150,
    "failed": 0,
    "held": 0,
-   "missing": 93,
+   "missing": 87,
    "old": 1,
    "total": 238
   },
@@ -2586,7 +2586,7 @@
    "en": "Revolutions: Science, Politics & Industry",
    "zh": "革命：科学、政治与工业"
   },
-  "updated": "2026-11-23 02:47:43",
+  "updated": "2026-11-23 02:47:49",
   "verified": ""
  },
  "worldhistory/wh-today": {
