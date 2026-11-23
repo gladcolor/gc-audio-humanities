@@ -1287,10 +1287,10 @@
  },
  "geography/polar-regions": {
   "counts": {
-   "done": 383,
+   "done": 439,
    "failed": 0,
    "held": 0,
-   "missing": 65,
+   "missing": 9,
    "old": 0,
    "total": 448
   },
@@ -1306,7 +1306,7 @@
    "en": "The Polar Regions",
    "zh": "极地地区"
   },
-  "updated": "2026-11-23 02:14:00",
+  "updated": "2026-11-23 02:14:19",
   "verified": ""
  },
  "geography/population": {
