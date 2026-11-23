@@ -1633,15 +1633,15 @@
  },
  "georgia/ga-removal": {
   "counts": {
-   "done": 515,
+   "done": 514,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 515
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "2ac34e132363",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-removal.html",
   "record_demand": true,
   "record_langs": [
@@ -1652,7 +1652,7 @@
    "en": "Land, Gold & Cherokee Removal",
    "zh": "土地、黄金与切罗基人迁移"
   },
-  "updated": "2026-11-23 02:52:52",
+  "updated": "2026-11-23 04:44:44",
   "verified": ""
  },
  "georgia/ga-revolution": {
