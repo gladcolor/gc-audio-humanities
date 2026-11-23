@@ -1597,11 +1597,11 @@
  },
  "georgia/ga-reconstruction": {
   "counts": {
-   "done": 149,
+   "done": 271,
    "failed": 0,
    "held": 0,
-   "missing": 143,
-   "old": 3,
+   "missing": 22,
+   "old": 2,
    "total": 295
   },
   "fingerprint": "0613c97c11a1",
@@ -1616,7 +1616,7 @@
    "en": "Reconstruction & the New South",
    "zh": "重建时期与“新南方”"
   },
-  "updated": "2026-11-23 02:26:44",
+  "updated": "2026-11-23 02:28:59",
   "verified": ""
  },
  "georgia/ga-removal": {
