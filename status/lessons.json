@@ -1097,15 +1097,15 @@
  },
  "geography/americas": {
   "counts": {
-   "done": 218,
+   "done": 241,
    "failed": 0,
    "held": 0,
-   "missing": 22,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 241
   },
   "fingerprint": "1d14c332cc0c",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/geography/americas.html",
   "record_demand": true,
   "record_langs": [
@@ -1116,7 +1116,7 @@
    "en": "Latin America & Canada",
    "zh": "拉丁美洲与加拿大"
   },
-  "updated": "2026-11-23 02:10:33",
+  "updated": "2026-11-23 02:17:10",
   "verified": ""
  },
  "geography/asia-regional-studies": {
