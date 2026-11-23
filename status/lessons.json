@@ -2084,15 +2084,15 @@
  },
  "spanish/sp-pronouns-ser": {
   "counts": {
-   "done": 66,
+   "done": 69,
    "failed": 0,
    "held": 0,
-   "missing": 3,
+   "missing": 0,
    "old": 0,
    "total": 69
   },
   "fingerprint": "e61eed4433d7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/spanish/sp-pronouns-ser.html",
   "record_demand": true,
   "record_langs": [
@@ -2103,7 +2103,7 @@
    "en": "Subject Pronouns & ser",
    "zh": "主语代词与动词 ser"
   },
-  "updated": "2026-11-23 03:30:36",
+  "updated": "2026-11-23 03:44:27",
   "verified": ""
  },
  "spanish/sp-questions": {
