@@ -1,11 +1,11 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:22:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:23:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | finished | 1335 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:07 |  |
-| china/ancient-engineering | finished | 331 | 0 | 0 | 0 | 0 | 2026-11-23 01:41:20 |  |
+| china/ancient-engineering | finished | 331 | 0 | 0 | 0 | 0 | 2026-11-23 01:41:20 | 2026-11-23 02:22:52 |
 | china/ancient-science | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:30 | 2026-11-23 01:59:40 |
 | china/beijing-capital | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:29 | 2026-11-23 02:12:12 |
 | china/china-space | finished | 426 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:35 | 2026-11-23 02:21:15 |
@@ -16,7 +16,7 @@ Updated 2026-11-23 02:22:37. Labels: finished / in progress / no audio / failed 
 | china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 | 2026-11-23 02:20:39 |
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 | 2026-11-23 02:19:19 |
 | china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
-| china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 |  |
+| china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 | 2026-11-23 02:22:41 |
 | china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 | 2026-11-23 02:12:09 |
 | china/megaprojects | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:36 | 2026-11-23 01:59:40 |
 | china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:19 | 2026-11-23 02:12:09 |
@@ -73,7 +73,7 @@ Updated 2026-11-23 02:22:37. Labels: finished / in progress / no audio / failed 
 | georgia/ga-native | in progress | 203 | 6 | 54 | 0 | 0 | 2026-11-23 02:22:26 |  |
 | georgia/ga-reconstruction | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:11:09 |  |
 | georgia/ga-removal | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:34 |  |
-| georgia/ga-revolution | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:10 |  |
+| georgia/ga-revolution | in progress | 292 | 9 | 214 | 0 | 0 | 2026-11-23 02:23:09 |  |
 | politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 | 2026-11-23 02:12:11 |
 | politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 | 2026-11-23 02:12:12 |
 | politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 | 2026-11-23 02:15:24 |
