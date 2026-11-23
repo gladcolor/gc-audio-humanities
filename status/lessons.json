@@ -767,15 +767,15 @@
  },
  "china/taiwan-hkm": {
   "counts": {
-   "done": 225,
+   "done": 406,
    "failed": 0,
    "held": 0,
-   "missing": 175,
-   "old": 6,
+   "missing": 0,
+   "old": 0,
    "total": 406
   },
   "fingerprint": "fc977943669e",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/china/taiwan-hkm.html",
   "record_demand": true,
   "record_langs": [
@@ -786,7 +786,7 @@
    "en": "Taiwan Province, Hong Kong & Macao",
    "zh": "台湾省与香港、澳门"
   },
-  "updated": "2026-11-23 01:10:08",
+  "updated": "2026-11-23 01:23:02",
   "verified": ""
  },
  "china/terrain": {
