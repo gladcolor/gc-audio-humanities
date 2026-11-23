@@ -2598,25 +2598,26 @@
  },
  "worldhistory/wh-today": {
   "counts": {
-   "done": 158,
+   "done": 338,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 158
+   "total": 338
   },
-  "fingerprint": "",
+  "fingerprint": "bc5f44622007",
   "label": "finished",
   "page": "https://shanchuan.org/middle/worldhistory/wh-today.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Our Connected World",
    "zh": "相互联系的世界"
   },
-  "updated": "2026-11-22 19:26:38",
+  "updated": "2026-11-23 02:52:35",
   "verified": ""
  },
  "worldhistory/wh-world-wars": {
