@@ -2307,10 +2307,10 @@
  },
  "ushistory/us-worldwars": {
   "counts": {
-   "done": 281,
+   "done": 333,
    "failed": 0,
    "held": 0,
-   "missing": 192,
+   "missing": 140,
    "old": 1,
    "total": 474
   },
@@ -2326,7 +2326,7 @@
    "en": "World Wars & the Great Depression",
    "zh": "两次世界大战与大萧条"
   },
-  "updated": "2026-11-23 02:40:11",
+  "updated": "2026-11-23 02:41:51",
   "verified": ""
  },
  "worldhistory/africa-americas-before-1500": {
