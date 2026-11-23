@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:50:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:50:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -88,7 +88,7 @@ Updated 2026-11-23 04:50:15. Labels: finished / in progress / no audio / failed 
 | spanish/sp-alphabet | finished | 205 | 0 | 0 | 0 | 0 | 2026-11-23 04:47:50 |  |
 | spanish/sp-family | finished | 107 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:17 | 2026-11-23 03:40:31 |
 | spanish/sp-greetings | finished | 176 | 0 | 0 | 0 | 0 | 2026-11-23 04:49:00 |  |
-| spanish/sp-gustar | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:17 |  |
+| spanish/sp-gustar | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 04:50:35 |  |
 | spanish/sp-hispanic-world | finished | 242 | 0 | 0 | 0 | 0 | 2026-11-23 04:47:10 |  |
 | spanish/sp-nouns-articles | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-23 04:48:44 |  |
 | spanish/sp-pronouns-ser | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:33 |  |
