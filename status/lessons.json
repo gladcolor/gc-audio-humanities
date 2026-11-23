@@ -1381,11 +1381,11 @@
  },
  "geography/world-religions": {
   "counts": {
-   "done": 371,
+   "done": 397,
    "failed": 0,
    "held": 0,
-   "missing": 177,
-   "old": 34,
+   "missing": 159,
+   "old": 26,
    "total": 582
   },
   "fingerprint": "776544ec8c7f",
@@ -1400,7 +1400,7 @@
    "en": "World Religions & Ethnic Groups",
    "zh": "世界宗教与民族"
   },
-  "updated": "2026-11-23 02:12:49",
+  "updated": "2026-11-23 02:12:56",
   "verified": ""
  },
  "georgia/ga-20th": {
