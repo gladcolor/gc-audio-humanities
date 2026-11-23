@@ -2427,11 +2427,11 @@
  },
  "worldhistory/wh-exploration": {
   "counts": {
-   "done": 125,
+   "done": 168,
    "failed": 0,
    "held": 0,
-   "missing": 117,
-   "old": 2,
+   "missing": 75,
+   "old": 1,
    "total": 244
   },
   "fingerprint": "f3520af4624a",
@@ -2446,7 +2446,7 @@
    "en": "The Age of Exploration",
    "zh": "大航海时代"
   },
-  "updated": "2026-11-23 02:47:08",
+  "updated": "2026-11-23 02:48:37",
   "verified": ""
  },
  "worldhistory/wh-first-civilizations": {
