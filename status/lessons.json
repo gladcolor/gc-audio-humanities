@@ -1356,11 +1356,11 @@
  },
  "geography/time-zones": {
   "counts": {
-   "done": 3624,
+   "done": 3821,
    "failed": 0,
    "held": 0,
-   "missing": 340,
-   "old": 15,
+   "missing": 152,
+   "old": 6,
    "total": 3979
   },
   "fingerprint": "56c679846449",
@@ -1375,7 +1375,7 @@
    "en": "Time Zones",
    "zh": "时区"
   },
-  "updated": "2026-11-23 02:09:33",
+  "updated": "2026-11-23 02:11:27",
   "verified": ""
  },
  "geography/world-religions": {
