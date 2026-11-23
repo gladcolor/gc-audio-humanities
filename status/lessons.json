@@ -1053,11 +1053,11 @@
  },
  "economics/econ-trade": {
   "counts": {
-   "done": 219,
+   "done": 353,
    "failed": 0,
    "held": 0,
-   "missing": 146,
-   "old": 4,
+   "missing": 15,
+   "old": 1,
    "total": 369
   },
   "fingerprint": "ca836743cbf9",
@@ -1072,7 +1072,7 @@
    "en": "Trade, Tariffs & Currency",
    "zh": "贸易、关税与货币"
   },
-  "updated": "2026-11-23 02:51:41",
+  "updated": "2026-11-23 02:54:30",
   "verified": ""
  },
  "geography/africa-asia": {

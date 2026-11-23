@@ -14353,6 +14353,7 @@ zh	fdcf4759	china/xia-shang-zhou	serena moss8b	48	2026-11-21 14:18:03	tts	8ea790
 zh	fe0b2524	china/xia-shang-zhou	serena moss8b	48	2026-11-21 16:15:02	tts	5470072f03
 zh	fe79a9b5	china/xia-shang-zhou	serena moss8b	48	2026-11-22 02:01:49	tts	f2c380d055
 zh	ff4c246b	china/xia-shang-zhou	serena moss8b	48	2026-11-22 02:00:53	tts	8ecc470094
+en	0109657b	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:27	tts	906e880393
 en	03d30ef6	economics/econ-growth	serena moss8b	48	2026-11-23 02:51:55	tts	c7fa15f11a
 en	06236946	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	5979219658
 en	0660e619	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:15	tts	13b1353b04
@@ -14379,6 +14380,7 @@ en	21a3023d	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:15	tts	c084c
 en	236e6ad4	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:07	tts	475005f6ac
 en	261e1fc4	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:20	tts	cc142b06d6
 en	2a9dbc19	economics/econ-growth	serena moss8b	48	2026-11-23 02:51:32	tts	6ef6954ad8
+en	2d9acd2b	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:27	tts	91e63317ff
 en	2e68105a	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:11	tts	a38c2adf6f
 en	2eef02fc	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:11	tts	a98ecaee1f
 en	30d5757b	economics/econ-growth	serena moss8b	48	2026-11-23 02:52:56	tts	89141f5309
@@ -14400,6 +14402,7 @@ en	4c5fd548	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:34	tts	e143f
 en	4de89d07	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	fcbec6e83c
 en	54c02117	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	a7c89900f4
 en	5b73bdab	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	2fb6bba9a3
+en	5e31ddab	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:27	tts	05a6de1030
 en	5ec2a182	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:02	tts	6fc71a6b6a
 en	5f79ef02	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:34	tts	a71dcf6412
 en	62d37e91	economics/econ-growth	serena moss8b	48	2026-11-23 02:51:32	tts	43872b6324
@@ -14437,7 +14440,9 @@ en	c59f278c	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:20	tts	00388
 en	c5a3c5ef	economics/econ-growth	serena moss8b	48	2026-11-23 02:51:55	tts	47b8ec0ebc
 en	c9bb1963	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	49a83895d2
 en	d1f67363	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:06	tts	763b86e421
+en	d341c16c	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:27	tts	0eff8b4a29
 en	d3cd1245	economics/econ-growth	serena moss8b	48	2026-11-23 02:52:19	tts	3ac80f0c38
+en	e1b65ec1	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:27	tts	4758e65752
 en	e463f777	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:11	tts	fa0484c773
 en	e55ff8e2	economics/econ-growth	serena moss8b	48	2026-11-23 02:53:49	tts	0d9ff47421
 en	f6dbd086	economics/econ-growth	serena moss8b	48	2026-11-23 02:54:02	tts	fddbe1060e
@@ -16090,6 +16095,7 @@ en	20c62a10	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:31	tts	f132d5
 en	217db386	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:07	tts	4aa6277503
 en	218b567d	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	18090f67b9
 en	21c9379b	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:11	tts	391edc8e3f
+en	25c89753	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	44eb431abb
 en	2793ebb7	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:15	tts	26f35ed1fe
 en	29882436	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	4a799049d3
 en	2a7f435b	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:55	tts	0007ba49c9
@@ -16106,12 +16112,14 @@ en	33b49750	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:15	tts	ded43e
 en	35227dd1	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:47	tts	50cdcac135
 en	3623cad7	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:03	tts	baf963ff45
 en	3650f38e	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	2d017a59a2
+en	377c1a12	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	44e1ecc4f8
 en	37940195	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:02	tts	2cfc23482c
 en	37952a26	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:19	tts	615f6045af
 en	392ce6cb	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:32	tts	d208176cd3
 en	3af6ac30	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	ec4168fed8
 en	3b51e623	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:56	tts	172d75065d
 en	3dc528a2	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	63f0643c43
+en	4076affd	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	a4f4ed61bd
 en	42046561	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:15	tts	2027a56f09
 en	42644b8d	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:32	tts	0eebc3c17d
 en	4a5b42ae	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	39d007d4fb
@@ -16144,6 +16152,7 @@ en	6d6a14b9	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:06	tts	303cd9
 en	6e0719e2	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:55	tts	7baa0d13a8
 en	70d64222	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:15	tts	a748fd6e24
 en	71a49ddc	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:07	tts	f86b6d0f16
+en	73fd5a9a	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	a4e1bd7831
 en	759e0c28	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	4c39c0558e
 en	765ca769	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:07	tts	76ce402e83
 en	7712db8a	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:06	tts	09128e11da
@@ -16160,11 +16169,13 @@ en	85b81c68	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:19	tts	badc2c
 en	90247562	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	302c774a93
 en	905c2af4	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:40	tts	ac0502987a
 en	9187d31a	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:32	tts	7a767fdb68
+en	91e88e94	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	5fa5b869cf
 en	92e8942d	economics/econ-trade	serena moss8b	48	2026-11-23 02:52:40	tts	c6f01188b8
 en	93c6b13d	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:55	tts	630110ead0
 en	94e618b3	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:20	tts	7e87a603d4
 en	94e846ce	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:06	tts	7492402c81
 en	96c53548	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:32	tts	0891106225
+en	982fe50e	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	1bffc8fe54
 en	9d19c4fe	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:43	tts	957bf0650b
 en	9ef81032	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	ba41058b45
 en	9f4cc4c8	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:06	tts	297c3e2c24
@@ -16181,6 +16192,7 @@ en	a71212ef	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:47	tts	d1fcd0
 en	a789ab0a	economics/econ-trade	serena moss8b	48	2026-11-23 02:53:49	tts	f3f7cc0b80
 en	a8bbf2d7	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:11	tts	70f593f07e
 en	a9dbae80	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:55	tts	31a6f9f5b8
+en	ac0e33ac	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:27	tts	8fd77869e2
 en	ac7c05b3	economics/econ-trade	serena moss8b	48	2026-11-23 02:51:31	tts	db474d290e
 en	ad1a1e82	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:11	tts	0e9e8f4f44
 en	afbf85eb	economics/econ-trade	serena moss8b	48	2026-11-23 02:54:11	tts	de6c30d62d
@@ -40100,6 +40112,7 @@ en	8d721e0b	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:47:33	tts	4c
 en	9056fe41	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:49:15	tts	95c69f3737
 en	9079e344	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:47:13	tts	27b27f6811
 en	90fc1202	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:49:15	tts	74e95e6fc8
+en	9b0ca3df	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:54:27	tts	13e8385f2c
 en	9c91d570	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:48:12	tts	f05e62c9ec
 en	9da22093	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:49:30	tts	e7af9a15d7
 en	9e1b45db	worldhistory/wh-cold-war	serena moss8b	48	2026-11-23 02:47:13	tts	c0bfd926e6
