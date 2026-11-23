@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:19:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:20:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Updated 2026-11-23 02:19:45. Labels: finished / in progress / no audio / failed 
 | china/territory | finished | 314 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:22 |  |
 | china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 | 2026-11-23 01:59:41 |
 | china/unity-diplomacy | finished | 384 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:07 | 2026-11-23 02:16:04 |
-| china/xia-shang-zhou | finished | 429 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:16 |  |
+| china/xia-shang-zhou | finished | 429 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:16 | 2026-11-23 02:20:25 |
 | economics/econ-growth | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 19:46:19 |  |
 | economics/econ-personal-finance | finished | 175 | 0 | 0 | 0 | 0 | 2026-11-22 19:40:56 |  |
 | economics/econ-scarcity | finished | 165 | 0 | 0 | 0 | 0 | 2026-11-22 19:44:34 |  |
@@ -67,7 +67,7 @@ Updated 2026-11-23 02:19:45. Labels: finished / in progress / no audio / failed 
 | georgia/ga-civilrights | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:44 |  |
 | georgia/ga-civilwar | finished | 230 | 0 | 0 | 0 | 0 | 2026-11-22 19:15:01 |  |
 | georgia/ga-colony | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 19:08:34 |  |
-| georgia/ga-geography | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:42 |  |
+| georgia/ga-geography | in progress | 152 | 8 | 102 | 0 | 0 | 2026-11-23 02:20:34 |  |
 | georgia/ga-government | finished | 333 | 0 | 0 | 0 | 0 | 2026-11-22 19:18:59 |  |
 | georgia/ga-modern | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 19:06:11 |  |
 | georgia/ga-native | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:49 |  |
