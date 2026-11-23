@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 04:44:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:44:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -92,7 +92,7 @@ Updated 2026-11-23 04:44:48. Labels: finished / in progress / no audio / failed 
 | spanish/sp-hispanic-world | finished | 242 | 0 | 0 | 0 | 0 | 2026-11-23 03:47:03 |  |
 | spanish/sp-nouns-articles | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:46 |  |
 | spanish/sp-pronouns-ser | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:27 |  |
-| spanish/sp-questions | finished | 102 | 0 | 0 | 0 | 0 | 2026-11-23 03:48:38 |  |
+| spanish/sp-questions | finished | 102 | 0 | 0 | 0 | 0 | 2026-11-23 03:48:38 | 2026-11-23 04:44:51 |
 | spanish/sp-tener-venir | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:25 |  |
 | ushistory/us-civilrights | finished | 401 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:43 |  |
 | ushistory/us-civilwar | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 04:42:32 |  |
@@ -105,7 +105,7 @@ Updated 2026-11-23 04:44:48. Labels: finished / in progress / no audio / failed 
 | worldhistory/africa-americas-before-1500 | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:41 |  |
 | worldhistory/industrialization-reform | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 02:50:21 | 2026-11-23 03:12:33 |
 | worldhistory/russian-revolution-ussr | finished | 482 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:55 |  |
-| worldhistory/wh-cold-war | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 02:56:48 |  |
+| worldhistory/wh-cold-war | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:57 |  |
 | worldhistory/wh-exploration | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:37 |  |
 | worldhistory/wh-first-civilizations | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:25 |  |
 | worldhistory/wh-greece-rome | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:18 |  |
