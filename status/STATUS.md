@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 01:20:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:20:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Updated 2026-11-23 01:20:15. Labels: finished / in progress / no audio / failed 
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:15 |  |
 | china/seas-islands | in progress | 213 | 0 | 18 | 0 | 0 | 2026-11-23 01:18:57 |  |
 | china/silk-road-explorers | in progress | 355 | 2 | 18 | 0 | 0 | 2026-11-22 23:06:49 |  |
-| china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-22 23:04:39 |  |
+| china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:47 |  |
 | china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 |  |
 | china/strategy-battles | in progress | 470 | 1 | 5 | 0 | 0 | 2026-11-22 23:06:17 |  |
 | china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:51 |  |
