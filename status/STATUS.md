@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 03:01:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:02:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -94,7 +94,7 @@ Updated 2026-11-23 03:01:21. Labels: finished / in progress / no audio / failed 
 | spanish/sp-pronouns-ser | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:02 |  |
 | spanish/sp-questions | finished | 57 | 0 | 0 | 0 | 0 | 2026-11-22 20:14:36 | 2026-11-22 20:19:53 |
 | spanish/sp-tener-venir | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:09 |  |
-| ushistory/us-civilrights | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-22 19:28:37 |  |
+| ushistory/us-civilrights | finished | 401 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:16 |  |
 | ushistory/us-civilwar | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:27 |  |
 | ushistory/us-colonies | finished | 433 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:08 |  |
 | ushistory/us-constitution | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-23 02:58:53 |  |
