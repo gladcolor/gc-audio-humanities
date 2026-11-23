@@ -1455,25 +1455,26 @@
  },
  "georgia/ga-civilwar": {
   "counts": {
-   "done": 230,
+   "done": 256,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 230
+   "missing": 181,
+   "old": 9,
+   "total": 446
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "be24170b587e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/georgia/ga-civilwar.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Georgia in the Civil War",
    "zh": "南北战争中的佐治亚"
   },
-  "updated": "2026-11-22 19:15:01",
+  "updated": "2026-11-23 02:26:15",
   "verified": ""
  },
  "georgia/ga-colony": {
