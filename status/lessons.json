@@ -1809,11 +1809,11 @@
  },
  "politics/state-organs": {
   "counts": {
-   "done": 305,
+   "done": 349,
    "failed": 0,
    "held": 0,
-   "missing": 129,
-   "old": 6,
+   "missing": 88,
+   "old": 3,
    "total": 440
   },
   "fingerprint": "177bddecc584",
@@ -1828,7 +1828,7 @@
    "en": "State Organs of China",
    "zh": "我国的国家机构"
   },
-  "updated": "2026-11-23 01:17:48",
+  "updated": "2026-11-23 01:18:19",
   "verified": ""
  },
  "politics/state-system": {
