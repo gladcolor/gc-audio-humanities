@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:20:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:21:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -8,12 +8,12 @@ Updated 2026-11-23 02:20:34. Labels: finished / in progress / no audio / failed 
 | china/ancient-engineering | finished | 331 | 0 | 0 | 0 | 0 | 2026-11-23 01:41:20 |  |
 | china/ancient-science | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:30 | 2026-11-23 01:59:40 |
 | china/beijing-capital | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:29 | 2026-11-23 02:12:12 |
-| china/china-space | finished | 426 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:35 |  |
+| china/china-space | finished | 426 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:35 | 2026-11-23 02:21:15 |
 | china/chinese-spirit | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:35 | 2026-11-23 02:12:10 |
 | china/climate-rivers | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:04 | 2026-11-23 01:59:39 |
 | china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 | 2026-11-23 01:59:41 |
 | china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 | 2026-11-23 02:14:23 |
-| china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 |  |
+| china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 | 2026-11-23 02:20:39 |
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 | 2026-11-23 02:19:19 |
 | china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
 | china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 |  |
@@ -23,7 +23,7 @@ Updated 2026-11-23 02:20:34. Labels: finished / in progress / no audio / failed 
 | china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:26 | 2026-11-23 02:17:14 |
 | china/natural-wonders | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:38 | 2026-11-23 01:59:40 |
 | china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 | 2026-11-23 02:18:14 |
-| china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 |  |
+| china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 | 2026-11-23 02:21:22 |
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 | 2026-11-23 02:12:09 |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 | 2026-11-23 02:19:41 |
 | china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 | 2026-11-23 01:59:41 |
@@ -67,7 +67,7 @@ Updated 2026-11-23 02:20:34. Labels: finished / in progress / no audio / failed 
 | georgia/ga-civilrights | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:44 |  |
 | georgia/ga-civilwar | finished | 230 | 0 | 0 | 0 | 0 | 2026-11-22 19:15:01 |  |
 | georgia/ga-colony | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 19:08:34 |  |
-| georgia/ga-geography | in progress | 152 | 8 | 102 | 0 | 0 | 2026-11-23 02:20:34 |  |
+| georgia/ga-geography | in progress | 202 | 7 | 53 | 0 | 0 | 2026-11-23 02:21:33 |  |
 | georgia/ga-government | finished | 333 | 0 | 0 | 0 | 0 | 2026-11-22 19:18:59 |  |
 | georgia/ga-modern | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 19:06:11 |  |
 | georgia/ga-native | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:49 |  |

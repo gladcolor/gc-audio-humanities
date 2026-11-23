@@ -116,7 +116,7 @@
    "zh": "中国航天：从东方红到嫦娥"
   },
   "updated": "2026-11-23 01:15:35",
-  "verified": ""
+  "verified": "2026-11-23 02:21:15"
  },
  "china/chinese-spirit": {
   "counts": {
@@ -236,7 +236,7 @@
    "zh": "朝代大挑战：一张地图看四千年"
   },
   "updated": "2026-11-23 01:15:23",
-  "verified": ""
+  "verified": "2026-11-23 02:20:39"
  },
  "china/early-civilization": {
   "counts": {
@@ -476,7 +476,7 @@
    "zh": "人口、民族与自然资源"
   },
   "updated": "2026-11-23 01:36:34",
-  "verified": ""
+  "verified": "2026-11-23 02:21:22"
  },
  "china/prc": {
   "counts": {
@@ -1501,11 +1501,11 @@
  },
  "georgia/ga-geography": {
   "counts": {
-   "done": 152,
+   "done": 202,
    "failed": 0,
    "held": 0,
-   "missing": 102,
-   "old": 8,
+   "missing": 53,
+   "old": 7,
    "total": 262
   },
   "fingerprint": "198335b7e5ac",
@@ -1520,7 +1520,7 @@
    "en": "Georgia’s Geography & Regions",
    "zh": "佐治亚州的地理与五大地区"
   },
-  "updated": "2026-11-23 02:20:34",
+  "updated": "2026-11-23 02:21:33",
   "verified": ""
  },
  "georgia/ga-government": {
