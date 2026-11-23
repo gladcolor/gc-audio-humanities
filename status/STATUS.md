@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:15:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:15:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -52,7 +52,7 @@ Updated 2026-11-23 02:15:20. Labels: finished / in progress / no audio / failed 
 | geography/africa-asia | in progress | 248 | 0 | 9 | 0 | 0 | 2026-11-23 02:14:13 |  |
 | geography/americas | in progress | 218 | 1 | 22 | 0 | 0 | 2026-11-23 02:10:33 |  |
 | geography/asia-regional-studies | in progress | 469 | 0 | 39 | 0 | 0 | 2026-11-23 02:14:07 |  |
-| geography/climate-regions | finished | 319 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:18 |  |
+| geography/climate-regions | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:45 |  |
 | geography/continents-oceans | finished | 178 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:09 |  |
 | geography/europe-oceania | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:19 |  |
 | geography/landforms | finished | 321 | 0 | 0 | 0 | 0 | 2026-11-23 02:14:45 |  |
@@ -76,7 +76,7 @@ Updated 2026-11-23 02:15:20. Labels: finished / in progress / no audio / failed 
 | georgia/ga-revolution | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:10 |  |
 | politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 | 2026-11-23 02:12:11 |
 | politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 | 2026-11-23 02:12:12 |
-| politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 |  |
+| politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 | 2026-11-23 02:15:24 |
 | politics/development | finished | 250 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:03 |  |
 | politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 | 2026-11-23 02:12:11 |
 | politics/rights-duties | finished | 379 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:43 | 2026-11-23 02:12:11 |
