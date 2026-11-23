@@ -1334,10 +1334,10 @@
  },
  "geography/settlements-development": {
   "counts": {
-   "done": 375,
+   "done": 389,
    "failed": 0,
    "held": 0,
-   "missing": 89,
+   "missing": 75,
    "old": 0,
    "total": 464
   },
@@ -1353,7 +1353,7 @@
    "en": "Peoples, Settlements & Development",
    "zh": "居民与聚落、发展与合作"
   },
-  "updated": "2026-11-23 02:13:40",
+  "updated": "2026-11-23 02:13:44",
   "verified": ""
  },
  "geography/time-zones": {
