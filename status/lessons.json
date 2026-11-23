@@ -1742,11 +1742,11 @@
  },
  "politics/online-life": {
   "counts": {
-   "done": 269,
+   "done": 319,
    "failed": 0,
    "held": 0,
-   "missing": 218,
-   "old": 2,
+   "missing": 169,
+   "old": 1,
    "total": 489
   },
   "fingerprint": "93f72cea823f",
@@ -1761,7 +1761,7 @@
    "en": "Life Online: Digital Citizenship",
    "zh": "网络生活新空间"
   },
-  "updated": "2026-11-23 01:20:15",
+  "updated": "2026-11-23 01:23:18",
   "verified": ""
  },
  "politics/rights-duties": {
