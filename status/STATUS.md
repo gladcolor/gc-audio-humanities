@@ -1,15 +1,15 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:11:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:12:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | _shared | finished | 1335 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:07 |  |
 | china/ancient-engineering | finished | 331 | 0 | 0 | 0 | 0 | 2026-11-23 01:41:20 |  |
 | china/ancient-science | finished | 234 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:30 | 2026-11-23 01:59:40 |
-| china/beijing-capital | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:29 |  |
+| china/beijing-capital | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:29 | 2026-11-23 02:12:12 |
 | china/china-space | finished | 426 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:35 |  |
-| china/chinese-spirit | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:35 |  |
+| china/chinese-spirit | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:35 | 2026-11-23 02:12:10 |
 | china/climate-rivers | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:04 | 2026-11-23 01:59:39 |
 | china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 | 2026-11-23 01:59:41 |
 | china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 |  |
@@ -17,26 +17,26 @@ Updated 2026-11-23 02:11:27. Labels: finished / in progress / no audio / failed 
 | china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 |  |
 | china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
 | china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 |  |
-| china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 |  |
+| china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 | 2026-11-23 02:12:09 |
 | china/megaprojects | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:36 | 2026-11-23 01:59:40 |
-| china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:19 |  |
+| china/ming-qing | finished | 287 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:19 | 2026-11-23 02:12:09 |
 | china/modern-china | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:26 |  |
 | china/natural-wonders | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:38 | 2026-11-23 01:59:40 |
 | china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 |  |
 | china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 |  |
-| china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 |  |
+| china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 | 2026-11-23 02:12:09 |
 | china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 |  |
 | china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 | 2026-11-23 01:59:41 |
 | china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 |  |
 | china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 | 2026-11-23 01:59:41 |
 | china/revolution | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:15 |  |
-| china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 |  |
+| china/seas-islands | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:54 | 2026-11-23 02:12:11 |
 | china/silk-road-explorers | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:39:19 |  |
 | china/song-yuan | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:47 |  |
 | china/spring-warring | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:54 |  |
-| china/strategy-battles | finished | 476 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:36 |  |
+| china/strategy-battles | finished | 476 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:36 | 2026-11-23 02:12:10 |
 | china/sui-tang | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:17 | 2026-11-23 01:59:39 |
-| china/taiwan-hkm | finished | 406 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:02 |  |
+| china/taiwan-hkm | finished | 406 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:02 | 2026-11-23 02:12:10 |
 | china/terrain | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:43 | 2026-11-23 01:59:41 |
 | china/territory | finished | 314 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:22 |  |
 | china/three-gorges | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:13 | 2026-11-23 01:59:41 |
@@ -51,7 +51,7 @@ Updated 2026-11-23 02:11:27. Labels: finished / in progress / no audio / failed 
 | economics/econ-trade | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:49 |  |
 | geography/africa-asia | in progress | 172 | 1 | 84 | 0 | 0 | 2026-11-23 02:07:59 |  |
 | geography/americas | in progress | 218 | 1 | 22 | 0 | 0 | 2026-11-23 02:10:33 |  |
-| geography/asia-regional-studies | finished | 262 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:23 |  |
+| geography/asia-regional-studies | in progress | 269 | 0 | 239 | 0 | 0 | 2026-11-23 02:12:22 |  |
 | geography/climate-regions | finished | 319 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:18 |  |
 | geography/continents-oceans | finished | 142 | 0 | 0 | 0 | 0 | 2026-11-22 18:53:52 |  |
 | geography/europe-oceania | in progress | 129 | 1 | 99 | 0 | 0 | 2026-11-23 02:00:41 |  |
@@ -74,15 +74,15 @@ Updated 2026-11-23 02:11:27. Labels: finished / in progress / no audio / failed 
 | georgia/ga-reconstruction | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:11:09 |  |
 | georgia/ga-removal | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:34 |  |
 | georgia/ga-revolution | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 19:13:10 |  |
-| politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 |  |
-| politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 |  |
+| politics/china-world | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-23 01:25:59 | 2026-11-23 02:12:11 |
+| politics/constitution | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:58 | 2026-11-23 02:12:12 |
 | politics/core-values | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:40 |  |
 | politics/development | finished | 250 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:03 |  |
-| politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 |  |
-| politics/rights-duties | finished | 379 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:43 |  |
-| politics/rule-of-law | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:02 |  |
+| politics/online-life | finished | 489 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:35 | 2026-11-23 02:12:11 |
+| politics/rights-duties | finished | 379 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:43 | 2026-11-23 02:12:11 |
+| politics/rule-of-law | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:02 | 2026-11-23 02:12:11 |
 | politics/state-organs | finished | 440 | 0 | 0 | 0 | 0 | 2026-11-23 01:43:09 |  |
-| politics/state-system | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:51 |  |
+| politics/state-system | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:51 | 2026-11-23 02:12:11 |
 | politics/youth-emotions | finished | 498 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:56 |  |
 | spanish/sp-adjectives | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:06 | 2026-11-22 20:20:30 |
 | spanish/sp-alphabet | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:19 |  |

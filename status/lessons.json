@@ -92,7 +92,7 @@
    "zh": "北京：祖国的首都与中轴线"
   },
   "updated": "2026-11-23 01:26:29",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "china/china-space": {
   "counts": {
@@ -140,7 +140,7 @@
    "zh": "中国人的精神：科学家与建设者"
   },
   "updated": "2026-11-23 01:10:35",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "china/climate-rivers": {
   "counts": {
@@ -332,7 +332,7 @@
    "zh": "中国古代科技与四大发明"
   },
   "updated": "2026-11-23 01:09:49",
-  "verified": ""
+  "verified": "2026-11-23 02:12:09"
  },
  "china/megaprojects": {
   "counts": {
@@ -380,7 +380,7 @@
    "zh": "明清（至鸦片战争前）：统一多民族国家的巩固与发展"
   },
   "updated": "2026-11-23 01:08:19",
-  "verified": ""
+  "verified": "2026-11-23 02:12:09"
  },
  "china/modern-china": {
   "counts": {
@@ -500,7 +500,7 @@
    "zh": "中华人民共和国的成立与发展"
   },
   "updated": "2026-11-23 01:09:05",
-  "verified": ""
+  "verified": "2026-11-23 02:12:09"
  },
  "china/prc-founding": {
   "counts": {
@@ -644,7 +644,7 @@
    "zh": "中国的海洋与岛屿"
   },
   "updated": "2026-11-23 01:23:54",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "china/silk-road-explorers": {
   "counts": {
@@ -740,7 +740,7 @@
    "zh": "兵法与著名战役"
   },
   "updated": "2026-11-23 01:22:36",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "china/sui-tang": {
   "counts": {
@@ -788,7 +788,7 @@
    "zh": "台湾省与香港、澳门"
   },
   "updated": "2026-11-23 01:23:02",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "china/terrain": {
   "counts": {
@@ -1121,25 +1121,26 @@
  },
  "geography/asia-regional-studies": {
   "counts": {
-   "done": 262,
+   "done": 269,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 239,
    "old": 0,
-   "total": 262
+   "total": 508
   },
   "fingerprint": "2c077d3f0120",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/geography/asia-regional-studies.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Asia: Regions & Key Countries",
    "zh": "亚洲分区与典型国家"
   },
-  "updated": "2026-11-22 18:57:23",
+  "updated": "2026-11-23 02:12:22",
   "verified": ""
  },
  "geography/climate-regions": {
@@ -1676,7 +1677,7 @@
    "zh": "我们共同的世界 · 世界舞台上的中国"
   },
   "updated": "2026-11-23 01:25:59",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "politics/constitution": {
   "counts": {
@@ -1700,7 +1701,7 @@
    "zh": "坚持宪法至上"
   },
   "updated": "2026-11-23 01:26:58",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "politics/core-values": {
   "counts": {
@@ -1772,7 +1773,7 @@
    "zh": "网络生活新空间"
   },
   "updated": "2026-11-23 01:24:35",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "politics/rights-duties": {
   "counts": {
@@ -1796,7 +1797,7 @@
    "zh": "理解权利义务"
   },
   "updated": "2026-11-23 01:23:43",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "politics/rule-of-law": {
   "counts": {
@@ -1820,7 +1821,7 @@
    "zh": "走进法治天地 · 建设法治中国"
   },
   "updated": "2026-11-23 01:24:02",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "politics/state-organs": {
   "counts": {
@@ -1868,7 +1869,7 @@
    "zh": "我国的基本制度"
   },
   "updated": "2026-11-23 01:23:51",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "politics/youth-emotions": {
   "counts": {
