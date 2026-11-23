@@ -260,7 +260,7 @@
    "zh": "史前时期：中华文明的起源"
   },
   "updated": "2026-11-23 01:13:41",
-  "verified": ""
+  "verified": "2026-11-23 02:19:19"
  },
  "china/economy": {
   "counts": {
@@ -524,7 +524,7 @@
    "zh": "新中国的成立、巩固与社会主义建设的探索"
   },
   "updated": "2026-11-23 01:14:03",
-  "verified": ""
+  "verified": "2026-11-23 02:19:41"
  },
  "china/qin-han": {
   "counts": {
@@ -1121,15 +1121,15 @@
  },
  "geography/asia-regional-studies": {
   "counts": {
-   "done": 469,
+   "done": 508,
    "failed": 0,
    "held": 0,
-   "missing": 39,
+   "missing": 0,
    "old": 0,
    "total": 508
   },
   "fingerprint": "2c077d3f0120",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/geography/asia-regional-studies.html",
   "record_demand": true,
   "record_langs": [
@@ -1140,7 +1140,7 @@
    "en": "Asia: Regions & Key Countries",
    "zh": "亚洲分区与典型国家"
   },
-  "updated": "2026-11-23 02:14:07",
+  "updated": "2026-11-23 02:19:44",
   "verified": ""
  },
  "geography/climate-regions": {

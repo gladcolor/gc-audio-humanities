@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-humanities
 
-Updated 2026-11-23 02:19:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:19:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-23 02:19:15. Labels: finished / in progress / no audio / failed 
 | china/disasters | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:06 | 2026-11-23 01:59:41 |
 | china/division-integration | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:04 | 2026-11-23 02:14:23 |
 | china/dynasties | finished | 450 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:23 |  |
-| china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 |  |
+| china/early-civilization | finished | 413 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:41 | 2026-11-23 02:19:19 |
 | china/economy | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:59 | 2026-11-23 01:59:40 |
 | china/great-wall | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:40:16 |  |
 | china/inventions | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:49 | 2026-11-23 02:12:09 |
@@ -25,7 +25,7 @@ Updated 2026-11-23 02:19:15. Labels: finished / in progress / no audio / failed 
 | china/new-era | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:43 | 2026-11-23 02:18:14 |
 | china/population-resources | finished | 359 | 0 | 0 | 0 | 0 | 2026-11-23 01:36:34 |  |
 | china/prc | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:05 | 2026-11-23 02:12:09 |
-| china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 |  |
+| china/prc-founding | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:03 | 2026-11-23 02:19:41 |
 | china/qin-han | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:22 | 2026-11-23 01:59:41 |
 | china/reform-opening | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:34 | 2026-11-23 02:14:23 |
 | china/regions | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:10 | 2026-11-23 01:59:41 |
@@ -51,7 +51,7 @@ Updated 2026-11-23 02:19:15. Labels: finished / in progress / no audio / failed 
 | economics/econ-trade | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 19:26:49 |  |
 | geography/africa-asia | finished | 257 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:15 |  |
 | geography/americas | finished | 241 | 0 | 0 | 0 | 0 | 2026-11-23 02:17:10 |  |
-| geography/asia-regional-studies | in progress | 469 | 0 | 39 | 0 | 0 | 2026-11-23 02:14:07 |  |
+| geography/asia-regional-studies | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:44 |  |
 | geography/climate-regions | finished | 416 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:45 |  |
 | geography/continents-oceans | finished | 178 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:09 |  |
 | geography/europe-oceania | finished | 229 | 0 | 0 | 0 | 0 | 2026-11-23 02:15:19 |  |
